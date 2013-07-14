@@ -2,5 +2,9 @@
 
 This is just a list of links&hellip;
 
->Keep your face always toward the sunshine - and shadows will fall behind you.
-> &mdash; Walt Whitman
+> [Books](Books.md)
+> [Design](Design.md)
+> [Development](Development.md)
+> [Interesting](Intersting.md)
+> [Watching](Watching.md)
+> [Working](Working.md)
