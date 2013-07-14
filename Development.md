@@ -4,6 +4,7 @@
 * **ASCII.io - Record your terminal and share it no fuss** - http://ascii.io/
 
 ##Vim
+* **Vimcasts** - http://vimcasts.org/episodes/archive
 * **Vim Airline** - https://github.com/bling/vim-airline
 * **YouCompleteMe** - http://valloric.github.io/YouCompleteMe/
 * **Bling.vim** - http://bling.github.io/dotvim/
