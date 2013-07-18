@@ -24,6 +24,7 @@
 ##Email
 * **NSA Proof your email—setup your own server**—http://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
 * **Snowden's Email Service**—http://lavabit.com/
+* **Personalized Bulk Email using Google**—https://github.com/danielsz/mmailer
 
 ##Vim
 * **Vimcasts**—http://vimcasts.org/episodes/archive
