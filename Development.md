@@ -33,6 +33,8 @@
 * **Bling.vim**—http://bling.github.io/dotvim/
 * **Online Colorscheme Editor**—http://bytefluent.com/vivify/
 * **Notetaking…maybe I want this?**—https://github.com/xolox/vim-notes
+* **Vim Logo Font**—http://www.myfonts.com/fonts/linotype/crillee/
+* **Learn Vimscript the hard way**—http://learnvimscriptthehardway.stevelosh.com/chapters/51.html
 
 ##Keyboards
 * **A Modern Space Cadet**—http://stevelosh.com/blog/2012/10/a-modern-space-cadet/

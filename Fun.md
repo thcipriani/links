@@ -3,6 +3,10 @@
 * **Unsuck terrible business jargon**—http://unsuck-it.com/
 * **Lateral Thinking Puzzles**—http://www.rinkworks.com/brainfood/p/latreal1.shtml
 
+##ASCII
+* **T E X T F I L E S**—http://textfiles.com/directory.html
+* **Sixteen Color ANSI/ASCII Art**—http://sixteencolors.net/
+
 ##Gif
 * **Pronounciation**—http://www.bbc.co.uk/news/technology-22620473
 * **Search**—http://giphy.com/tags/tv
