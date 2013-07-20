@@ -9,6 +9,7 @@
 
 ##Fonts
 * **Redacted—keep your wireframes free of Ipsum**—https://github.com/christiannaths/Redacted-Font
+* **Font Hacking**—http://www.heydonworks.com/article/font-hacking
 
 ##UI/UX
 * **Archy**—https://en.wikipedia.org/wiki/Archy
