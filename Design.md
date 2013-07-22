@@ -3,6 +3,7 @@
 * **Sketch**—Photoshop alternative
   * http://www.bohemiancoding.com/sketch/
   * https://medium.com/design-ux/25545f6cb161
+* **Effeckt.css**—http://h5bp.github.io/Effeckt.css/dist/
 
 ## Articles
 * **Sketching with CSS—layouts with flexbox**—http://www.sketchingwithcss.com/samplechapter/
