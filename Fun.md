@@ -14,3 +14,6 @@
 ##Videos
 * **Bootleg Fireworks**—http://www.youtube.com/watch?v=NRItYDKSqpQ 
 * **Rock-a-Fire In This Club**—http://www.youtube.com/watch?v=b90Cf6ARscc
+
+##Music
+* **4chan.org/mu chart**—http://images4.wikia.nocookie.net/__cb20120629173013/mu4chan/images/e/e4/General_essentials_with_kanye.jpg
