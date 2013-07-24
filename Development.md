@@ -48,6 +48,7 @@
 * **PHP-FPM Puppet Module**—https://forge.puppetlabs.com/thias/php
 
 ##Javascript
+* **iOS supported JS Events**—http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5
 * **Touch Event Library**—http://eightmedia.github.io/hammer.js/
 * **Date/Time Library**—http://momentjs.com/
 * **Money Library**—http://josscrowcroft.github.io/accounting.js/
