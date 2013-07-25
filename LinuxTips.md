@@ -32,6 +32,10 @@ Contents
 
 **System Administration:**
 - <a href="#cron">Cron</a>
+- <a href="#adding-users">User Admin</a>
+
+**Stupid Fun**
+- <a href="#fun-commands">Fun Fun</a>
 
 
 
