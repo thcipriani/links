@@ -249,7 +249,7 @@ search all files except javascript files          | ack --nojs <pattern>
 
 Adding Users:
 =========
-- Difference between adduser & useradd                                          | (tl;dr no difference in Centos, use useradd in debian)[http://www.garron.me/en/go2linux/useradd-vs-adduser-ubuntu-linux.html]
+- Difference between adduser & useradd                                          | [tl;dr no difference in Centos, use useradd in debian](http://www.garron.me/en/go2linux/useradd-vs-adduser-ubuntu-linux.html)
 - Add a user                                                                    | `useradd <new_username>`
 - Add an existing user to a group                                               | `usermod -a -G <new_username>`
 - Find group ids for a user                                                     | `id -G <username>`
