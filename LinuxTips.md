@@ -28,7 +28,7 @@ Contents
 **Manipulating Text:**
 - <a href="#cut">Cut—easy shaping of delimited data</a>
 - <a href="#sed--find-and-replace">Sed—scripted find and replace</a>
-- <a href="#awk--like-sed-but-different">Cut—easy shaping of delimited data</a>
+- <a href="#awk--like-sed-but-different">Awk—programmatically shape data</a>
 
 **System Administration:**
 - <a href="#cron">Cron</a>
@@ -92,26 +92,26 @@ File System Hierarchy
 
 Run down of the FSH:
 -------
-- `/`          | Root of the filesystem
-- `/bin`       | system binaries—computer needs to boot
-- `/boot`      | boot loader (/boot/grub/grub.conf or menu.lst), Linux kernel (/boot/vmlinuz)
-- `/dev`       | System devices (more info: http://en.wikipedia.org/wiki/Device_file)
-- `/etc`       | System-wide configuration files
-- `/home`      | User configuration files, users can ususally only write files in their home directory
-- `/lib`       | shared library files used by system binaries
-- `/media`     | auto-mounting removable media (CDRom, USB Drives, etc)
-- `/mnt`       | temp filesystems (USB Drives mounted manually)
-- `/opt`       | "optional software", Libreoffice installs here, some sysadmins like to install software here
-- `/proc`      | provides kernel information as files
-- `/root`      | home directory for root user
-- `/srv`       | media served by the system - I think it makes sense to have website data here rather than /var/www
-- `/sbin`      | sysadmin binaries (e.g., /sbin/ifconfig gives you ip information)
-- `/tmp`       | temporary storage - cleaned frequently
-- `/usr`       | programs, libraries etc for all system users
-- `/usr/bin`   | programs installed for all users by linux (e.g. /usr/bin/find)
-- `/usr/local` | sysadmins (me) download and install things here (executables in /usr/local/bin, source files in /usr/local/src)
-- `/usr/sbin`  | more sysadmin binaries (e.g., /usr/sbin/usermod lets me modify a user)
-- `/var`       | data that chanes frequently is stored here (e.g. /var/log for log files /var/www/ for webservers)
+- `/`          — Root of the filesystem
+- `/bin`       — system binaries—computer needs to boot
+- `/boot`      — boot loader (/boot/grub/grub.conf or menu.lst), Linux kernel (/boot/vmlinuz)
+- `/dev`       — System devices (more info: http://en.wikipedia.org/wiki/Device_file)
+- `/etc`       — System-wide configuration files
+- `/home`      — User configuration files, users can ususally only write files in their home directory
+- `/lib`       — shared library files used by system binaries
+- `/media`     — auto-mounting removable media (CDRom, USB Drives, etc)
+- `/mnt`       — temp filesystems (USB Drives mounted manually)
+- `/opt`       — "optional software", Libreoffice installs here, some sysadmins like to install software here
+- `/proc`      — provides kernel information as files
+- `/root`      — home directory for root user
+- `/srv`       — media served by the system - I think it makes sense to have website data here rather than /var/www
+- `/sbin`      — sysadmin binaries (e.g., /sbin/ifconfig gives you ip information)
+- `/tmp`       — temporary storage - cleaned frequently
+- `/usr`       — programs, libraries etc for all system users
+- `/usr/bin`   — programs installed for all users by linux (e.g. /usr/bin/find)
+- `/usr/local` — sysadmins (me) download and install things here (executables in /usr/local/bin, source files in /usr/local/src)
+- `/usr/sbin`  — more sysadmin binaries (e.g., /usr/sbin/usermod lets me modify a user)
+- `/var`       — data that chanes frequently is stored here (e.g. /var/log for log files /var/www/ for webservers)
 
 
 ENV
@@ -121,20 +121,20 @@ ENV
 
 Command Examples:
 ----------
-- check shell environment                            | `cat /etc/passwd | grep `whoami` | cut -d ':' -f 7`
-- check what shell environments are installed        | `cat /etc/shells`
-- change your default shell                          | `chsh `whoami` -s <valid login shell>`
-- change another user’s shell                        | `sudo chsh <username> -s <valid login shell>`
-- switch users                                       | `su <username> (or su - to switch to root)`
-- list all variables on your environment             | `env`
-- set temp variable for shell session                | `export VARNAME=value`
-- where env vars are set                             | `/home/<username>/.bashrc`
-- "                                                  | `/home/<username>/.bash_profile`
-- "                                                  | `grep -P '(^\s+\.|^\s+source)' .bashrc`
-- "                                                  | `grep -P '(^\s+\.|^\s+source)' .bash_profile`
-- check specific variable                            | `echo $<varname>`
-- check system path                                  | `echo $PATH`
-- check if a program is installed and in system path | `which <program_name>`
+- check shell environment                            <br /> `cat /etc/passwd | grep `whoami` | cut -d ':' -f 7`
+- check what shell environments are installed        <br /> `cat /etc/shells`
+- change your default shell                          <br /> `chsh `whoami` -s <valid login shell>`
+- change another user’s shell                        <br /> `sudo chsh <username> -s <valid login shell>`
+- switch users                                       <br /> `su <username> (or su - to switch to root)`
+- list all variables on your environment             <br /> `env`
+- set temp variable for shell session                <br /> `export VARNAME=value`
+- where env vars are set                             <br /> `/home/<username>/.bashrc`
+                                                     <br /> `/home/<username>/.bash_profile`
+                                                     <br /> `grep -P '(^\s+\.|^\s+source)' .bashrc`
+                                                     <br /> `grep -P '(^\s+\.|^\s+source)' .bash_profile`
+- check specific variable                            <br /> `echo $<varname>`
+- check system path                                  <br /> `echo $PATH`
+- check if a program is installed and in system path <br /> `which <program_name>`
 
 
 <hr />
@@ -203,8 +203,6 @@ ACK – code search
   on debian: apt-get install ack-grep
   on centos: yum install ack
 
-- **AWK tutorial**—http://www.grymoire.com/Unix/Awk.html
-
 Ack Examples:
 -------
 - search for a pattern in all files recursively     | `ack <pattern>`
@@ -264,6 +262,7 @@ AWK – Like sed but different
 - I use a mix of cut, sed and grep instead of Awk
 - Usage examples: http://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/
 - Oneliners: http://www.pement.org/awk/awk1line.txt
+- **AWK tutorial**—http://www.grymoire.com/Unix/Awk.html
 
 
 <hr />
