@@ -63,26 +63,26 @@ File System Hierarchy
 
 Run down of the FSH:
 -------
-- /          | Root of the filesystem
-- /bin       | system binaries—computer needs to boot
-- /boot      | boot loader (/boot/grub/grub.conf or menu.lst), Linux kernel (/boot/vmlinuz)
-- /dev       | System devices (more info: http://en.wikipedia.org/wiki/Device_file)
-- /etc       | System-wide configuration files
-- /home      | User configuration files, users can ususally only write files in their home directory
-- /lib       | shared library files used by system binaries
-- /media     | auto-mounting removable media (CDRom, USB Drives, etc)
-- /mnt       | temp filesystems (USB Drives mounted manually)
-- /opt       | "optional software", Libreoffice installs here, some sysadmins like to install software here
-- /proc      | provides kernel information as files
-- /root      | home directory for root user
-- /srv       | media served by the system - I think it makes sense to have website data here rather than /var/www
-- /sbin      | sysadmin binaries (e.g., /sbin/ifconfig gives you ip information)
-- /tmp       | temporary storage - cleaned frequently
-- /usr       | programs, libraries etc for all system users
-- /usr/bin   | programs installed for all users by linux (e.g. /usr/bin/find)
-- /usr/local | sysadmins (me) download and install things here (executables in /usr/local/bin, source files in /usr/local/src)
-- /usr/sbin  | more sysadmin binaries (e.g., /usr/sbin/usermod lets me modify a user)
-- /var       | data that chanes frequently is stored here (e.g. /var/log for log files /var/www/ for webservers)
+- **/**          | Root of the filesystem
+- **/bin**       | system binaries—computer needs to boot
+- **/boot**      | boot loader (/boot/grub/grub.conf or menu.lst), Linux kernel (/boot/vmlinuz)
+- **/dev**       | System devices (more info: http://en.wikipedia.org/wiki/Device_file)
+- **/etc**       | System-wide configuration files
+- **/home**      | User configuration files, users can ususally only write files in their home directory
+- **/lib**       | shared library files used by system binaries
+- **/media**     | auto-mounting removable media (CDRom, USB Drives, etc)
+- **/mnt**       | temp filesystems (USB Drives mounted manually)
+- **/opt**       | "optional software", Libreoffice installs here, some sysadmins like to install software here
+- **/proc**      | provides kernel information as files
+- **/root**      | home directory for root user
+- **/srv**       | media served by the system - I think it makes sense to have website data here rather than /var/www
+- **/sbin**      | sysadmin binaries (e.g., /sbin/ifconfig gives you ip information)
+- **/tmp**       | temporary storage - cleaned frequently
+- **/usr**       | programs, libraries etc for all system users
+- **/usr/bin**   | programs installed for all users by linux (e.g. /usr/bin/find)
+- **/usr/local** | sysadmins (me) download and install things here (executables in /usr/local/bin, source files in /usr/local/src)
+- **/usr/sbin**  | more sysadmin binaries (e.g., /usr/sbin/usermod lets me modify a user)
+- **/var**       | data that chanes frequently is stored here (e.g. /var/log for log files /var/www/ for webservers)
 
 
 FIND
@@ -122,19 +122,22 @@ Command Examples (http://sed.sourceforge.net/sed1line.txt):
 -Change day into night in a file                        | `cat <somefile.txt> | sed -e 's/day/night/g' > newfile.txt`
 -ReName all text files to <whatever>-old.txt            | `find . -maxdepth 1 -type f -iname '*.txt' | sed -e 's,\(\(.*\).txt\),mv "\1" "\2-old.txt",g' | /bin/bash`
 -ReName all those text files back to <whatever>-old.txt | `find . -maxdepth 1 -type f -iname '*.txt' | sed -e 's,\(.*\)-old.txt,mv "\0" "\1.txt",g' | /bin/bash`
--Add line to file after 3rd line                        | ```bash 
-sed '3 a\
-some line' <somefile>.txt
-```
--Add line to file after regex pattern                   | ```bash
-sed '/pattern/a\
-some line' <somefile>.txt
-```
--Add a line at the end of the file                      | ```bash
-sed '$ a\
-some line at the end' <somefile>.txt
-```
--Print all lines between n1 and n2                      | `sed -n 'n1,n2p'`
+-Add line to file after 3rd line
+    ```bash 
+    sed '3 a\
+    some line' <somefile>.txt
+    ```
+-Add line to file after regex pattern
+    ```bash
+    sed '/pattern/a\
+    some line' <somefile>.txt
+    ```
+-Add a line at the end of the file
+    ```bash
+    sed '$ a\
+    some line at the end' <somefile>.txt
+    ```
+-Print all lines between n1 and n2 | `sed -n 'n1,n2p'`
 
 
 CUT 
@@ -275,7 +278,7 @@ http://askubuntu.com
 
 Fun Commands
 ==========
-* **Generate a list of your most used commands**— 
-```bash
-history | sed "s/^[0-9 ]*//" | sed "s/ *| */\n/g" | awk '{print $1}' | sort | uniq -c | sort -rn | head -n 100 > commands.txt
-```
+- **Generate a list of your most used commands**— 
+    ```bash
+    history | sed "s/^[0-9 ]*//" | sed "s/ *| */\n/g" | awk '{print $1}' | sort | uniq -c | sort -rn | head -n 100 > commands.txt
+    ```
