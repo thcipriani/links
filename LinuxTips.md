@@ -15,20 +15,29 @@ Unix Philosphy
 
 Contents
 =========
-> **Basics:**
-> - <a href="#text">Text and I/O</a>
-> - <a href="#file-system-hierarchy">File System Hierarchy</a>
-> - <a href="#env">Your Shell Environment</a>
-> **Working With Textfiles:**
-> - <a href="#find">Linux Find</a>
-> - <a href="#grep--sorting-output">Grep</a>
-> - <a href="#ack--code-search">Ack</a>
-> **Manipulating Text:**
-> - <a href="#cut">Cut—easy shaping of delimited data</a>
-> - <a href="#sed--find-and-replace">Sed—scripted find and replace</a>
-> - <a href="#awk--like-sed-but-different">Cut—easy shaping of delimited data</a>
-> **System Administration:**
-> - <a href="#cron">Cron</a>
+**Basics:**
+- <a href="#text">Text and I/O</a>
+- <a href="#file-system-hierarchy">File System Hierarchy</a>
+- <a href="#env">Your Shell Environment</a>
+
+**Working With Textfiles:**
+- <a href="#find">Linux Find</a>
+- <a href="#grep--sorting-output">Grep</a>
+- <a href="#ack--code-search">Ack</a>
+
+**Manipulating Text:**
+- <a href="#cut">Cut—easy shaping of delimited data</a>
+- <a href="#sed--find-and-replace">Sed—scripted find and replace</a>
+- <a href="#awk--like-sed-but-different">Cut—easy shaping of delimited data</a>
+
+**System Administration:**
+- <a href="#cron">Cron</a>
+
+
+
+<hr />
+
+
 
 TEXT
 =======
