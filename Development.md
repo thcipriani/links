@@ -45,7 +45,7 @@
 ##Puppet
 * **GUI to create PHP/Puppet VMs**—https://puphpet.com/
 * **Vagrant &amp; Puppet dev environments**—http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/
-* **PHP-FPM Puppet Module**—https://forge.puppetlabs.com/thias/php
+* **Puppet 3 Beginners Guide**—https://tutsplus.com/ebook/puppet-3-beginners-guide/
 
 ##Javascript
 * **iOS supported JS Events**—http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5
@@ -55,3 +55,10 @@
 * **Money Library**—http://josscrowcroft.github.io/accounting.js/
 * **Keyboard Shortcuts Library**—https://github.com/ccampbell/mousetrap
 * **Required Reading**—http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/
+
+##CSS
+* **CSS Guidelines**—https://github.com/csswizardry/CSS-Guidelines
+
+##Ruby
+* **Turn a Rails app into a Debian Package in Minutes**—https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
+* **Distributing command line applications—from ruby to go**—http://codegangsta.io/blog/2013/07/21/creating-cli-applications-in-go
