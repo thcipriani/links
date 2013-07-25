@@ -249,14 +249,14 @@ search all files except javascript files          | ack --nojs <pattern>
 
 Adding Users:
 =========
-Difference between adduser & useradd                                          | (tl;dr no difference in Centos, use useradd in debian)[http://www.garron.me/en/go2linux/useradd-vs-adduser-ubuntu-linux.html]
-Add a user                                                                    | `useradd <new_username>`
-Add an existing user to a group                                               | `usermod -a -G <new_username>`
-Find group ids for a user                                                     | `id -G <username>`
-Find groupnames for a user                                                    | `groups <username>`
-Edit defaults for adding a user (e.g., the user's shell, default group etc)   | `sudo vim /etc/default/useradd`
-Edit default files created for a user (e.g., .profile, .bashrc, .vimrc, etc ) | `sudo cp <file_to_add> /etc/skel/`
-Manage group permissions                                                      | `visudo` checkout lines that begin with `%<groupname>` or `<username>`
+- Difference between adduser & useradd                                          | (tl;dr no difference in Centos, use useradd in debian)[http://www.garron.me/en/go2linux/useradd-vs-adduser-ubuntu-linux.html]
+- Add a user                                                                    | `useradd <new_username>`
+- Add an existing user to a group                                               | `usermod -a -G <new_username>`
+- Find group ids for a user                                                     | `id -G <username>`
+- Find groupnames for a user                                                    | `groups <username>`
+- Edit defaults for adding a user (e.g., the user's shell, default group etc)   | `sudo vim /etc/default/useradd`
+- Edit default files created for a user (e.g., .profile, .bashrc, .vimrc, etc ) | `sudo cp <file_to_add> /etc/skel/`
+- Manage group permissions                                                      | `visudo` checkout lines that begin with `%<groupname>` or `<username>`
 
 
 Additional Resources:
