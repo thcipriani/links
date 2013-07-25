@@ -7,10 +7,10 @@ UNIX TIPS
 
 Unix Philosphy
 =============
-> This is the Unix philosophy: 
-> Write programs that do one thing and do it well. 
-> Write programs to work together. 
-> Write programs to handle text streams, because that is a universal interface.
+> This is the Unix philosophy: <br />
+> Write programs that do one thing and do it well.  <br />
+> Write programs to work together. <br />
+> Write programs to handle text streams, because that is a universal interface. <br />
     – Douglas McIlroy
 
 Contents
@@ -116,7 +116,7 @@ Run down of the FSH:
 
 ENV
 ======
-- Dictates your bash environment
+- It is used to either print a list of environment variables or run another utility in an altered environment without having to modify the currently existing environment
 - Usually located at /usr/bin/env
 
 Command Examples:
