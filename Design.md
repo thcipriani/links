@@ -16,6 +16,7 @@
 ##Fonts
 * **Redacted—keep your wireframes free of Ipsum**—https://github.com/christiannaths/Redacted-Font
 * **Font Hacking**—http://www.heydonworks.com/article/font-hacking
+* **The Art of Hand Lettering**—http://theartofhandlettering.tumblr.com/
 
 ##Typography
 * **CopyPasteCharacter.com**—http://copypastecharacter.com/
