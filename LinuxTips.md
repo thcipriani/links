@@ -13,6 +13,22 @@ Unix Philosphy
 > Write programs to handle text streams, because that is a universal interface.
     – Douglas McIlroy
 
+Contents
+=========
+> Basics:
+> <a href="#text">Text and I/O</a>
+> <a href="#file-system-hierarchy">File System Hierarchy</a>
+> <a href="#env">Your Shell Environment</a>
+> Working With Textfiles:
+> <a href="#find">Linux Find</a>
+> <a href="#grep--sorting-output">Grep</a>
+> <a href="#ack--code-search">Ack</a>
+> Manipulating Text:
+> <a href="#cut">Cut—easy shaping of delimited data</a>
+> <a href="#sed--find-and-replace">Sed—scripted find and replace</a>
+> <a href="#awk--like-sed-but-different">Cut—easy shaping of delimited data</a>
+> System Administration:
+> <a href="#cron">Cron</a>
 
 TEXT
 =======
@@ -85,6 +101,32 @@ Run down of the FSH:
 - `/var`       | data that chanes frequently is stored here (e.g. /var/log for log files /var/www/ for webservers)
 
 
+ENV
+======
+- Dictates your bash environment
+- Usually located at /usr/bin/env
+
+Command Examples:
+----------
+- check shell environment                            | `cat /etc/passwd | grep `whoami` | cut -d ':' -f 7`
+- check what shell environments are installed        | `cat /etc/shells`
+- change your default shell                          | `chsh `whoami` -s <valid login shell>`
+- change another user’s shell                        | `sudo chsh <username> -s <valid login shell>`
+- switch users                                       | `su <username> (or su - to switch to root)`
+- list all variables on your environment             | `env`
+- set temp variable for shell session                | `export VARNAME=value`
+- where env vars are set                             | `/home/<username>/.bashrc`
+- "                                                  | `/home/<username>/.bash_profile`
+- "                                                  | `grep -P '(^\s+\.|^\s+source)' .bashrc`
+- "                                                  | `grep -P '(^\s+\.|^\s+source)' .bash_profile`
+- check specific variable                            | `echo $<varname>`
+- check system path                                  | `echo $PATH`
+- check if a program is installed and in system path | `which <program_name>`
+
+
+<hr />
+
+
 FIND
 ========
 - Find stuff in the Filesystem Heirarchy
@@ -109,102 +151,6 @@ Command Examples:
 - All files smaller than 10 KB                        | `find . -type f -size -10K`
 - Remove all zip files bigger than 100MB              | `find . -name "*.zip" -size +100M -exec rm -i "{}" \;`
 - Remove all files in /tmp older than 2 days          | `find /tmp -maxdepth 1 -type f -mtime +2 -exec rm -i "{}" \;`
-
-
-SED – find and replace
-=======
-- Used to find and replace in text stream
-- Can be used to append to a file after or before a given pattern
-- I mainly use it with Unix Pipes (e.g., with STDIN)
-
-Command Examples (http://sed.sourceforge.net/sed1line.txt):
------------
-- Change day into night in a file                        | `cat <somefile.txt> | sed -e 's/day/night/g' > newfile.txt`
-- ReName all text files to <whatever>-old.txt            | `find . -maxdepth 1 -type f -iname '*.txt' | sed -e 's,\(\(.*\).txt\),mv "\1" "\2-old.txt",g' | /bin/bash`
-- ReName all those text files back to <whatever>-old.txt | `find . -maxdepth 1 -type f -iname '*.txt' | sed -e 's,\(.*\)-old.txt,mv "\0" "\1.txt",g' | /bin/bash`
-- Add line to file after 3rd line
-     ```bash 
-     sed '3 a\
-     some line' <somefile>.txt
-     ```
-- Add line to file after regex pattern
-     ```bash
-     sed '/pattern/a\
-     some line' <somefile>.txt
-     ```
-- Add a line at the end of the file
-     ```bash
-     sed '$ a\
-     some line at the end' <somefile>.txt
-     ```
-- Print all lines between n1 and n2 | `sed -n 'n1,n2p'`
-
-
-CUT 
-=====
-- Print a column base on a delimeter
-- The default delimeter is the tab character
-- Works with Pipes to STDIN
-- Useage: `cut -d "<delimeter" -f "<field>"`
-
-Command Examples:
----------
-- `/etc/passwd` is delimited by ":" so… first column | `cat /etc/passwd | cut -d ":" -f $1`
-- `/etc/passwd` 7th column                           | `cat /etc/passwd | cut -d ":" -f $7`
-
-
-AWK - Like sed but different
-=====
-- I use a mix of cut, sed and grep instead of Awk
-- Usage examples: http://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/
-- Oneliners: http://www.pement.org/awk/awk1line.txt
-
-ENV
-======
-- Dictates your bash environment
-- Usually located at /usr/bin/env
-
-Command Examples:
-----------
-- check shell environment                            | `cat /etc/passwd | grep `whoami` | cut -d ':' -f 7`
-- check what shell environments are installed        | `cat /etc/shells`
-- change your default shell                          | `chsh `whoami` -s <valid login shell>`
-- change another user’s shell                        | `sudo chsh <username> -s <valid login shell>`
-- switch users                                       | `su <username> (or su - to switch to root)`
-- list all variables on your environment             | `env`
-- set temp variable for shell session                | `export VARNAME=value`
-- where env vars are set                             | `/home/<username>/.bashrc`
-- "                                                  | `/home/<username>/.bash_profile`
-- "                                                  | `grep -P '(^\s+\.|^\s+source)' .bashrc`
-- "                                                  | `grep -P '(^\s+\.|^\s+source)' .bash_profile`
-- check specific variable                            | `echo $<varname>`
-- check system path                                  | `echo $PATH`
-- check if a program is installed and in system path | `which <program_name>`
-
-
-CRON
-======
-- Cronjobs are sheduled system tasks
-- Cronjobs are per user. 
-  The root user has a different set of crons than the Tyler user
-- Crontab is the program used to manage cronjobs
-- To edit cronjobs use the command "crontab -e"
-
-Cronjob Time Syntax:
-------------
-- m h dom m dow <what_to_do>
-  - m - minute(0–59)
-  - h - hour(0–23)
-  - dom - day-of-month(0–31)
-  - m - month(0-11)
-  - dow - day-of-week(0–6)
-  - <what_to_do> - anycommand
-
-Crontab Examples:
--------
-- Execute <command> every 15 minutes                   | `*/15 * * * * <command>`
-- Execute <command> at top of every hour on monday     | `0 * * * 1 <command>`
-- Execute <command> at 10 after, 15 after and 20 after | `10,15,20 * * * * <command>`
 
 
 GREP – sorting output
@@ -254,6 +200,87 @@ Ack Examples:
 - search all files except javascript files          | `ack --nojs <pattern>`
 
 
+<hr />
+
+
+CUT 
+=====
+- Print a column base on a delimeter
+- The default delimeter is the tab character
+- Works with Pipes to STDIN
+- Useage: `cut -d "<delimeter" -f "<field>"`
+
+Command Examples:
+---------
+- `/etc/passwd` is delimited by ":" so… first column | `cat /etc/passwd | cut -d ":" -f $1`
+- `/etc/passwd` 7th column                           | `cat /etc/passwd | cut -d ":" -f $7`
+
+
+SED – find and replace
+=======
+- Used to find and replace in text stream
+- Can be used to append to a file after or before a given pattern
+- I mainly use it with Unix Pipes (e.g., with STDIN)
+- http://sed.sourceforge.net/sed1line.txt
+
+Command Examples:
+-----------
+- Change day into night in a file                        | `cat <somefile.txt> | sed -e 's/day/night/g' > newfile.txt`
+- ReName all text files to <whatever>-old.txt            | `find . -maxdepth 1 -type f -iname '*.txt' | sed -e 's,\(\(.*\).txt\),mv "\1" "\2-old.txt",g' | /bin/bash`
+- ReName all those text files back to <whatever>-old.txt | `find . -maxdepth 1 -type f -iname '*.txt' | sed -e 's,\(.*\)-old.txt,mv "\0" "\1.txt",g' | /bin/bash`
+- Add line to file after 3rd line
+     ```bash 
+     sed '3 a\
+     some line' <somefile>.txt
+     ```
+- Add line to file after regex pattern
+     ```bash
+     sed '/pattern/a\
+     some line' <somefile>.txt
+     ```
+- Add a line at the end of the file
+     ```bash
+     sed '$ a\
+     some line at the end' <somefile>.txt
+     ```
+- Print all lines between n1 and n2 | `sed -n 'n1,n2p'`
+
+
+AWK – Like sed but different
+=====
+- I use a mix of cut, sed and grep instead of Awk
+- Usage examples: http://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/
+- Oneliners: http://www.pement.org/awk/awk1line.txt
+
+
+<hr />
+
+
+CRON
+======
+- Cronjobs are sheduled system tasks
+- Cronjobs are per user. 
+  The root user has a different set of crons than the Tyler user
+- Crontab is the program used to manage cronjobs
+- To edit cronjobs use the command `crontab -e`
+
+Cronjob Time Syntax:
+------------
+- m h dom m dow <what_to_do>
+  - m - minute(0–59)
+  - h - hour(0–23)
+  - dom - day-of-month(0–31)
+  - m - month(0-11)
+  - dow - day-of-week(0–6)
+  - <what_to_do> - anycommand
+
+Crontab Examples:
+-------
+- Execute <command> every 15 minutes                   | `*/15 * * * * <command>`
+- Execute <command> at top of every hour on monday     | `0 * * * 1 <command>`
+- Execute <command> at 10 after, 15 after and 20 after | `10,15,20 * * * * <command>`
+
+
 Adding Users:
 =========
 - Difference between adduser & useradd                                          | [tl;dr no difference in Centos, use useradd in debian](http://www.garron.me/en/go2linux/useradd-vs-adduser-ubuntu-linux.html)
@@ -266,11 +293,8 @@ Adding Users:
 - Manage group permissions                                                      | `visudo` checkout lines that begin with `%<groupname>` or `<username>`
 
 
-Additional Resources:
-===============
-http://www.thegeekstuff.com
-http://www.linuxquestions.org
-http://askubuntu.com
+<hr />
+
 
 Fun Commands
 ==========
@@ -278,3 +302,6 @@ Fun Commands
     ```bash
     history | sed "s/^[0-9 ]*//" | sed "s/ *| */\n/g" | awk '{print $1}' | sort | uniq -c | sort -rn | head -n 100 > commands.txt
     ```
+- **Nyan Cat**—`telnet miku.acm.uiuc.edu`
+- **RickRollrc**—`curl -L http://bit.ly/10hA8iC | bash`
+- **Star Wars**—`telnet towel.blinkenlights.nl`
