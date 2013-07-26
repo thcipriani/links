@@ -8,6 +8,7 @@
 ##Articles
 * **Learn C You Cheater**—https://medium.com/tech-talk/afcfa2920c17
 * **4 Steps to Google Without a Degree**—https://medium.com/this-happened-to-me/8f381aa6bd5e
+* **WebPlatformDaily**—http://webplatformdaily.org/
 
 ##Books
 * **Computer Science from the Bottom Up**—http://www.bottomupcs.com/
