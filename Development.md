@@ -56,6 +56,8 @@
 * **Money Library**—http://josscrowcroft.github.io/accounting.js/
 * **Keyboard Shortcuts Library**—https://github.com/ccampbell/mousetrap
 * **Required Reading**—http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/
+* **Object Oriented Javascript Guide**—http://www.objectplayground.com/
+* **Backbone.JS deconstructed by Cody Lindley**—http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed
 
 ##CSS
 * **CSS Guidelines**—https://github.com/csswizardry/CSS-Guidelines
