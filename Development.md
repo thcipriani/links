@@ -15,6 +15,8 @@
 
 ##Linux
 * **Useful Unix for Data Science**—http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/
+* **Diplay images with tput and terminal**—https://gist.github.com/heptal/6052573
+* **Elementary OS Ultrabook**—http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/
 
 ##MySQL
 * **Setup Replication Without the Downtime**—http://plusbryan.com/mysql-replication-without-downtime
