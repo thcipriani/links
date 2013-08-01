@@ -5,6 +5,7 @@
 * **PouchDB—The database that syncs**—http://pouchdb.com/
 * **Selenium—Browser Automation**—http://docs.seleniumhq.org/
 * **Log—Console log with style**—http://adamschwartz.co/log/
+* **FFMPEG ConversionMatrix**—http://develop.participatoryculture.org/index.php/ConversionMatrix
 
 ##Articles
 * **Learn C You Cheater**—https://medium.com/tech-talk/afcfa2920c17
