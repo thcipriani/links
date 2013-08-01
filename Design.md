@@ -22,6 +22,7 @@
 * **CopyPasteCharacter.com**—http://copypastecharacter.com/
 * **Mind your em and en dashes**—http://www.smashingmagazine.com/2011/08/15/mind-your-en-and-em-dashes-typographic-etiquette/
 * **Typographic Style for the Web**—http://webtypography.net/
+* **Headline styles tarzan thing*—http://webdesign.maratz.com/lab/subheads/?v=04c
 
 ##UI/UX
 * **Archy**—https://en.wikipedia.org/wiki/Archy

@@ -4,6 +4,7 @@
 * **ASCII.io—Record your terminal and share it no fuss** - http://ascii.io/
 * **PouchDB—The database that syncs**—http://pouchdb.com/
 * **Selenium—Browser Automation**—http://docs.seleniumhq.org/
+* **Log—Console log with style**—http://adamschwartz.co/log/
 
 ##Articles
 * **Learn C You Cheater**—https://medium.com/tech-talk/afcfa2920c17
@@ -12,6 +13,7 @@
 
 ##Books
 * **Computer Science from the Bottom Up**—http://www.bottomupcs.com/
+* **Bayesian Methods for Hackers**—http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 
 ##Linux
 * **Useful Unix for Data Science**—http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/
@@ -46,9 +48,15 @@
 * **Keyboard Pr0n**—http://i.imgur.com/y7Xa4.jpg
 
 ##Puppet
+* **Introduction to Puppet**—http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/
 * **GUI to create PHP/Puppet VMs**—https://puphpet.com/
 * **Vagrant &amp; Puppet dev environments**—http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/
 * **Puppet 3 Beginners Guide**—https://tutsplus.com/ebook/puppet-3-beginners-guide/
+
+##Chef
+* **Chef Solo—cooking for 1**—http://horewi.cz/chef-solo-quick-and-easy-cooking-for-one.html
+* **Chef LAMP setup**—http://www.jasongrimes.org/2012/06/managing-lamp-environments-with-chef-vagrant-and-ec2-1-of-3/
+* **Knife Solo**—http://matschaffer.github.io/knife-solo/
 
 ##Javascript
 * **iOS supported JS Events**—http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5
@@ -68,3 +76,10 @@
 * **Turn a Rails app into a Debian Package in Minutes**—https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
 * **Distributing command line applications—from ruby to go**—http://codegangsta.io/blog/2013/07/21/creating-cli-applications-in-go
 * **Localtunnel—share your localhost**—http://progrium.com/localtunnel/
+* **Work with Photoshop Documents**—http://cosmos.layervault.com/psdrb.html
+* **Bloc Ruby Warrior: Ruby Web Game**—https://www.bloc.io/ruby-warrior/#/
+* **Let's build a Sinatra App**—http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html
+* **Ruby Port Scanner**—http://rubysource.com/build-a-port-scanner-in-ruby/
+
+##C
+* **Basics of Function Pointers in C**—http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/
