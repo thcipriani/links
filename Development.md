@@ -26,6 +26,7 @@
 
 ##Git
 * **A successful branching model**—http://nvie.com/posts/a-successful-git-branching-model/
+* **Git Commit Messages**—http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
 ##Email
 * **NSA Proof your email—setup your own server**—http://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
