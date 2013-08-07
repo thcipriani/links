@@ -89,3 +89,6 @@
 
 ##C
 * **Basics of Function Pointers in C**—http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/
+
+##Audio
+* **M4A to MP3**—http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/
