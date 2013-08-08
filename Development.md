@@ -23,14 +23,17 @@
 
 ##MySQL
 * **Setup Replication Without the Downtime**—http://plusbryan.com/mysql-replication-without-downtime
+* **Storing Heirarchical Data in a database**—http://www.sitepoint.com/hierarchical-data-database/
 
 ##Git
 * **A successful branching model**—http://nvie.com/posts/a-successful-git-branching-model/
 * **Git Commit Messages**—http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
 ##PHP
+* **PHP Data Structures**—http://phpmaster.com/php-data-structures-1/
 ###Laravel
 * **Multiple Databases**—http://forums.laravel.io/viewtopic.php?id=923
+* **Code Happy**—http://codehappy.daylerees.com/
 
 ##Email
 * **NSA Proof your email—setup your own server**—http://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
@@ -46,6 +49,7 @@
 * **Notetaking…maybe I want this?**—https://github.com/xolox/vim-notes
 * **Vim Logo Font**—http://www.myfonts.com/fonts/linotype/crillee/
 * **Learn Vimscript the hard way**—http://learnvimscriptthehardway.stevelosh.com/chapters/51.html
+* **Sensible defaults by Tim Pope**—https://github.com/tpope/vim-sensible
 
 ##Keyboards
 * **A Modern Space Cadet**—http://stevelosh.com/blog/2012/10/a-modern-space-cadet/
@@ -89,6 +93,9 @@
 
 ##C
 * **Basics of Function Pointers in C**—http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/
+
+##Apache
+* **403 Errors in Mac OSX 10.8.4**—http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden
 
 ##Audio
 * **M4A to MP3**—http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/
