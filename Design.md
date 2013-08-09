@@ -1,28 +1,29 @@
 # Design Links
 ## Tools
-* **Sketch**—Photoshop alternative
+* _Sketch_—Photoshop alternative
   * http://www.bohemiancoding.com/sketch/
   * https://medium.com/design-ux/25545f6cb161
-* **Effeckt.css**—http://h5bp.github.io/Effeckt.css/dist/
+* _Effeckt.css_—http://h5bp.github.io/Effeckt.css/dist/
 
 ## Articles
-* **Sketching with CSS—layouts with flexbox**—http://www.sketchingwithcss.com/samplechapter/
+* _Sketching with CSS—layouts with flexbox_—http://www.sketchingwithcss.com/samplechapter/
 
 ##Colors
-* **147 Colors**—http://www.147colors.com/
-* **FlatUI Colors**—http://flatuicolors.com/
-* **Adobe Kuler**—http://kuler.adobe.com/
+* _147 Colors_—http://www.147colors.com/
+* _FlatUI Colors_—http://flatuicolors.com/
+* _Adobe Kuler_—http://kuler.adobe.com/
 
 ##Fonts
-* **Redacted—keep your wireframes free of Ipsum**—https://github.com/christiannaths/Redacted-Font
-* **Font Hacking**—http://www.heydonworks.com/article/font-hacking
-* **The Art of Hand Lettering**—http://theartofhandlettering.tumblr.com/
+* _Redacted—keep your wireframes free of Ipsum_—https://github.com/christiannaths/Redacted-Font
+* _Font Hacking_—http://www.heydonworks.com/article/font-hacking
+* _The Art of Hand Lettering_—http://theartofhandlettering.tumblr.com/
 
 ##Typography
-* **CopyPasteCharacter.com**—http://copypastecharacter.com/
-* **Mind your em and en dashes**—http://www.smashingmagazine.com/2011/08/15/mind-your-en-and-em-dashes-typographic-etiquette/
-* **Typographic Style for the Web**—http://webtypography.net/
-* **Headline styles tarzan thing*—http://webdesign.maratz.com/lab/subheads/?v=04c
+* _CopyPasteCharacter.com_—http://copypastecharacter.com/
+* _Mind your em and en dashes_—http://www.smashingmagazine.com/2011/08/15/mind-your-en-and-em-dashes-typographic-etiquette/
+* _Typographic Style for the Web_—http://webtypography.net/
+* _Headline styles tarzan thing*—http://webdesign.maratz.com/lab/subheads/?v=04c
+* _Practical Typography_—http://practicaltypography.com/
 
 ##UI/UX
-* **Archy**—https://en.wikipedia.org/wiki/Archy
+* _Archy_—https://en.wikipedia.org/wiki/Archy
