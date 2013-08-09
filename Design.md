@@ -24,6 +24,7 @@
 * _Typographic Style for the Web_—http://webtypography.net/
 * _Headline styles tarzan thing*—http://webdesign.maratz.com/lab/subheads/?v=04c
 * _Practical Typography_—http://practicaltypography.com/
+* _Typography safe list_—http://www.papress.com/other/thinkingwithtype/letter/few_fonts.htm
 
 ##UI/UX
 * _Archy_—https://en.wikipedia.org/wiki/Archy
