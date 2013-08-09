@@ -78,6 +78,7 @@
 * _CSS Guidelines_—https://github.com/csswizardry/CSS-Guidelines
 * _Idomatic CSS_—https://github.com/necolas/idiomatic-css
 * _Github's CSS Performance_—http://vimeo.com/54990931
+* _Best available ampersand w/Unicode-range_—http://24ways.org/2011/creating-custom-font-stacks-with-unicode-range/
 
 ###Ruby
 * _Turn a Rails app into a Debian Package in Minutes_—https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
