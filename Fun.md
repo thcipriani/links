@@ -3,6 +3,7 @@
 * **Unsuck terrible business jargon**—http://unsuck-it.com/
 * **Lateral Thinking Puzzles**—http://www.rinkworks.com/brainfood/p/latreal1.shtml
 * **Shoes**—http://i.imgur.com/GWYYPz6.jpg
+* **Bookmarking a bookmarking site**—http://pinboard.in/popular/
 
 ##ASCII
 * **T E X T F I L E S**—http://textfiles.com/directory.html
