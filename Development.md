@@ -73,6 +73,8 @@
 * _Object Oriented Javascript Guide_—http://www.objectplayground.com/
 * _Backbone.JS deconstructed by Cody Lindley_—http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed
 * _What's your timezone_—http://trevoro.net/2013/whats-your-timezone/
+* _Bower for depencies_—npm, too? No? Ok—http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower
+* _jQuery Plugin Bolierplate_—http://jqueryboilerplate.com/
 
 ###CSS
 * _CSS Guidelines_—https://github.com/csswizardry/CSS-Guidelines
@@ -125,6 +127,7 @@
 * _Diplay images with tput and terminal_—https://gist.github.com/heptal/6052573
 * _Elementary OS Ultrabook_—http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/
 * _What is systemd?_—https://wiki.archlinux.org/index.php/Systemd
+* _OSX Emulator_—http://darling.dolezel.info/en/Darling
 
 ##MySQL
 * _Setup Replication Without the Downtime_—http://plusbryan.com/mysql-replication-without-downtime
