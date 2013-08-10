@@ -31,7 +31,7 @@ Catalog of information about Linux/Unix that I've found useful
 - <a href="#awk--like-sed-but-different">Awk—programmatically shape data</a>
 
 **System Administration:**
-- <a href="#configuration-files">Configuration Files</a>
+- <a href="#shell-startup-files">Shell Startup Files</a>
 - <a href="#cron">Cron</a>
 - <a href="#adding-users">User Admin</a>
 - <a href="#mail">Unix Mail</a>
@@ -271,7 +271,7 @@ AWK – Like sed but different
 
 * * *
 
-## Configuration Files
+## Shell Startup Files
 
 ### Login scripts
 
@@ -279,33 +279,50 @@ AWK – Like sed but different
 
 - BASH:
   - via SSH:
-    - `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
+
+    `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
+
   - via Terminal-type program:
-    - `/etc/bash.bashrc` &rarr; `.bashrc`
+
+    `/etc/bash.bashrc` &rarr; `.bashrc`
+
   - scripts using `/usr/bin/env bash`:
-    - looks for `$BASH_ENV` var and sources the expansion of that variable
+
+    looks for `$BASH_ENV` var and sources the expansion of that variable
 
 - ZSH:
   - via SSH:
-    - `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr `/etc/zlogin` &rarr; `~/.zslogin`
+
+    `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr `/etc/zlogin` &rarr; `~/.zslogin`
+
   - via Terminal-type program:
-    - `/etc/zshrc` &rarr; `~/.zshrc`
+
+    `/etc/zshrc` &rarr; `~/.zshrc`
+
   - Scripts:
-    - `/etc/zshenv`
+
+    `/etc/zshenv`
+
 
 #### On OSX
 
 - ZSH:
   - Terminal, iTerm or SSH:
-    - `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr `/etc/zlogin` &rarr; `~/.zslogin`
+
+    `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr `/etc/zlogin` &rarr; `~/.zslogin`
+
   - Scripts:
-    - `/etc/zshenv`
+
+    `/etc/zshenv`
+
 - BASH:
   - Terminal, iTerm or SSH
-    - `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
-    - Typically `~/.bashrc` is soruced from the `~/.bash_profile`
+
+    `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
+
   - scripts using `/usr/bin/env bash`:
-    - looks for `$BASH_ENV` var and sources the expansion of that variable
+
+    looks for `$BASH_ENV` var and sources the expansion of that variable
 
 ### .inputrc
 
