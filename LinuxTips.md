@@ -278,40 +278,42 @@ AWK – Like sed but different
 #### On Linux
 
 - BASH:
-  - via SSH:
+  - via SSH:<br />
     `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
 
-  - via Terminal-type program:
+  - via Terminal-type program:<br />
     `/etc/bash.bashrc` &rarr; `.bashrc`
 
-  - scripts using `/usr/bin/env bash`:
+  - scripts using `/usr/bin/env bash`:<br />
     looks for `$BASH_ENV` var and sources the expansion of that variable
 
 - ZSH:
-  - via SSH:
+  - via SSH:<br />
     `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr; `/etc/zlogin` &rarr; `~/.zslogin`
 
-  - via Terminal-type program:
+  - `/etc/z*` is the default; however `/etc/zsh/z*` seems to be common (at least on Ubuntu)
+
+  - via Terminal-type program:<br />
     `/etc/zshrc` &rarr; `~/.zshrc`
 
-  - Scripts:
+  - Scripts:<br />
     `/etc/zshenv`
 
 
 #### On OSX
 
 - ZSH:
-  - Terminal, iTerm or SSH:
+  - Terminal, iTerm or SSH:<br />
     `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr; `/etc/zlogin` &rarr; `~/.zslogin`
 
-  - Scripts:
+  - Scripts:<br />
     `/etc/zshenv`
 
 - BASH:
-  - Terminal, iTerm or SSH
+  - Terminal, iTerm or SSH:<br />
     `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
 
-  - scripts using `/usr/bin/env bash`:
+  - scripts using `/usr/bin/env bash`:<br />
     looks for `$BASH_ENV` var and sources the expansion of that variable
 
 ## .inputrc
