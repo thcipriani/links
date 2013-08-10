@@ -279,28 +279,22 @@ AWK – Like sed but different
 
 - BASH:
   - via SSH:
-
     `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
 
   - via Terminal-type program:
-
     `/etc/bash.bashrc` &rarr; `.bashrc`
 
   - scripts using `/usr/bin/env bash`:
-
     looks for `$BASH_ENV` var and sources the expansion of that variable
 
 - ZSH:
   - via SSH:
-
-    `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr `/etc/zlogin` &rarr; `~/.zslogin`
+    `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr; `/etc/zlogin` &rarr; `~/.zslogin`
 
   - via Terminal-type program:
-
     `/etc/zshrc` &rarr; `~/.zshrc`
 
   - Scripts:
-
     `/etc/zshenv`
 
 
@@ -308,23 +302,19 @@ AWK – Like sed but different
 
 - ZSH:
   - Terminal, iTerm or SSH:
-
-    `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr `/etc/zlogin` &rarr; `~/.zslogin`
+    `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr; `/etc/zlogin` &rarr; `~/.zslogin`
 
   - Scripts:
-
     `/etc/zshenv`
 
 - BASH:
   - Terminal, iTerm or SSH
-
     `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
 
   - scripts using `/usr/bin/env bash`:
-
     looks for `$BASH_ENV` var and sources the expansion of that variable
 
-### .inputrc
+## .inputrc
 
 http://www.reddit.com/r/commandline/comments/kbeoe/you_can_make_readline_and_bash_much_more_user/
 
