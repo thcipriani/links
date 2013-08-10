@@ -1,20 +1,20 @@
-UNIX TIPS
-==========
+# Unix Tips
 
-"Unix is simple. It just takes a genius to understand its simplicity." 
-    – Dennis Ritchie, Invetor of the C Programming Language
+Catalog of information about Linux/Unix that I've found useful
 
+## Unix Philosphy
 
-Unix Philosphy
-=============
 > This is the Unix philosophy: <br />
 > Write programs that do one thing and do it well.  <br />
 > Write programs to work together. <br />
 > Write programs to handle text streams, because that is a universal interface. <br />
-    – Douglas McIlroy
+>    – Douglas McIlroy
 
-Contents
-=========
+>"Unix is simple. It just takes a genius to understand its simplicity." <br />
+>    – Dennis Ritchie, Invetor of the C Programming Language
+
+## Contents
+
 **Basics:**
 - <a href="#text">Text and I/O</a>
 - <a href="#file-system-hierarchy">File System Hierarchy</a>
@@ -31,20 +31,22 @@ Contents
 - <a href="#awk--like-sed-but-different">Awk—programmatically shape data</a>
 
 **System Administration:**
+- <a href="#configuration-files">Configuration Files</a>
 - <a href="#cron">Cron</a>
 - <a href="#adding-users">User Admin</a>
+- <a href="#mail">Unix Mail</a>
 
 **Stupid Fun**
 - <a href="#fun-commands">Fun Fun</a>
 
+* * *
 
+## TEXT
 
-<hr />
+Text is the input and the output of almost every program that you use on 
+the command line. The redirection of that input and the output via communication
+channels is the most powerful tool in Unix.
 
-
-
-TEXT
-=======
 - Each program/process has 3 communication channels available to it:
   + Standard Input (STDIN)
   + Standard Output (STDOUT)
@@ -57,8 +59,8 @@ TEXT
   + STDIN reads from the keyboard
   + STDOUT & STDERR write to the term window
 
-Redirect I/O for a great good
------------------
+### Redirect I/O for a great good
+
 - STDIN:
     + '<' allows you connect a program's STDIN to a file
     Examples:
@@ -84,14 +86,14 @@ Redirect I/O for a great good
       - find . -type f -name "*.php" 2> /dev/null
 
 
-File System Hierarchy
-============
+## File System Hierarchy
+
 - EVERYTHING IS A FILE in Linux
 - Your speakers are located at /dev/dsp
 - The number of processor cores available to your system is located at /proc/cpuinfo
 
-Run down of the FSH:
--------
+### Run down of the FSH:
+
 - `/`          — Root of the filesystem
 - `/bin`       — system binaries—computer needs to boot
 - `/boot`      — boot loader (/boot/grub/grub.conf or menu.lst), Linux kernel (/boot/vmlinuz)
@@ -114,10 +116,13 @@ Run down of the FSH:
 - `/var`       — data that chanes frequently is stored here (e.g. /var/log for log files /var/www/ for webservers)
 
 
-ENV
-======
-- It is used to either print a list of environment variables or run another utility in an altered environment without having to modify the currently existing environment
-- Usually located at /usr/bin/env
+## env
+
+`env` is used to either print a list of environment variables or run 
+another utility in an altered environment without having to modify the 
+currently existing environment. 
+
+`env` is usually located at `/usr/bin/env`
 
 Command Examples:
 ----------
@@ -264,20 +269,58 @@ AWK – Like sed but different
 - Oneliners: http://www.pement.org/awk/awk1line.txt
 - **AWK tutorial**—http://www.grymoire.com/Unix/Awk.html
 
+* * *
 
-<hr />
+## Configuration Files
 
+### Login scripts
 
-CRON
-======
+#### On Linux
+
+- BASH:
+  - via SSH:
+    - `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
+  - via Terminal-type program:
+    - `/etc/bash.bashrc` &rarr; `.bashrc`
+  - scripts using `/usr/bin/env bash`:
+    - looks for `$BASH_ENV` var and sources the expansion of that variable
+
+- ZSH:
+  - via SSH:
+    - `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr `/etc/zlogin` &rarr; `~/.zslogin`
+  - via Terminal-type program:
+    - `/etc/zshrc` &rarr; `~/.zshrc`
+  - Scripts:
+    - `/etc/zshenv`
+
+#### On OSX
+
+- ZSH:
+  - Terminal, iTerm or SSH:
+    - `/etc/zshenv` &rarr; `~/.zshenv` &rarr; `/etc/zprofile` &rarr; `~/.zprofile` &rarr; `/etc/zshrc` &rarr; `~/.zshrc` &rarr `/etc/zlogin` &rarr; `~/.zslogin`
+  - Scripts:
+    - `/etc/zshenv`
+- BASH:
+  - Terminal, iTerm or SSH
+    - `/etc/profile` &rarr; first of `~/.bash_profile`, `~/.bash_login`, `~/.profile` that exists
+    - Typically `~/.bashrc` is soruced from the `~/.bash_profile`
+  - scripts using `/usr/bin/env bash`:
+    - looks for `$BASH_ENV` var and sources the expansion of that variable
+
+### .inputrc
+
+http://www.reddit.com/r/commandline/comments/kbeoe/you_can_make_readline_and_bash_much_more_user/
+
+## CRON
+
 - Cronjobs are sheduled system tasks
 - Cronjobs are per user. 
   The root user has a different set of crons than the Tyler user
 - Crontab is the program used to manage cronjobs
 - To edit cronjobs use the command `crontab -e`
 
-Cronjob Time Syntax:
-------------
+### Cronjob Time Syntax:
+
 - m h dom m dow <what_to_do>
   - m - minute(0–59)
   - h - hour(0–23)
@@ -286,15 +329,13 @@ Cronjob Time Syntax:
   - dow - day-of-week(0–6)
   - <what_to_do> - anycommand
 
-Crontab Examples:
--------
+### Crontab Examples:
 - Execute <command> every 15 minutes                   | `*/15 * * * * <command>`
 - Execute <command> at top of every hour on monday     | `0 * * * 1 <command>`
 - Execute <command> at 10 after, 15 after and 20 after | `10,15,20 * * * * <command>`
 
 
-Adding Users:
-=========
+## Adding Users:
 - Difference between adduser & useradd                                          | [tl;dr no difference in Centos, use useradd in debian](http://www.garron.me/en/go2linux/useradd-vs-adduser-ubuntu-linux.html)
 - Add a user                                                                    | `useradd <new_username>`
 - Add an existing user to a group                                               | `usermod -a -G <new_username>`
@@ -303,6 +344,22 @@ Adding Users:
 - Edit defaults for adding a user (e.g., the user's shell, default group etc)   | `sudo vim /etc/default/useradd`
 - Edit default files created for a user (e.g., .profile, .bashrc, .vimrc, etc ) | `sudo cp <file_to_add> /etc/skel/`
 - Manage group permissions                                                      | `visudo` checkout lines that begin with `%<groupname>` or `<username>`
+
+
+Unix Mail
+===
+- `mail`
+  takes you to the mailbox for your user
+- `help`
+  inside the mail program shows you mail help
+- `h`
+  shows message headers
+- `d`
+  deletes a message
+- `d 1-100`
+  deletes messages between 1 and 100
+- `q`
+  quits
 
 
 <hr />
