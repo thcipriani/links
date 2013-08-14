@@ -4,6 +4,7 @@
 * _Learn C You Cheater_—https://medium.com/tech-talk/afcfa2920c17
 * _4 Steps to Google Without a Degree_—https://medium.com/this-happened-to-me/8f381aa6bd5e
 * _One Hundred Ideas for Computing_—https://github.com/samsquire/ideas
+* _Financial Times Webapp_http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/
 
 ##Books
 * _Computer Science from the Bottom Up_—http://www.bottomupcs.com/
@@ -30,6 +31,11 @@
 * _Vim Logo Font_—http://www.myfonts.com/fonts/linotype/crillee/
 * _Learn Vimscript the hard way_—http://learnvimscriptthehardway.stevelosh.com/chapters/51.html
 * _Sensible defaults by Tim Pope_—https://github.com/tpope/vim-sensible
+* _CoVim_—http://www.fredkschott.com/post/50510962864/introducing-covim-collaborative-editing-for-vim
+
+## Sublime Text
+* _Vintagous_—http://guillermooo.bitbucket.org/Vintageous/
+* _Upgrading to Sublime Text 3_—http://harrywolff.com/upgrading-to-sublime-text-3/
 
 ###Keyboards
 * _A Modern Space Cadet_—http://stevelosh.com/blog/2012/10/a-modern-space-cadet/
@@ -62,6 +68,11 @@
 ###Python
 * _GMail for Python_—https://github.com/charlierguo/gmail
 
+### HTML5
+* _Fun with the HTML <image> tag_—http://jakearchibald.com/2013/having-fun-with-image/
+* _Client-side Storage Options_—http://tech.pro/blog/1486/client-side-storage-options
+* _Front-end Performance Crash Course_—https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY#grigorik
+
 ###Javascript
 * _iOS supported JS Events_—http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5
 * _Dates for Humans_—http://matthewmueller.github.io/date/
@@ -82,6 +93,9 @@
 * _Github's CSS Performance_—http://vimeo.com/54990931
 * _Best available ampersand w/Unicode-range_—http://24ways.org/2011/creating-custom-font-stacks-with-unicode-range/
 * _Drawing things with Box-Shadow_—http://joshnh.com/2012/08/16/drawing-things-with-box-shadow/
+* _TopCoat CSS_—http://flippinawesome.org/2013/08/05/introduction-to-topcoat/
+* _Writing Better CSS_—http://flippinawesome.org/2013/08/12/writing-better-css/
+* _Gmail-style expanding css3 navigation_—http://blog.teamtreehouse.com/build-a-gmail-style-expanding-css3-navigation-menu
 
 ###Ruby
 * _Turn a Rails app into a Debian Package in Minutes_—https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
@@ -129,7 +143,23 @@
 * _Elementary OS Ultrabook_—http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/
 * _What is systemd?_—https://wiki.archlinux.org/index.php/Systemd
 * _OSX Emulator_—http://darling.dolezel.info/en/Darling
+* _Unix Text Processing_—http://oreilly.com/openbook/utp/UnixTextProcessing.pdf
 
 ##MySQL
 * _Setup Replication Without the Downtime_—http://plusbryan.com/mysql-replication-without-downtime
 * _Storing Heirarchical Data in a database_—http://www.sitepoint.com/hierarchical-data-database/
+
+* * *
+
+## Snippets
+
+* _CSS Ligatures_
+
+    ```CSS
+    font-variant-ligatures:common-ligatures additionalligatures;
+    -webkit-font-feature-settings:"liga", "dlig"; 
+       -moz-font-feature-settings:"liga=1, dlig=1"; 
+        -ms-font-feature-settings:"liga", "dlig"; 
+         -o-font-feature-settings:"liga", "dlig"; 
+            font-feature-settings:"liga", "dlig";
+    ```

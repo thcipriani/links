@@ -7,6 +7,11 @@
 
 ## Articles
 * _Sketching with CSS—layouts with flexbox_—http://www.sketchingwithcss.com/samplechapter/
+* _UX Readlist_—http://readlists.com/user/Dangerwells/
+
+## Videos
+
+* _Test Driven Design_—http://startuplab.googleventures.com/test-driven-design-2013-07-09
 
 ##Colors
 * _147 Colors_—http://www.147colors.com/
