@@ -81,6 +81,7 @@
 * _Idomatic CSS_—https://github.com/necolas/idiomatic-css
 * _Github's CSS Performance_—http://vimeo.com/54990931
 * _Best available ampersand w/Unicode-range_—http://24ways.org/2011/creating-custom-font-stacks-with-unicode-range/
+* _Drawing things with Box-Shadow_—http://joshnh.com/2012/08/16/drawing-things-with-box-shadow/
 
 ###Ruby
 * _Turn a Rails app into a Debian Package in Minutes_—https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
