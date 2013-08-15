@@ -35,6 +35,7 @@
 
 ##Typography
 
+* _@font-face FOUT_—https://github.com/typekit/webfontloader
 * _Typewolf_—http://www.typewolf.com/
 * _CopyPasteCharacter.com_—http://copypastecharacter.com/
 * _Mind your em and en dashes_—http://www.smashingmagazine.com/2011/08/15/mind-your-en-and-em-dashes-typographic-etiquette/
