@@ -21,3 +21,7 @@
 
 ##Music
 * _4chan.org/mu chart_—http://images4.wikia.nocookie.net/__cb20120629173013/mu4chan/images/e/e4/General_essentials_with_kanye.jpg
+
+## Cooking
+
+* _Whole Wheat Bread with a Biga and Soaker_—http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/

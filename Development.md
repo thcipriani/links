@@ -20,6 +20,7 @@
 * _Selenium—Browser Automation_—http://docs.seleniumhq.org/
 * _Log—Console log with style_—http://adamschwartz.co/log/
 * _FFMPEG ConversionMatrix_—http://develop.participatoryculture.org/index.php/ConversionMatrix
+* _VMs to test IE Versions_—https://github.com/xdissent/ievms
 
 ###Vim
 * _Vimcasts_—http://vimcasts.org/episodes/archive
@@ -60,6 +61,8 @@
 
 ###PHP
 * _PHP Data Structures_—http://phpmaster.com/php-data-structures-1/
+* _PHP Truthy Values_—http://habnab.it/php-table.html
+* _Twig Templating_—http://twig.sensiolabs.org/
 
 ####Laravel
 * _Multiple Databases_—http://forums.laravel.io/viewtopic.php?id=923
@@ -96,6 +99,8 @@
 * _TopCoat CSS_—http://flippinawesome.org/2013/08/05/introduction-to-topcoat/
 * _Writing Better CSS_—http://flippinawesome.org/2013/08/12/writing-better-css/
 * _Gmail-style expanding css3 navigation_—http://blog.teamtreehouse.com/build-a-gmail-style-expanding-css3-navigation-menu
+* _Flippabe Book Using CSS Regions_—http://updates.html5rocks.com/2012/07/Writing-a-flippable-book-using-CSS-Regions-and-3D-transforms
+* _3D Gallery_—http://tympanus.net/codrops/2012/02/06/3d-gallery-with-css3-and-jquery/
 
 ###Ruby
 * _Turn a Rails app into a Debian Package in Minutes_—https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
@@ -109,6 +114,10 @@
 ###C
 * _Basics of Function Pointers in C_—http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/
 
+### R
+* _R Tutorial_—http://www.cyclismo.org/tutorial/R/index.html
+* _Exploring Everyday Things with Ruby and R_—http://blog.airbrake.io/guest-post/exploring-everything/
+
 ###Audio
 * _M4A to MP3_—http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/
 
@@ -117,6 +126,8 @@
 ##Sysadmin
 
 * _SysadminCasts_—http://sysadmincasts.com/
+* _Memcached on CentOS with PECL_—http://www.bxtra.net/articles/2011-03-22/how-to-install-memcached-on-centos-memcached-pecl-update-20110322
+* _Yum Install Command Examples_http://www.thegeekstuff.com/2011/08/yum-command-examples/
 
 ###Puppet
 * _Introduction to Puppet_—http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/
