@@ -67,6 +67,7 @@
 ####Laravel
 * _Multiple Databases_—http://forums.laravel.io/viewtopic.php?id=923
 * _Code Happy_—http://codehappy.daylerees.com/
+* _Laravel Migrations_—http://phpmaster.com/laravel-migrations/
 
 ###Python
 * _GMail for Python_—https://github.com/charlierguo/gmail
@@ -101,6 +102,7 @@
 * _Gmail-style expanding css3 navigation_—http://blog.teamtreehouse.com/build-a-gmail-style-expanding-css3-navigation-menu
 * _Flippabe Book Using CSS Regions_—http://updates.html5rocks.com/2012/07/Writing-a-flippable-book-using-CSS-Regions-and-3D-transforms
 * _3D Gallery_—http://tympanus.net/codrops/2012/02/06/3d-gallery-with-css3-and-jquery/
+* _Absolute Center in CSS_—http://codepen.io/shshaw/full/gEiDt
 
 ###Ruby
 * _Turn a Rails app into a Debian Package in Minutes_—https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
@@ -118,8 +120,11 @@
 * _R Tutorial_—http://www.cyclismo.org/tutorial/R/index.html
 * _Exploring Everyday Things with Ruby and R_—http://blog.airbrake.io/guest-post/exploring-everything/
 
-###Audio
+### Music/Audio
 * _M4A to MP3_—http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/
+* _Node Icecast Stack_—https://npmjs.org/package/icecast-stack
+* _Icecast KH Brach_—https://github.com/karlheyes/icecast-kh
+* _Deb Multimedia Repo_—http://www.deb-multimedia.org/
 
 * * *
 
