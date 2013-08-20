@@ -10,6 +10,7 @@
 * _Computer Science from the Bottom Up_—http://www.bottomupcs.com/
 * _Bayesian Methods for Hackers_—http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 * _The Linux Command Line_ - http://linuxcommand.org/tlcl.php
+* _Book Porn_—http://i.imgur.com/1mQOZg9.jpg
 
 * * *
 
