@@ -77,6 +77,8 @@
 * _Fun with the HTML <image> tag_—http://jakearchibald.com/2013/having-fun-with-image/
 * _Client-side Storage Options_—http://tech.pro/blog/1486/client-side-storage-options
 * _Front-end Performance Crash Course_—https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY#grigorik
+* _Multi-Level hidden push menu_—http://tympanus.net/codrops/2013/08/13/multi-level-push-menu/
+* _favicon numbers_—http://chrishunt.co/favcount/
 
 ###Javascript
 * _iOS supported JS Events_—http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5
@@ -126,6 +128,7 @@
 * _Node Icecast Stack_—https://npmjs.org/package/icecast-stack
 * _Icecast KH Brach_—https://github.com/karlheyes/icecast-kh
 * _Deb Multimedia Repo_—http://www.deb-multimedia.org/
+* _Experimental Music Player_—http://www.wothke.ch/experimental/TinyJsSid.html
 
 * * *
 
@@ -155,6 +158,7 @@
 * _403 Errors in Mac OSX 10.8.4_—http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden
 
 ##Linux
+* _Why GNU Grep is Fast_—http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
 * _Useful Unix for Data Science_—http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/
 * _Diplay images with tput and terminal_—https://gist.github.com/heptal/6052573
 * _Elementary OS Ultrabook_—http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/
