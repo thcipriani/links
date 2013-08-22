@@ -115,6 +115,7 @@
 * _Bloc Ruby Warrior: Ruby Web Game_—https://www.bloc.io/ruby-warrior/#/
 * _Let's build a Sinatra App_—http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html
 * _Ruby Port Scanner_—http://rubysource.com/build-a-port-scanner-in-ruby/
+* _The Observer Pattern_—http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html
 
 ###C
 * _Basics of Function Pointers in C_—http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/
