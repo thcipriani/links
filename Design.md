@@ -3,6 +3,8 @@
 ## Inspirations
 
 * _Young Jerks_—http://youngjerks.com/
+* _Give n Go Pair - Dribbble and Codepen pairs_—http://give-n-go.tumblr.com/
+* _Working Watches_—http://www.wrist.im/
 
 ## Tools
 * _Sketch_—Photoshop alternative
