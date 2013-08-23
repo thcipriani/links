@@ -22,6 +22,8 @@
 * _Log—Console log with style_—http://adamschwartz.co/log/
 * _FFMPEG ConversionMatrix_—http://develop.participatoryculture.org/index.php/ConversionMatrix
 * _VMs to test IE Versions_—https://github.com/xdissent/ievms
+* _Create your own chrome extensions_—http://coryg89.github.io/technical/2013/08/13/how-to-create-your-own-chrome-extensions/
+* _Quickly navigate you system forom the command line_—http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html
 
 ###Vim
 * _Vimcasts_—http://vimcasts.org/episodes/archive
@@ -93,6 +95,8 @@
 * _What's your timezone_—http://trevoro.net/2013/whats-your-timezone/
 * _Bower for depencies_—npm, too? No? Ok—http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower
 * _jQuery Plugin Bolierplate_—http://jqueryboilerplate.com/
+* _Thin progress bar top of page_—http://ricostacruz.com/nprogress/
+* _Absolute Beginners Guide to Node.js_—http://blog.modulus.io/absolute-beginners-guide-to-nodejs
 
 ###CSS
 * _CSS Guidelines_—https://github.com/csswizardry/CSS-Guidelines
