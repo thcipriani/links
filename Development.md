@@ -66,6 +66,8 @@
 * _PHP Data Structures_—http://phpmaster.com/php-data-structures-1/
 * _PHP Truthy Values_—http://habnab.it/php-table.html
 * _Twig Templating_—http://twig.sensiolabs.org/
+* _HWIO OAuth Bundle_[github](https://github.com/hwi/HWIOAuthBundle)
+* _DdeboerSalesforceMapperBundle_[github](https://github.com/Ddeboer/DdeboerSalesforceMapperBundle/)
 
 ####Laravel
 * _Multiple Databases_—http://forums.laravel.io/viewtopic.php?id=923
