@@ -4,6 +4,7 @@
 * _Lateral Thinking Puzzles_—http://www.rinkworks.com/brainfood/p/latreal1.shtml
 * _Shoes_—http://i.imgur.com/GWYYPz6.jpg
 * _Bookmarking a bookmarking site_—http://pinboard.in/popular/
+* $22 Standing Desk (iamnotaprogrammer)[http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html]
 
 ##ASCII
 * _T E X T F I L E S_—http://textfiles.com/directory.html
