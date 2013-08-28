@@ -36,6 +36,7 @@
 * _Learn Vimscript the hard way_—http://learnvimscriptthehardway.stevelosh.com/chapters/51.html
 * _Sensible defaults by Tim Pope_—https://github.com/tpope/vim-sensible
 * _CoVim_—http://www.fredkschott.com/post/50510962864/introducing-covim-collaborative-editing-for-vim
+* Learn Vim Progressively [yannesposito](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 
 ## Sublime Text
 * _Vintagous_—http://guillermooo.bitbucket.org/Vintageous/
@@ -112,6 +113,7 @@
 * _Flippabe Book Using CSS Regions_—http://updates.html5rocks.com/2012/07/Writing-a-flippable-book-using-CSS-Regions-and-3D-transforms
 * _3D Gallery_—http://tympanus.net/codrops/2012/02/06/3d-gallery-with-css3-and-jquery/
 * _Absolute Center in CSS_—http://codepen.io/shshaw/full/gEiDt
+* Detecting CSS Style Support (ryanmorr)[http://ryanmorr.com/detecting-css-style-support/]
 
 ###Ruby
 * _Turn a Rails app into a Debian Package in Minutes_—https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
