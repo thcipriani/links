@@ -1,11 +1,11 @@
 #Fun.
 ##Random
-* _Unsuck terrible business jargon_—http://unsuck-it.com/
-* _Lateral Thinking Puzzles_—http://www.rinkworks.com/brainfood/p/latreal1.shtml
-* _Shoes_—http://i.imgur.com/GWYYPz6.jpg
-* _Bookmarking a bookmarking site_—http://pinboard.in/popular/
-* $22 Standing Desk (iamnotaprogrammer)[http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html]
-* Traffic Hacks: How One driver can improve traffic (trafficwaves)[http://trafficwaves.org/]
+* Unsuck terrible business jargon ([unsuck-it](http://unsuck-it.com/))
+* Lateral Thinking Puzzles ([rinkworks](http://www.rinkworks.com/brainfood/p/latreal1.shtml))
+* What shoes go with what ([imgur](http://i.imgur.com/GWYYPz6.jpg))
+* Bookmarking a bookmarking site ([pinboard](http://pinboard.in/popular/)
+* $22 Standing Desk ([iamnotaprogrammer](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html))
+* Traffic Hacks: How One driver can improve traffic ([trafficwaves](http://trafficwaves.org/))
 
 ##ASCII
 * _T E X T F I L E S_—http://textfiles.com/directory.html
