@@ -145,15 +145,16 @@
 
 ##Sysadmin
 
-* _SysadminCasts_—http://sysadmincasts.com/
-* _Memcached on CentOS with PECL_—http://www.bxtra.net/articles/2011-03-22/how-to-install-memcached-on-centos-memcached-pecl-update-20110322
-* _Yum Install Command Examples_http://www.thegeekstuff.com/2011/08/yum-command-examples/
+* My First 5 Minutes on a Server ([plusbryan](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers#))
+* SysadminCasts ([sysadmincasts](http://sysadmincasts.com/))
+* Memcached on CentOS with PECL ([bxtra](http://www.bxtra.net/articles/2011-03-22/how-to-install-memcached-on-centos-memcached-pecl-update-20110322))
+* Yum Install Command Examples ([thegeekstuff](http://www.thegeekstuff.com/2011/08/yum-command-examples/))
 
 ###Puppet
-* _Introduction to Puppet_—http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/
-* _GUI to create PHP/Puppet VMs_—https://puphpet.com/
-* _Vagrant &amp; Puppet dev environments_—http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/
-* _Puppet 3 Beginners Guide_—https://tutsplus.com/ebook/puppet-3-beginners-guide/
+* Introduction to Puppet ([davidwinter](http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/))
+* GUI to create PHP/Puppet VMs ([puphet](https://puphpet.com/))
+* Vagrant &amp; Puppet dev environments ([kloudless](http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/))
+* Puppet 3 Beginners Guide ([tutsplus](https://tutsplus.com/ebook/puppet-3-beginners-guide/))
 * Puppet Module Reusability ([speakerdeck](https://speakerdeck.com/garethr/puppet-module-reusability))
 * Puppet at Github ([speakerdeck](https://speakerdeck.com/wfarr/puppet-at-github-puppetcamp-raleigh-2013))
 
