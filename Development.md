@@ -124,6 +124,8 @@
 * _Let's build a Sinatra App_—http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html
 * _Ruby Port Scanner_—http://rubysource.com/build-a-port-scanner-in-ruby/
 * _The Observer Pattern_—http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html
+* nO_op ([github](https://github.com/ymendel/nO_op))
+* Ruby Rouges—Understanding Computation ([rubyrouges](http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/))
 
 ###C
 * _Basics of Function Pointers in C_—http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/
@@ -152,6 +154,8 @@
 * _GUI to create PHP/Puppet VMs_—https://puphpet.com/
 * _Vagrant &amp; Puppet dev environments_—http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/
 * _Puppet 3 Beginners Guide_—https://tutsplus.com/ebook/puppet-3-beginners-guide/
+* Puppet Module Reusability ([speakerdeck](https://speakerdeck.com/garethr/puppet-module-reusability))
+* Puppet at Github ([speakerdeck](https://speakerdeck.com/wfarr/puppet-at-github-puppetcamp-raleigh-2013))
 
 ###Chef
 * _Chef Solo—cooking for 1_—http://horewi.cz/chef-solo-quick-and-easy-cooking-for-one.html
