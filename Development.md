@@ -24,6 +24,7 @@
 * VMs to test IE Versions ([github.com](https://github.com/xdissent/ievms))
 * Create your own chrome extensions ([coryg89.github](http://coryg89.github.io/technical/2013/08/13/how-to-create-your-own-chrome-extensions/))
 * Quickly navigate you system forom the command line ([jeroenjanssens.com](http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html))
+* URL to Screenshot ([github](https://github.com/re-view/url-to-screenshot))
 
 ###Vim
 * Vimcasts ([vimcasts.org](http://vimcasts.org/episodes/archive))
@@ -128,6 +129,7 @@
 * nO_op ([github](https://github.com/ymendel/nO_op))
 * Ruby Rouges—Understanding Computation ([rubyrouges](http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/))
 * Nokogiri—what to do if libxml2 is being a jerk ([github](https://github.com/sparklemotion/nokogiri/wiki/What-to-do-if-libxml2-is-being-a-jerk))
+* Chrome as IDE for Rails app ([tech.pro](http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1))
 
 ###C
 * Basics of Function Pointers in C ([denniskubes.com](http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/))
