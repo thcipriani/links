@@ -8,22 +8,22 @@
 * Traffic Hacks: How One driver can improve traffic ([trafficwaves](http://trafficwaves.org/))
 
 ##ASCII
-* _T E X T F I L E S_—http://textfiles.com/directory.html
-* _Sixteen Color ANSI/ASCII Art_—http://sixteencolors.net/
+* T E X T F I L E S ([textfiles.com](http://textfiles.com/directory.html)
+* Sixteen Color ANSI/ASCII Art ([sixteencolors.net](http://sixteencolors.net/)
 
 ##Gif
-* _Pronounciation_—http://www.bbc.co.uk/news/technology-22620473
-* _Search_—http://giphy.com/tags/tv
+* Pronounciation ([bbc.co.uk](http://www.bbc.co.uk/news/technology-22620473)
+* Search ([giphy.com](http://giphy.com/tags/tv)
 
 ##Videos
-* _Vi Hart - Stravinsky's Atonal Compositions_ - http://youtu.be/4niz8TfY794
-* _Bootleg Fireworks_—http://www.youtube.com/watch?v=NRItYDKSqpQ 
-* _Rock-a-Fire In This Club_—http://www.youtube.com/watch?v=b90Cf6ARscc
-* _Vooza_—http://vooza.com/videos/?view=popular
+* Vi Hart - Stravinsky's Atonal Compositions ([youtu.be](http://youtu.be/4niz8TfY794)
+* Bootleg Fireworks ([youtube](http://www.youtube.com/watch?v=NRItYDKSqpQ )
+* Rock-a-Fire In This Club ([youtube](http://www.youtube.com/watch?v=b90Cf6ARscc)
+* Vooza ([vooza.com](http://vooza.com/videos/?view=popular)
 
 ##Music
-* _4chan.org/mu chart_—http://images4.wikia.nocookie.net/__cb20120629173013/mu4chan/images/e/e4/General_essentials_with_kanye.jpg
+* 4chan.org/mu chart ([images4.wikia](http://images4.wikia.nocookie.net/__cb20120629173013/mu4chan/images/e/e4/General_essentials_with_kanye.jpg)
 
 ## Cooking
 
-* _Whole Wheat Bread with a Biga and Soaker_—http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/
+* Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/)

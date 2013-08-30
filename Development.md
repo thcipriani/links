@@ -1,146 +1,147 @@
 #Development
 
 ##Articles
-* _Learn C You Cheater_—https://medium.com/tech-talk/afcfa2920c17
-* _4 Steps to Google Without a Degree_—https://medium.com/this-happened-to-me/8f381aa6bd5e
-* _One Hundred Ideas for Computing_—https://github.com/samsquire/ideas
-* _Financial Times Webapp_http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/
+* Learn C You Cheater ([medium.com](https://medium.com/tech-talk/afcfa2920c17)
+* 4 Steps to Google Without a Degree ([medium.com](https://medium.com/this-happened-to-me/8f381aa6bd5e)
+* One Hundred Ideas for Computing ([github.com](https://github.com/samsquire/ideas)
+* Financial Times Webapp ([coding.smashingmagazine](http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/)
 
 ##Books
-* _Computer Science from the Bottom Up_—http://www.bottomupcs.com/
-* _Bayesian Methods for Hackers_—http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
-* _The Linux Command Line_ - http://linuxcommand.org/tlcl.php
-* _Book Porn_—http://i.imgur.com/1mQOZg9.jpg
+* Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/)
+* Bayesian Methods for Hackers ([camdavidsonpilon.github](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* The Linux Command Line ([linuxcommand.org](http://linuxcommand.org/tlcl.php)
+* Book Pr0n ([i.imgur](http://i.imgur.com/1mQOZg9.jpg)
 
 * * *
 
 ##Tools
-* _Manage SSH Like a Boss_—http://emre.github.io/storm/
-* _ASCII.io—Record your terminal and share it no fuss_ - http://ascii.io/
-* _PouchDB—The database that syncs_—http://pouchdb.com/
-* _Selenium—Browser Automation_—http://docs.seleniumhq.org/
-* _Log—Console log with style_—http://adamschwartz.co/log/
-* _FFMPEG ConversionMatrix_—http://develop.participatoryculture.org/index.php/ConversionMatrix
-* _VMs to test IE Versions_—https://github.com/xdissent/ievms
-* _Create your own chrome extensions_—http://coryg89.github.io/technical/2013/08/13/how-to-create-your-own-chrome-extensions/
-* _Quickly navigate you system forom the command line_—http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html
+* Manage SSH Like a Boss ([emre.github](http://emre.github.io/storm/)
+* ASCII.io—Record your terminal and share it no fuss ([ascii.io](- http://ascii.io/)
+* PouchDB—The database that syncs ([pouchdb.com](http://pouchdb.com/)
+* Selenium—Browser Automation ([docs.seleniumhq](http://docs.seleniumhq.org/)
+* Log—Console log with style ([adamschwartz.co](http://adamschwartz.co/log/)
+* FFMPEG ConversionMatrix ([develop.participatoryculture](http://develop.participatoryculture.org/index.php/ConversionMatrix)
+* VMs to test IE Versions ([github.com](https://github.com/xdissent/ievms)
+* Create your own chrome extensions ([coryg89.github](http://coryg89.github.io/technical/2013/08/13/how-to-create-your-own-chrome-extensions/)
+* Quickly navigate you system forom the command line ([jeroenjanssens.com](http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html)
 
 ###Vim
-* _Vimcasts_—http://vimcasts.org/episodes/archive
-* _Vim Airline_—https://github.com/bling/vim-airline
-* _YouCompleteMe_—http://valloric.github.io/YouCompleteMe/
-* _Bling.vim_—http://bling.github.io/dotvim/
-* _Online Colorscheme Editor_—http://bytefluent.com/vivify/
-* _Notetaking…maybe I want this?_—https://github.com/xolox/vim-notes
-* _Vim Logo Font_—http://www.myfonts.com/fonts/linotype/crillee/
-* _Learn Vimscript the hard way_—http://learnvimscriptthehardway.stevelosh.com/chapters/51.html
-* _Sensible defaults by Tim Pope_—https://github.com/tpope/vim-sensible
-* _CoVim_—http://www.fredkschott.com/post/50510962864/introducing-covim-collaborative-editing-for-vim
+* Vimcasts ([vimcasts.org](http://vimcasts.org/episodes/archive)
+* Vim Airline ([github.com](https://github.com/bling/vim-airline)
+* YouCompleteMe ([valloric.github](http://valloric.github.io/YouCompleteMe/)
+* Bling.vim ([bling.github](http://bling.github.io/dotvim/)
+* Online Colorscheme Editor ([bytefluent.com](http://bytefluent.com/vivify/)
+* Notetaking…maybe I want this? ([github.com](https://github.com/xolox/vim-notes)
+* Vim Logo Font ([myfonts](http://www.myfonts.com/fonts/linotype/crillee/)
+* Learn Vimscript the hard way ([learnvimscriptthehardway.stevelosh](http://learnvimscriptthehardway.stevelosh.com/chapters/51.html)
+* Sensible defaults by Tim Pope ([github.com](https://github.com/tpope/vim-sensible)
+* CoVim ([fredkschott](http://www.fredkschott.com/post/50510962864/introducing-covim-collaborative-editing-for-vim)
 * Learn Vim Progressively [yannesposito](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 
 ## Sublime Text
-* _Vintagous_—http://guillermooo.bitbucket.org/Vintageous/
-* _Upgrading to Sublime Text 3_—http://harrywolff.com/upgrading-to-sublime-text-3/
+* Vintagous ([guillermooo.bitbucket](http://guillermooo.bitbucket.org/Vintageous/)
+* Upgrading to Sublime Text 3 ([harrywolff.com](http://harrywolff.com/upgrading-to-sublime-text-3/)
 
 ###Keyboards
-* _A Modern Space Cadet_—http://stevelosh.com/blog/2012/10/a-modern-space-cadet/
-* _Toward a More Useful Keyboard_—https://github.com/jasonrudolph/keyboard
-* _KBC Poker II_—http://techkeys.us/collections/keyboards/products/poker-2
-* _Keyboard Pr0n_—http://i.imgur.com/y7Xa4.jpg
+* A Modern Space Cadet ([stevelosh.com](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
+* Toward a More Useful Keyboard ([github.com](https://github.com/jasonrudolph/keyboard)
+* KBC Poker II ([techkeys.us](http://techkeys.us/collections/keyboards/products/poker-2)
+* Keyboard Pr0n ([i.imgur](http://i.imgur.com/y7Xa4.jpg)
 
 ###Git
-* _A successful branching model_—http://nvie.com/posts/a-successful-git-branching-model/
-* _Git Commit Messages_—http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+* A successful branching model ([nvie.com](http://nvie.com/posts/a-successful-git-branching-model/)
+* Git Commit Messages ([tbaggery.com](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 ###Email
-* _NSA Proof your email—setup your own server_—http://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/
-* _Snowden's Email Service_—http://lavabit.com/
-* _Personalized Bulk Email using Google_—https://github.com/danielsz/mmailer
+* NSA Proof your email—setup your own server ([sealedabstract.com](http://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/)
+* Snowden's Email Service ([lavabit.com](http://lavabit.com/)
+* Personalized Bulk Email using Google ([github.com](https://github.com/danielsz/mmailer)
 
 * * *
 
 ##Programming
 
-* _WebPlatformDaily_—http://webplatformdaily.org/
+* WebPlatformDaily ([webplatformdaily.org](http://webplatformdaily.org/)
 
 ###PHP
-* _PHP Data Structures_—http://phpmaster.com/php-data-structures-1/
-* _PHP Truthy Values_—http://habnab.it/php-table.html
-* _Twig Templating_ ([twig.sensiolabs](http://twig.sensiolabs.org/))
-* _HWIO OAuth Bundle_ ([github](https://github.com/hwi/HWIOAuthBundle))
-* _DdeboerSalesforceMapperBundle_ ([github](https://github.com/Ddeboer/DdeboerSalesforceMapperBundle/))
+* PHP Data Structures ([phpmaster.com](http://phpmaster.com/php-data-structures-1/)
+* PHP Truthy Values ([habnab.it](http://habnab.it/php-table.html)
+* Twig Templating ([twig.sensiolabs](http://twig.sensiolabs.org/))
+* HWIO OAuth Bundle ([github](https://github.com/hwi/HWIOAuthBundle))
+* DdeboerSalesforceMapperBundle ([github](https://github.com/Ddeboer/DdeboerSalesforceMapperBundle/))
 
 ####Laravel
-* _Multiple Databases_—http://forums.laravel.io/viewtopic.php?id=923
-* _Code Happy_—http://codehappy.daylerees.com/
-* _Laravel Migrations_—http://phpmaster.com/laravel-migrations/
+* Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923)
+* Code Happy ([codehappy.daylerees](http://codehappy.daylerees.com/)
+* Laravel Migrations ([phpmaster.com](http://phpmaster.com/laravel-migrations/)
 
 ###Python
-* _GMail for Python_—https://github.com/charlierguo/gmail
+* GMail for Python ([github.com](https://github.com/charlierguo/gmail)
 
 ### HTML5
-* _Fun with the HTML <image> tag_—http://jakearchibald.com/2013/having-fun-with-image/
-* _Client-side Storage Options_—http://tech.pro/blog/1486/client-side-storage-options
-* _Front-end Performance Crash Course_—https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY#grigorik
-* _Multi-Level hidden push menu_—http://tympanus.net/codrops/2013/08/13/multi-level-push-menu/
-* _favicon numbers_—http://chrishunt.co/favcount/
+* Fun with the HTML <image> tag ([jakearchibald.com](http://jakearchibald.com/2013/having-fun-with-image/)
+* Client-side Storage Options ([tech.pro](http://tech.pro/blog/1486/client-side-storage-options)
+* Front-end Performance Crash Course ([youtube](https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY#grigorik)
+* Multi-Level hidden push menu ([tympanus.net](http://tympanus.net/codrops/2013/08/13/multi-level-push-menu/)
+* favicon numbers ([chrishunt.co](http://chrishunt.co/favcount/)
 
 ###Javascript
-* _iOS supported JS Events_—http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5
-* _Dates for Humans_—http://matthewmueller.github.io/date/
-* _Touch Event Library_—http://eightmedia.github.io/hammer.js/
-* _Date/Time Library_—http://momentjs.com/
-* _Money Library_—http://josscrowcroft.github.io/accounting.js/
-* _Keyboard Shortcuts Library_—https://github.com/ccampbell/mousetrap
-* _Required Reading_—http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/
-* _Object Oriented Javascript Guide_—http://www.objectplayground.com/
-* _Backbone.JS deconstructed by Cody Lindley_—http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed
-* _What's your timezone_—http://trevoro.net/2013/whats-your-timezone/
-* _Bower for depencies_—npm, too? No? Ok—http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower
-* _jQuery Plugin Bolierplate_—http://jqueryboilerplate.com/
-* _Thin progress bar top of page_—http://ricostacruz.com/nprogress/
-* _Absolute Beginners Guide to Node.js_—http://blog.modulus.io/absolute-beginners-guide-to-nodejs
+* Determine if a string contains another string ([designpepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches))
+* iOS supported JS Events ([developer.apple](http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5)
+* Dates for Humans ([matthewmueller.github](http://matthewmueller.github.io/date/)
+* Touch Event Library ([eightmedia.github](http://eightmedia.github.io/hammer.js/)
+* Date/Time Library ([/momentjs.](http://momentjs.com/)
+* Money Library ([josscrowcroft.github](http://josscrowcroft.github.io/accounting.js/)
+* Keyboard Shortcuts Library ([github.com](https://github.com/ccampbell/mousetrap)
+* Required Reading ([net.tutsplus](http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/)
+* Object Oriented Javascript Guide ([objectplayground](http://www.objectplayground.com/)
+* Backbone.JS deconstructed by Cody Lindley ([tech.pro](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed)
+* What's your timezone ([trevoro.net](http://trevoro.net/2013/whats-your-timezone/)
+* Bower for depencies ([tysoncadenhead.com](npm, too? No? Ok—http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower)
+* jQuery Plugin Bolierplate ([jqueryboilerplate.com](http://jqueryboilerplate.com/)
+* Thin progress bar top of page ([ricostacruz.com](http://ricostacruz.com/nprogress/)
+* Absolute Beginners Guide to Node.js ([blog.modulus](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 
 ###CSS
-* _CSS Guidelines_—https://github.com/csswizardry/CSS-Guidelines
-* _Idomatic CSS_—https://github.com/necolas/idiomatic-css
-* _Github's CSS Performance_—http://vimeo.com/54990931
-* _Best available ampersand w/Unicode-range_—http://24ways.org/2011/creating-custom-font-stacks-with-unicode-range/
-* _Drawing things with Box-Shadow_—http://joshnh.com/2012/08/16/drawing-things-with-box-shadow/
-* _TopCoat CSS_—http://flippinawesome.org/2013/08/05/introduction-to-topcoat/
-* _Writing Better CSS_—http://flippinawesome.org/2013/08/12/writing-better-css/
-* _Gmail-style expanding css3 navigation_—http://blog.teamtreehouse.com/build-a-gmail-style-expanding-css3-navigation-menu
-* _Flippabe Book Using CSS Regions_—http://updates.html5rocks.com/2012/07/Writing-a-flippable-book-using-CSS-Regions-and-3D-transforms
-* _3D Gallery_—http://tympanus.net/codrops/2012/02/06/3d-gallery-with-css3-and-jquery/
-* _Absolute Center in CSS_—http://codepen.io/shshaw/full/gEiDt
-* Detecting CSS Style Support (ryanmorr)[http://ryanmorr.com/detecting-css-style-support/]
+* CSS Guidelines ([github.com](https://github.com/csswizardry/CSS-Guidelines)
+* Idomatic CSS ([github.com](https://github.com/necolas/idiomatic-css)
+* Github's CSS Performance ([vimeo.com](http://vimeo.com/54990931)
+* Best available ampersand w/Unicode-range ([/24ways.](http://24ways.org/2011/creating-custom-font-stacks-with-unicode-range/)
+* Drawing things with Box-Shadow ([joshnh.com](http://joshnh.com/2012/08/16/drawing-things-with-box-shadow/)
+* TopCoat CSS ([flippinawesome.org](http://flippinawesome.org/2013/08/05/introduction-to-topcoat/)
+* Writing Better CSS ([flippinawesome.org](http://flippinawesome.org/2013/08/12/writing-better-css/)
+* Gmail-style expanding css3 navigation ([blog.teamtreehouse](http://blog.teamtreehouse.com/build-a-gmail-style-expanding-css3-navigation-menu)
+* Flippabe Book Using CSS Regions ([updates.html5rocks](http://updates.html5rocks.com/2012/07/Writing-a-flippable-book-using-CSS-Regions-and-3D-transforms)
+* 3D Gallery ([tympanus.net](http://tympanus.net/codrops/2012/02/06/3d-gallery-with-css3-and-jquery/)
+* Absolute Center in CSS ([codepen.io](http://codepen.io/shshaw/full/gEiDt)
+* Detecting CSS Style Support ([ryanmorr](http://ryanmorr.com/detecting-css-style-support/))
 
 ###Ruby
-* _Turn a Rails app into a Debian Package in Minutes_—https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59
-* _Distributing command line applications—from ruby to go_—http://codegangsta.io/blog/2013/07/21/creating-cli-applications-in-go
-* _Localtunnel—share your localhost_—http://progrium.com/localtunnel/
-* _Work with Photoshop Documents_—http://cosmos.layervault.com/psdrb.html
-* _Bloc Ruby Warrior: Ruby Web Game_—https://www.bloc.io/ruby-warrior/#/
-* _Let's build a Sinatra App_—http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html
-* _Ruby Port Scanner_—http://rubysource.com/build-a-port-scanner-in-ruby/
-* _The Observer Pattern_—http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html
+* Turn a Rails app into a Debian Package in Minutes ([discuss.gemnasium](https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59)
+* Distributing command line applications—from ruby to go ([codegangsta.io](http://codegangsta.io/blog/2013/07/21/creating-cli-applications-in-go)
+* Localtunnel—share your localhost ([progrium.com](http://progrium.com/localtunnel/)
+* Work with Photoshop Documents ([cosmos.layervault](http://cosmos.layervault.com/psdrb.html)
+* Bloc Ruby Warrior: Ruby Web Game ([bloc](https://www.bloc.io/ruby-warrior/#/)
+* Let's build a Sinatra App ([matt.weppler](http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html)
+* Ruby Port Scanner ([rubysource.com](http://rubysource.com/build-a-port-scanner-in-ruby/)
+* The Observer Pattern ([reefpoints.dockyard](http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html)
 * nO_op ([github](https://github.com/ymendel/nO_op))
 * Ruby Rouges—Understanding Computation ([rubyrouges](http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/))
 * Nokogiri—what to do if libxml2 is being a jerk ([github](https://github.com/sparklemotion/nokogiri/wiki/What-to-do-if-libxml2-is-being-a-jerk))
 
 ###C
-* _Basics of Function Pointers in C_—http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/
+* Basics of Function Pointers in C ([denniskubes.com](http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/)
 
 ### R
-* _R Tutorial_—http://www.cyclismo.org/tutorial/R/index.html
-* _Exploring Everyday Things with Ruby and R_—http://blog.airbrake.io/guest-post/exploring-everything/
+* R Tutorial ([cyclismo](http://www.cyclismo.org/tutorial/R/index.html)
+* Exploring Everyday Things with Ruby and R ([blog.airbrake](http://blog.airbrake.io/guest-post/exploring-everything/)
 
 ### Music/Audio
-* _M4A to MP3_—http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/
-* _Node Icecast Stack_—https://npmjs.org/package/icecast-stack
-* _Icecast KH Brach_—https://github.com/karlheyes/icecast-kh
-* _Deb Multimedia Repo_—http://www.deb-multimedia.org/
-* _Experimental Music Player_—http://www.wothke.ch/experimental/TinyJsSid.html
+* M4A to MP3 ([conjurecode.com](http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/)
+* Node Icecast Stack ([npmjs.org](https://npmjs.org/package/icecast-stack)
+* Icecast KH Brach ([github.com](https://github.com/karlheyes/icecast-kh)
+* Deb Multimedia Repo ([deb-multimedia](http://www.deb-multimedia.org/)
+* Experimental Music Player ([wothke](http://www.wothke.ch/experimental/TinyJsSid.html)
 
 * * *
 
@@ -160,36 +161,36 @@
 * Puppet at Github ([speakerdeck](https://speakerdeck.com/wfarr/puppet-at-github-puppetcamp-raleigh-2013))
 
 ###Chef
-* _Chef Solo—cooking for 1_—http://horewi.cz/chef-solo-quick-and-easy-cooking-for-one.html
-* _Chef LAMP setup_—http://www.jasongrimes.org/2012/06/managing-lamp-environments-with-chef-vagrant-and-ec2-1-of-3/
-* _Knife Solo_—http://matschaffer.github.io/knife-solo/
+* Chef Solo—cooking for 1 ([horewi.cz](http://horewi.cz/chef-solo-quick-and-easy-cooking-for-one.html)
+* Chef LAMP setup ([jasongrimes](http://www.jasongrimes.org/2012/06/managing-lamp-environments-with-chef-vagrant-and-ec2-1-of-3/)
+* Knife Solo ([matschaffer.github](http://matschaffer.github.io/knife-solo/)
 
 ###Docker
-* _Docker Tutorial_—https://github.com/kencochrane/docker-tutorial/blob/master/docker-tutorial.rst
-* _CoreOS Vagrant Images_—http://coreos.com/blog/coreos-vagrant-images/kj
-* _SSH, X, Libreoffice and Docker_—http://blog.docker.io/2013/07/docker-desktop-your-desktop-over-ssh-running-inside-of-a-docker-container/
+* Docker Tutorial ([github.com](https://github.com/kencochrane/docker-tutorial/blob/master/docker-tutorial.rst)
+* CoreOS Vagrant Images ([coreos.com](http://coreos.com/blog/coreos-vagrant-images/kj)
+* SSH, X, Libreoffice and Docker ([blog.docker](http://blog.docker.io/2013/07/docker-desktop-your-desktop-over-ssh-running-inside-of-a-docker-container/)
 
 ###Apache
-* _403 Errors in Mac OSX 10.8.4_—http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden
+* 403 Errors in Mac OSX 10.8.4 ([stackoverflow.com](http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden)
 
 ##Linux
-* _Why GNU Grep is Fast_—http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
-* _Useful Unix for Data Science_—http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/
-* _Diplay images with tput and terminal_—https://gist.github.com/heptal/6052573
-* _Elementary OS Ultrabook_—http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/
-* _What is systemd?_—https://wiki.archlinux.org/index.php/Systemd
-* _OSX Emulator_—http://darling.dolezel.info/en/Darling
-* _Unix Text Processing_—http://oreilly.com/openbook/utp/UnixTextProcessing.pdf
+* Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
+* Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/)
+* Diplay images with tput and terminal ([gist.github](https://gist.github.com/heptal/6052573)
+* Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/)
+* What is systemd? ([wiki.archlinux](https://wiki.archlinux.org/index.php/Systemd)
+* OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling)
+* Unix Text Processing ([oreilly.com](http://oreilly.com/openbook/utp/UnixTextProcessing.pdf)
 
 ##MySQL
-* _Setup Replication Without the Downtime_—http://plusbryan.com/mysql-replication-without-downtime
-* _Storing Heirarchical Data in a database_—http://www.sitepoint.com/hierarchical-data-database/
+* Setup Replication Without the Downtime ([plusbryan.com](http://plusbryan.com/mysql-replication-without-downtime)
+* Storing Heirarchical Data in a database ([sitepoint](http://www.sitepoint.com/hierarchical-data-database/)
 
 * * *
 
 ## Snippets
 
-* _CSS Ligatures_
+* CSS Ligatures
 
     ```CSS
     font-variant-ligatures:common-ligatures additionalligatures;
