@@ -10,6 +10,7 @@
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
 * Bayesian Methods for Hackers ([camdavidsonpilon.github](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/))
 * The Linux Command Line ([linuxcommand.org](http://linuxcommand.org/tlcl.php))
+* List of freely available programming books ([stackoverflow](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926l))
 * Book Pr0n ([i.imgur](http://i.imgur.com/1mQOZg9.jpg))
 
 * * *
@@ -48,6 +49,7 @@
 * Toward a More Useful Keyboard ([github.com](https://github.com/jasonrudolph/keyboard))
 * KBC Poker II ([techkeys.us](http://techkeys.us/collections/keyboards/products/poker-2))
 * Keyboard Pr0n ([i.imgur](http://i.imgur.com/y7Xa4.jpg))
+* CODE Keyboard ([codinghorror](http://www.codinghorror.com/blog/2013/08/the-code-keyboard.htmll))
 
 ###Git
 * A successful branching model ([nvie.com](http://nvie.com/posts/a-successful-git-branching-model/))
@@ -70,6 +72,7 @@
 * Twig Templating ([twig.sensiolabs](http://twig.sensiolabs.org/))
 * HWIO OAuth Bundle ([github](https://github.com/hwi/HWIOAuthBundle))
 * DdeboerSalesforceMapperBundle ([github](https://github.com/Ddeboer/DdeboerSalesforceMapperBundle/))
+* PHP is just coming into it's own ([blackshawk gist](https://gist.github.com/Blackshawk/5327505l))
 
 ####Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
