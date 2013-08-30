@@ -126,6 +126,7 @@
 * _The Observer Pattern_—http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html
 * nO_op ([github](https://github.com/ymendel/nO_op))
 * Ruby Rouges—Understanding Computation ([rubyrouges](http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/))
+* Nokogiri—what to do if libxml2 is being a jerk ([github](https://github.com/sparklemotion/nokogiri/wiki/What-to-do-if-libxml2-is-being-a-jerk))
 
 ###C
 * _Basics of Function Pointers in C_—http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/
