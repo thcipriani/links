@@ -6,6 +6,8 @@
 * Bookmarking a bookmarking site ([pinboard](http://pinboard.in/popular/))
 * $22 Standing Desk ([iamnotaprogrammer](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html))
 * Traffic Hacks: How One driver can improve traffic ([trafficwaves](http://trafficwaves.org/))
+* Google Correlate Draw ([google](http://www.google.com/trends/correlate/draw))
+* Chiptune composer ([html5gamedevs](http://www.html5gamedevs.com/topic/1271-chirp-8-bit-javascript-chitpune-music-composer/))
 
 ##ASCII
 * T E X T F I L E S ([textfiles.com](http://textfiles.com/directory.html))

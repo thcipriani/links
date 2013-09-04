@@ -5,6 +5,8 @@
 * 4 Steps to Google Without a Degree ([medium.com](https://medium.com/this-happened-to-me/8f381aa6bd5e))
 * One Hundred Ideas for Computing ([github.com](https://github.com/samsquire/ideas))
 * Financial Times Webapp ([coding.smashingmagazine](http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/))
+* The Laborer and the Craftsman ([8thlight](http://blog.8thlight.com/uncle-bob/2013/01/30/The-Craftsman-And-The-Laborer.html))
+* On being a better developer ([andreiboar](http://www.andreiboar.com/career/on-being-a-better-developer/))
 
 ##Books
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
@@ -16,6 +18,7 @@
 * * *
 
 ##Tools
+* Codekit steroids for web developers ([incident57](http://incident57.com/codekit/))
 * Manage SSH Like a Boss ([emre.github](http://emre.github.io/storm/))
 * ASCII.io—Record your terminal and share it no fuss ([ascii.io](- http://ascii.io/))
 * PouchDB—The database that syncs ([pouchdb.com](http://pouchdb.com/))
@@ -26,6 +29,11 @@
 * Create your own chrome extensions ([coryg89.github](http://coryg89.github.io/technical/2013/08/13/how-to-create-your-own-chrome-extensions/))
 * Quickly navigate you system forom the command line ([jeroenjanssens.com](http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html))
 * URL to Screenshot ([github](https://github.com/re-view/url-to-screenshot))
+* Faster than Ack ([github](https://github.com/ggreer/the_silver_searcher))
+* Front-end generators ([flippinawesome](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators))
+
+## Hardware
+* Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
 
 ###Vim
 * Vimcasts ([vimcasts.org](http://vimcasts.org/episodes/archive))
@@ -38,20 +46,23 @@
 * Learn Vimscript the hard way ([learnvimscriptthehardway.stevelosh](http://learnvimscriptthehardway.stevelosh.com/chapters/51.html))
 * Sensible defaults by Tim Pope ([github.com](https://github.com/tpope/vim-sensible))
 * CoVim ([fredkschott](http://www.fredkschott.com/post/50510962864/introducing-covim-collaborative-editing-for-vim))
-* Learn Vim Progressively [yannesposito](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/))
+* Learn Vim Progressively ([yannesposito](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/))
+* Tomorrow Theme ([github](https://github.com/chriskempson/tomorrow-theme))
+* Maximum Awesome ([squareup](http://corner.squareup.com/2013/08/fly-vim-first-class.html))
 
 ## Sublime Text
 * Vintagous ([guillermooo.bitbucket](http://guillermooo.bitbucket.org/Vintageous/))
 * Upgrading to Sublime Text 3 ([harrywolff.com](http://harrywolff.com/upgrading-to-sublime-text-3/))
 
-###Keyboards
+### Keyboards
 * A Modern Space Cadet ([stevelosh.com](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/))
 * Toward a More Useful Keyboard ([github.com](https://github.com/jasonrudolph/keyboard))
 * KBC Poker II ([techkeys.us](http://techkeys.us/collections/keyboards/products/poker-2))
 * Keyboard Pr0n ([i.imgur](http://i.imgur.com/y7Xa4.jpg))
 * CODE Keyboard ([codinghorror](http://www.codinghorror.com/blog/2013/08/the-code-keyboard.htmll))
 
-###Git
+### Git
+* Git is simpler than you think ([nfarina](http://nfarina.com/post/9868516270/git-is-simpler))
 * A successful branching model ([nvie.com](http://nvie.com/posts/a-successful-git-branching-model/))
 * Git Commit Messages ([tbaggery.com](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html))
 
@@ -66,7 +77,9 @@
 
 * WebPlatformDaily ([webplatformdaily.org](http://webplatformdaily.org/))
 
-###PHP
+### PHP
+* Awesome PHP ([gist.github](https://gist.github.com/ziadoz/1677679))
+* PHP The right way ([phptherightway](http://www.phptherightway.com/))
 * PHP Data Structures ([phpmaster.com](http://phpmaster.com/php-data-structures-1/))
 * PHP Truthy Values ([habnab.it](http://habnab.it/php-table.html))
 * Twig Templating ([twig.sensiolabs](http://twig.sensiolabs.org/))
@@ -74,12 +87,12 @@
 * DdeboerSalesforceMapperBundle ([github](https://github.com/Ddeboer/DdeboerSalesforceMapperBundle/))
 * PHP is just coming into it's own ([blackshawk gist](https://gist.github.com/Blackshawk/5327505l))
 
-####Laravel
+#### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
 * Code Happy ([codehappy.daylerees](http://codehappy.daylerees.com/))
 * Laravel Migrations ([phpmaster.com](http://phpmaster.com/laravel-migrations/))
 
-###Python
+### Python
 * GMail for Python ([github.com](https://github.com/charlierguo/gmail))
 
 ### HTML5
@@ -89,7 +102,8 @@
 * Multi-Level hidden push menu ([tympanus.net](http://tympanus.net/codrops/2013/08/13/multi-level-push-menu/))
 * favicon numbers ([chrishunt.co](http://chrishunt.co/favcount/))
 
-###Javascript
+### Javascript
+* Analyzing network characteristics in the DOM ([smashingmagazine](http://coding.smashingmagazine.com/2011/11/14/analyzing-network-characteristics-using-javascript-and-the-dom-part-1/))
 * Determine if a string contains another string ([designpepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches))
 * iOS supported JS Events ([developer.apple](http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5))
 * Dates for Humans ([matthewmueller.github](http://matthewmueller.github.io/date/))
@@ -174,6 +188,7 @@
 * Docker Tutorial ([github.com](https://github.com/kencochrane/docker-tutorial/blob/master/docker-tutorial.rst))
 * CoreOS Vagrant Images ([coreos.com](http://coreos.com/blog/coreos-vagrant-images/kj))
 * SSH, X, Libreoffice and Docker ([blog.docker](http://blog.docker.io/2013/07/docker-desktop-your-desktop-over-ssh-running-inside-of-a-docker-container/))
+* Interactive Docker Tutorial ([blog.docker](http://blog.docker.io/2013/08/introducing-an-interactive-docker-tutorial/))
 
 ###Apache
 * 403 Errors in Mac OSX 10.8.4 ([stackoverflow.com](http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden))
