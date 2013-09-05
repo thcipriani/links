@@ -49,6 +49,7 @@
 * Learn Vim Progressively ([yannesposito](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/))
 * Tomorrow Theme ([github](https://github.com/chriskempson/tomorrow-theme))
 * Maximum Awesome ([squareup](http://corner.squareup.com/2013/08/fly-vim-first-class.html))
+* Mobile Cheatsheet ([rtorruellas](http://rtorruellas.com/vim-cheat-sheet/))
 
 ## Sublime Text
 * Vintagous ([guillermooo.bitbucket](http://guillermooo.bitbucket.org/Vintageous/))
