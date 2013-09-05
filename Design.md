@@ -11,6 +11,7 @@
   * http://www.bohemiancoding.com/sketch/
   * https://medium.com/design-ux/25545f6cb161
 * Effeckt.css ([h5bp.github](http://h5bp.github.io/Effeckt.css/dist/))
+* Photoshop/Illustrator Cheatsheets ([zerolag](http://www.zerolag.com/infographics/))
 
 ## Articles
 
@@ -48,3 +49,7 @@
 
 ##UI/UX
 * Archy ([en.wikipedia](https://en.wikipedia.org/wiki/Archy))
+* Progress bar perceived duration ([chrisharrison](http://www.chrisharrison.net/projects/progressbars2/ProgressBarsHarrison.pdf))
+
+## Photography
+* Old-New Stock Photos ([nos.twnsnd](http://nos.twnsnd.co/))
