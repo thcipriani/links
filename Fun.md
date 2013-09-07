@@ -1,6 +1,7 @@
 #Fun.
 
 ## Bash/Terminal
+* The Useless Use of `cat` Award ([partmaps](http://partmaps.org/era/unix/award.html#cat))
 * Terminal Keynote (Ruby) ([github](https://github.com/fxn/tkn))
 * Boom. Motherfucking Text Snippets on the command line ([zachhholman](http://zachholman.com/boom/))
 * Spark sparklines for your shell ([zachholman](http://zachholman.com/spark/))
@@ -13,6 +14,11 @@
 * Boxes ([thomasjensen](http://boxes.thomasjensen.com/))
 * Cadubi (perl) ([langworth](http://langworth.com/pub/cadubi/))
 * img2txt ([hit9](http://hit9.org/img2txt/))
+* Nyancat ([klange.github](https://github.com/klange/nyancat))
+* CMatrix ([asty](http://www.asty.org/cmatrix/))
+* janbrennen rice ([github](https://github.com/janbrennen/rice))
+* dotshare.it ([dotshare.it](http://dotshare.it))
+* linux logo ([freecode](http://freecode.com/projects/linuxlogo))
 
 ## ASCII
 * T E X T F I L E S ([textfiles.com](http://textfiles.com/directory.html))
@@ -33,6 +39,7 @@
 
 ## Music
 * 4chan.org/mu chart ([images4.wikia](http://images4.wikia.nocookie.net/__cb20120629173013/mu4chan/images/e/e4/General_essentials_with_kanye.jpg))
+* Play Github Music Server ([github](https://github.com/play))
 
 ## Cooking
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))
@@ -46,3 +53,4 @@
 * Google Correlate Draw ([google](http://www.google.com/trends/correlate/draw))
 * Chiptune composer ([html5gamedevs](http://www.html5gamedevs.com/topic/1271-chirp-8-bit-javascript-chitpune-music-composer/))
 * What shoes go with what ([imgur](http://i.imgur.com/GWYYPz6.jpg))
+* Pixel art (great for MOTD stuff) ([deviantart](http://www.deviantart.com/digitalart/pixelart/))

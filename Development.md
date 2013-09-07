@@ -36,20 +36,24 @@
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
 
 ###Vim
+* Vim Logo Font ([myfonts](http://www.myfonts.com/fonts/linotype/crillee/))
 * Vimcasts ([vimcasts.org](http://vimcasts.org/episodes/archive))
 * Vim Airline ([github.com](https://github.com/bling/vim-airline))
 * YouCompleteMe ([valloric.github](http://valloric.github.io/YouCompleteMe/))
-* Bling.vim ([bling.github](http://bling.github.io/dotvim/))
 * Online Colorscheme Editor ([bytefluent.com](http://bytefluent.com/vivify/))
+* Unite Outline ([h1mesuke](https://github.com/h1mesuke/unite-outline/wiki))
 * Notetaking…maybe I want this? ([github.com](https://github.com/xolox/vim-notes))
-* Vim Logo Font ([myfonts](http://www.myfonts.com/fonts/linotype/crillee/))
 * Learn Vimscript the hard way ([learnvimscriptthehardway.stevelosh](http://learnvimscriptthehardway.stevelosh.com/chapters/51.html))
 * Sensible defaults by Tim Pope ([github.com](https://github.com/tpope/vim-sensible))
 * CoVim ([fredkschott](http://www.fredkschott.com/post/50510962864/introducing-covim-collaborative-editing-for-vim))
 * Learn Vim Progressively ([yannesposito](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/))
 * Tomorrow Theme ([github](https://github.com/chriskempson/tomorrow-theme))
-* Maximum Awesome ([squareup](http://corner.squareup.com/2013/08/fly-vim-first-class.html))
 * Mobile Cheatsheet ([rtorruellas](http://rtorruellas.com/vim-cheat-sheet/))
+* Neobundle—dotfile future ([shougo.github](https://github.com/Shougo/neobundle.vim))
+* Maximum Awesome ([squareup](http://corner.squareup.com/2013/08/fly-vim-first-class.html))
+* Bling.vim ([bling.github](http://bling.github.io/dotvim/))
+* Subvim—make vim sublime text ([faith.github](https://github.com/faith/subvim))
+* Vim-signature — display marks in your gutter ([github](https://github.com/kshenoy/vim-signature))
 
 ## Sublime Text
 * Vintagous ([guillermooo.bitbucket](http://guillermooo.bitbucket.org/Vintageous/))
@@ -80,8 +84,10 @@
 
 ### PHP
 * Awesome PHP ([gist.github](https://gist.github.com/ziadoz/1677679))
+* From Proecedural to Object-Oriented PHP ([nettuts](http://net.tutsplus.com/tutorials/php/from-procedural-to-object-oriented-php/))
 * PHP The right way ([phptherightway](http://www.phptherightway.com/))
 * PHP Data Structures ([phpmaster.com](http://phpmaster.com/php-data-structures-1/))
+* PHP Best Practices ([phpbestpractices](https://phpbestpractices.org))
 * PHP Truthy Values ([habnab.it](http://habnab.it/php-table.html))
 * Twig Templating ([twig.sensiolabs](http://twig.sensiolabs.org/))
 * HWIO OAuth Bundle ([github](https://github.com/hwi/HWIOAuthBundle))
@@ -120,6 +126,7 @@
 * jQuery Plugin Bolierplate ([jqueryboilerplate.com](http://jqueryboilerplate.com/))
 * Thin progress bar top of page ([ricostacruz.com](http://ricostacruz.com/nprogress/))
 * Absolute Beginners Guide to Node.js ([blog.modulus](http://blog.modulus.io/absolute-beginners-guide-to-nodejs))
+* How to write a command line app in Node ([liangzan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/))
 
 ###CSS
 * CSS Guidelines ([github.com](https://github.com/csswizardry/CSS-Guidelines))
@@ -152,6 +159,9 @@
 ###C
 * Basics of Function Pointers in C ([denniskubes.com](http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/))
 
+### Objective C
+* NYTimes Objective-C Style Guide ([github](https://github.com/NYTimes/objective-c-style-guide))
+
 ### R
 * R Tutorial ([cyclismo](http://www.cyclismo.org/tutorial/R/index.html))
 * Exploring Everyday Things with Ruby and R ([blog.airbrake](http://blog.airbrake.io/guest-post/exploring-everything/))
@@ -171,6 +181,9 @@
 * SysadminCasts ([sysadmincasts](http://sysadmincasts.com/))
 * Memcached on CentOS with PECL ([bxtra](http://www.bxtra.net/articles/2011-03-22/how-to-install-memcached-on-centos-memcached-pecl-update-20110322))
 * Yum Install Command Examples ([thegeekstuff](http://www.thegeekstuff.com/2011/08/yum-command-examples/))
+* Informative MOTD ([terminally-incoherent.com](http://www.terminally-incoherent.com/blog/2013/03/20/informative-motd/))
+* 9 Traits of the Veteran Unix Admin ([g33kinfo](http://g33kinfo.com/info/archives/4502))
+* rm -rf ([justpasha](http://justpasha.org/folk/rm.html))
 
 ###Puppet
 * Introduction to Puppet ([davidwinter](http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/))
@@ -187,6 +200,7 @@
 
 ###Docker
 * Docker Tutorial ([github.com](https://github.com/kencochrane/docker-tutorial/blob/master/docker-tutorial.rst))
+* Drupal on Docker ([robknight](http://robknight.org.uk/blog/2013/05/drupal-on-docker/))
 * CoreOS Vagrant Images ([coreos.com](http://coreos.com/blog/coreos-vagrant-images/kj))
 * SSH, X, Libreoffice and Docker ([blog.docker](http://blog.docker.io/2013/07/docker-desktop-your-desktop-over-ssh-running-inside-of-a-docker-container/))
 * Interactive Docker Tutorial ([blog.docker](http://blog.docker.io/2013/08/introducing-an-interactive-docker-tutorial/))
@@ -198,14 +212,18 @@
 * Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html))
 * Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/))
 * Diplay images with tput and terminal ([gist.github](https://gist.github.com/heptal/6052573))
-* Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
 * What is systemd? ([wiki.archlinux](https://wiki.archlinux.org/index.php/Systemd))
-* OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling))
 * Unix Text Processing ([oreilly.com](http://oreilly.com/openbook/utp/UnixTextProcessing.pdf))
+
+## Desktop Linux
+* Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
+* OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling))
+* Photoshop in Ubuntu ([prtfl.io](http://www.prtfl.io/muellerwolfram/blog/2013/1/23/how-to-use-photoshop-in-ubuntu))
 
 ##MySQL
 * Setup Replication Without the Downtime ([plusbryan.com](http://plusbryan.com/mysql-replication-without-downtime))
 * Storing Heirarchical Data in a database ([sitepoint](http://www.sitepoint.com/hierarchical-data-database/))
+* Everything you wanted to know about SQL injection ([troyhunt](www.troyhunt.com/2013/07/evertything-you-wanted-to-know-about-sql.html))
 
 * * *
 
