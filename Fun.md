@@ -45,6 +45,7 @@
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))
 
 ## Random
+* HeimControl—Raspberry-pi, Node, Mongo and Socket.io ([ni-c.github](http://ni-c.github.io/heimcontrol.js/))
 * Unsuck terrible business jargon ([unsuck-it](http://unsuck-it.com/))
 * Lateral Thinking Puzzles ([rinkworks](http://www.rinkworks.com/brainfood/p/latreal1.shtml))
 * Bookmarking a bookmarking site ([pinboard](http://pinboard.in/popular/))
