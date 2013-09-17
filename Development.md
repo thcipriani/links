@@ -116,17 +116,21 @@
 * iOS supported JS Events ([developer.apple](http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5))
 * Dates for Humans ([matthewmueller.github](http://matthewmueller.github.io/date/))
 * Touch Event Library ([eightmedia.github](http://eightmedia.github.io/hammer.js/))
-* Date/Time Library ([/momentjs.](http://momentjs.com/))
+* Date/Time Library ([momentjs.](http://momentjs.com/))
 * Money Library ([josscrowcroft.github](http://josscrowcroft.github.io/accounting.js/))
 * Keyboard Shortcuts Library ([github.com](https://github.com/ccampbell/mousetrap))
 * Required Reading ([net.tutsplus](http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/))
 * Object Oriented Javascript Guide ([objectplayground](http://www.objectplayground.com/))
 * Backbone.JS deconstructed by Cody Lindley ([tech.pro](http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed))
 * What's your timezone ([trevoro.net](http://trevoro.net/2013/whats-your-timezone/))
-* Bower for depencies ([tysoncadenhead.com](npm, too? No? Ok—http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower))
+* Bower for dependencies ([tysoncadenhead.com](npm, too? No? Ok—http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower))
 * jQuery Plugin Bolierplate ([jqueryboilerplate.com](http://jqueryboilerplate.com/))
 * Thin progress bar top of page ([ricostacruz.com](http://ricostacruz.com/nprogress/))
+
+#### Node
+* Raspberry Pi, Arduino Home automation ([ni-c.github](http://ni-c.github.io/heimcontrol.js/))
 * Absolute Beginners Guide to Node.js ([blog.modulus](http://blog.modulus.io/absolute-beginners-guide-to-nodejs))
+* Guide for front-end devlopers to getting started with Node ([cwbuecheler](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/))
 * How to write a command line app in Node ([liangzan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/))
 
 ###CSS
@@ -185,6 +189,7 @@
 * Informative MOTD ([terminally-incoherent.com](http://www.terminally-incoherent.com/blog/2013/03/20/informative-motd/))
 * 9 Traits of the Veteran Unix Admin ([g33kinfo](http://g33kinfo.com/info/archives/4502))
 * rm -rf ([justpasha](http://justpasha.org/folk/rm.html))
+* Taste Test Asible, Puppet, Chef ([gumroad](https://gumroad.com/l/taste-test/rubyweekly))
 
 ###Puppet
 * Introduction to Puppet ([davidwinter](http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/))
@@ -222,6 +227,7 @@
 * Photoshop in Ubuntu ([prtfl.io](http://www.prtfl.io/muellerwolfram/blog/2013/1/23/how-to-use-photoshop-in-ubuntu))
 
 ##MySQL
+* 10 Steps to a complete understanding of SQL ([tech.pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql))
 * Setup Replication Without the Downtime ([plusbryan.com](http://plusbryan.com/mysql-replication-without-downtime))
 * Storing Heirarchical Data in a database ([sitepoint](http://www.sitepoint.com/hierarchical-data-database/))
 * Everything you wanted to know about SQL injection ([troyhunt](www.troyhunt.com/2013/07/evertything-you-wanted-to-know-about-sql.html))

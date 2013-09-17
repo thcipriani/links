@@ -28,6 +28,7 @@
 * 147 Colors ([147colors](http://www.147colors.com/))
 * FlatUI Colors ([flatuicolors.com](http://flatuicolors.com/))
 * Adobe Kuler ([kuler.adobe](http://kuler.adobe.com/))
+* Generate Colors Programatically ([devmag](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/))
 
 ##Fonts
 
