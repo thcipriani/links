@@ -216,10 +216,12 @@
 
 ##Linux
 * Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html))
-* Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/))
+* Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2014/07/15/unix-commands-for-data-science/))
+* Seven Unix for Data Science ([jeroenjanssens](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html))
 * Diplay images with tput and terminal ([gist.github](https://gist.github.com/heptal/6052573))
 * What is systemd? ([wiki.archlinux](https://wiki.archlinux.org/index.php/Systemd))
 * Unix Text Processing ([oreilly.com](http://oreilly.com/openbook/utp/UnixTextProcessing.pdf))
+* 5 Unix commands I wish I discovered years earlier ([atomicobject](http://spin.atomicobject.com/2013/09/09/5-unix-commands/))
 
 ## Desktop Linux
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
