@@ -23,6 +23,8 @@
 ## ASCII
 * T E X T F I L E S ([textfiles.com](http://textfiles.com/directory.html))
 * Sixteen Color ANSI/ASCII Art ([sixteencolors.net](http://sixteencolors.net/))
+* Thuglife.org ([Thuglife](http://www.thuglife.org/))
+* Chris Johnson's ASCII Art Collection ([chris.com](http://chris.com/ascii/))
 
 ## Gif
 * Pronounciation ([bbc.co.uk](http://www.bbc.co.uk/news/technology-22620473))
@@ -40,6 +42,8 @@
 ## Music
 * 4chan.org/mu chart ([images4.wikia](http://images4.wikia.nocookie.net/__cb20120629173013/mu4chan/images/e/e4/General_essentials_with_kanye.jpg))
 * Play Github Music Server ([github](https://github.com/play))
+* Delicius vinyl ([deliciousvinyl](http://store.deliciousvinyl.com/collections/vinyl))
+* BoomKat ([boomkat](http://boomkat.com/))
 
 ## Cooking
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))

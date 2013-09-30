@@ -1,6 +1,7 @@
 #Development
 
 ##Articles
+* Testing code is simple ([th3james.github](http://th3james.github.io/blog/2013/09/25/testing-code-is-simple/))
 * Learn C You Cheater ([medium.com](https://medium.com/tech-talk/afcfa2920c17))
 * 4 Steps to Google Without a Degree ([medium.com](https://medium.com/this-happened-to-me/8f381aa6bd5e))
 * One Hundred Ideas for Computing ([github.com](https://github.com/samsquire/ideas))
@@ -12,6 +13,7 @@
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
 * Bayesian Methods for Hackers ([camdavidsonpilon.github](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/))
 * The Linux Command Line ([linuxcommand.org](http://linuxcommand.org/tlcl.php))
+* Introduction to the Command Line FSF ([flossmanuals](http://en.flossmanuals.net/command-line/index/))
 * List of freely available programming books ([stackoverflow](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926l))
 * Book Pr0n ([i.imgur](http://i.imgur.com/1mQOZg9.jpg))
 
@@ -70,6 +72,7 @@
 ### Git
 * Git is simpler than you think ([nfarina](http://nfarina.com/post/9868516270/git-is-simpler))
 * A successful branching model ([nvie.com](http://nvie.com/posts/a-successful-git-branching-model/))
+* A simple git branching model ([gist](https://gist.github.com/jbenet/ee6c9ac48068889b0912))
 * Git Commit Messages ([tbaggery.com](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html))
 
 ###Email
@@ -222,6 +225,8 @@
 * What is systemd? ([wiki.archlinux](https://wiki.archlinux.org/index.php/Systemd))
 * Unix Text Processing ([oreilly.com](http://oreilly.com/openbook/utp/UnixTextProcessing.pdf))
 * 5 Unix commands I wish I discovered years earlier ([atomicobject](http://spin.atomicobject.com/2013/09/09/5-unix-commands/))
+* Finalterm ([github](https://github.com/p-e-w/finalterm))
+* Mosh ssh ([mit](http://mosh.mit.edu/))
 
 ## Desktop Linux
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
