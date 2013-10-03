@@ -12,6 +12,7 @@
   * https://medium.com/design-ux/25545f6cb161
 * Effeckt.css ([h5bp.github](http://h5bp.github.io/Effeckt.css/dist/))
 * Photoshop/Illustrator Cheatsheets ([zerolag](http://www.zerolag.com/infographics/))
+* Responsinator ([responsinator](http://www.responsinator.com/))
 
 ## Articles
 

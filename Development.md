@@ -174,6 +174,10 @@
 * R Tutorial ([cyclismo](http://www.cyclismo.org/tutorial/R/index.html))
 * Exploring Everyday Things with Ruby and R ([blog.airbrake](http://blog.airbrake.io/guest-post/exploring-everything/))
 
+### Perl
+* Beginning Perl ([perl.org](http://www.perl.org/books/beginning-perl/))
+* Modern Perl Book ([github](https://github.com/chromatic/modern_perl_book))
+
 ### Music/Audio
 * M4A to MP3 ([conjurecode.com](http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/))
 * Node Icecast Stack ([npmjs.org](https://npmjs.org/package/icecast-stack))
@@ -227,6 +231,7 @@
 * 5 Unix commands I wish I discovered years earlier ([atomicobject](http://spin.atomicobject.com/2013/09/09/5-unix-commands/))
 * Finalterm ([github](https://github.com/p-e-w/finalterm))
 * Mosh ssh ([mit](http://mosh.mit.edu/))
+* The refining-linux advent calendar ([refining-linux](http://www.refining-linux.org/plugin/tag/advent+calendar))
 
 ## Desktop Linux
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
