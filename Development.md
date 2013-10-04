@@ -34,6 +34,7 @@
 * URL to Screenshot ([github](https://github.com/re-view/url-to-screenshot))
 * Faster than Ack ([github](https://github.com/ggreer/the_silver_searcher))
 * Front-end generators ([flippinawesome](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators))
+* Mobile emulation in chrome ([developers.google.com](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation))
 
 ## Hardware
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
