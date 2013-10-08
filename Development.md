@@ -233,6 +233,7 @@
 * Finalterm ([github](https://github.com/p-e-w/finalterm))
 * Mosh ssh ([mit](http://mosh.mit.edu/))
 * The refining-linux advent calendar ([refining-linux](http://www.refining-linux.org/plugin/tag/advent+calendar))
+* Getting started with GnuPG ([madboa](http://www.madboa.com/geek/gpg-quickstart/))
 
 ## Desktop Linux
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
