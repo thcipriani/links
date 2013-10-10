@@ -246,6 +246,16 @@
 * Storing Heirarchical Data in a database ([sitepoint](http://www.sitepoint.com/hierarchical-data-database/))
 * Everything you wanted to know about SQL injection ([troyhunt](www.troyhunt.com/2013/07/evertything-you-wanted-to-know-about-sql.html))
 
+### @neckbeardhacker
+
+* Large scale e-commerce apache and perl ([perl](http://www.perl.com/pub/2001/10/17/etoys.html))
+* Linux kernel module (LKM) programming guide ([tldp](http://www.tldp.org/LDP/lkmpg/2.6/html/))
+* alt.binaries.movies ([binsearch](http://www.binsearch.info/browse.php?bg=alt.binaries.movies))
+* RCS + RSync ([unix-usage-tips](http://unix-usage-tips.blogspot.com/2008/05/rcs-rsync-for-keeping-your-files-on.html))
+* GNU RCS ([gnu.org](http://www.gnu.org/software/rcs/))
+* TCL Tutorial ([tcl](http://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html))
+* Mod TCL ([apache.org](http://tcl.apache.org/mod_tcl/))
+
 * * *
 
 ## Snippets
