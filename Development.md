@@ -136,6 +136,7 @@
 * Absolute Beginners Guide to Node.js ([blog.modulus](http://blog.modulus.io/absolute-beginners-guide-to-nodejs))
 * Guide for front-end devlopers to getting started with Node ([cwbuecheler](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/))
 * How to write a command line app in Node ([liangzan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/))
+* Keep an node.js server up forever ([nodejitsu](http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever))
 
 ###CSS
 * CSS Guidelines ([github.com](https://github.com/csswizardry/CSS-Guidelines))
@@ -164,6 +165,7 @@
 * Ruby Rouges—Understanding Computation ([rubyrouges](http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/))
 * Nokogiri—what to do if libxml2 is being a jerk ([github](https://github.com/sparklemotion/nokogiri/wiki/What-to-do-if-libxml2-is-being-a-jerk))
 * Chrome as IDE for Rails app ([tech.pro](http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1))
+* Deploy a Sinatra Site on a VPS ([codylittlewood](http://codylittlewood.com/build-and-deploy-ruby-microsite-with-sinatra/))
 
 ###C
 * Basics of Function Pointers in C ([denniskubes.com](http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/))
@@ -176,8 +178,12 @@
 * Exploring Everyday Things with Ruby and R ([blog.airbrake](http://blog.airbrake.io/guest-post/exploring-everything/))
 
 ### Perl
+
 * Beginning Perl ([perl.org](http://www.perl.org/books/beginning-perl/))
 * Modern Perl Book ([github](https://github.com/chromatic/modern_perl_book))
+* Larry Wall Why Perl is Like a Human Language ([perltv](http://perltv.org/v/why-is-perl-like-a-human-language))
+* Email DKIM Signatures with Perl ([pal-blog](http://www.pal-blog.de/entwicklung/dkim/setting-up-DKIM-with-Perl.html))
+* Perl Dancer on Digital Ocean ([perlmaven](http://perlmaven.com/getting-started-with-perl-dancer-on-digital-ocean))
 
 ### Music/Audio
 * M4A to MP3 ([conjurecode.com](http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/))
