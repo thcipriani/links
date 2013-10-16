@@ -167,8 +167,11 @@
 * Chrome as IDE for Rails app ([tech.pro](http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1))
 * Deploy a Sinatra Site on a VPS ([codylittlewood](http://codylittlewood.com/build-and-deploy-ruby-microsite-with-sinatra/))
 
-###C
+### C
 * Basics of Function Pointers in C ([denniskubes.com](http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/))
+
+### C++
+* Learn C++ ([learncpp](http://www.learncpp.com/))
 
 ### Objective C
 * NYTimes Objective-C Style Guide ([github](https://github.com/NYTimes/objective-c-style-guide))
