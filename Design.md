@@ -35,10 +35,9 @@
 
 * Redacted—keep your wireframes free of Ipsum ([github.com](https://github.com/christiannaths/Redacted-Font))
 * Font Hacking ([heydonworks](http://www.heydonworks.com/article/font-hacking))
-* The Art of Hand Lettering ([theartofhandlettering.tumblr](http://theartofhandlettering.tumblr.com/))
 * Your Handwriting Font ([myscriptfont](http://www.myscriptfont.com/))
 
-##Typography
+## Typography
 
 * @font-face FOUT ([github.com](https://github.com/typekit/webfontloader))
 * Typewolf ([typewolf](http://www.typewolf.com/))
@@ -49,6 +48,12 @@
 * Practical Typography ([practicaltypography.com](http://practicaltypography.com/))
 * Typography safe list ([papress](http://www.papress.com/other/thinkingwithtype/letter/few_fonts.htm))
 * Compose a vertical rhythm ([24ways](http://24ways.org/2006/compose-to-a-vertical-rhythm/))
+
+## Lettering
+
+* So you want to learn hand lettering ([seanwes](http://seanwes.com/learn/))
+* The Art of Hand Lettering ([theartofhandlettering.tumblr](http://theartofhandlettering.tumblr.com/))
+* In a brush ([inabrush](http://inabrush.com/))
 
 ##UI/UX
 * Archy ([en.wikipedia](https://en.wikipedia.org/wiki/Archy))

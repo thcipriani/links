@@ -8,6 +8,7 @@
 * Financial Times Webapp ([coding.smashingmagazine](http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/))
 * The Laborer and the Craftsman ([8thlight](http://blog.8thlight.com/uncle-bob/2013/01/30/The-Craftsman-And-The-Laborer.html))
 * On being a better developer ([andreiboar](http://www.andreiboar.com/career/on-being-a-better-developer/))
+* Hostname Ideas ([seriss](http://seriss.com/people/erco/unixtools/hostnames.html))
 
 ##Books
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
@@ -138,7 +139,7 @@
 * How to write a command line app in Node ([liangzan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/))
 * Keep an node.js server up forever ([nodejitsu](http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever))
 
-###CSS
+### CSS
 * CSS Guidelines ([github.com](https://github.com/csswizardry/CSS-Guidelines))
 * Idomatic CSS ([github.com](https://github.com/necolas/idiomatic-css))
 * Github's CSS Performance ([vimeo.com](http://vimeo.com/54990931))
@@ -151,6 +152,7 @@
 * 3D Gallery ([tympanus.net](http://tympanus.net/codrops/2012/02/06/3d-gallery-with-css3-and-jquery/))
 * Absolute Center in CSS ([codepen.io](http://codepen.io/shshaw/full/gEiDt))
 * Detecting CSS Style Support ([ryanmorr](http://ryanmorr.com/detecting-css-style-support/))
+* LibSass ([github](https://github.com/hcatlin/libsass))
 
 ###Ruby
 * Turn a Rails app into a Debian Package in Minutes ([discuss.gemnasium](https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59))
@@ -169,6 +171,7 @@
 
 ### C
 * Basics of Function Pointers in C ([denniskubes.com](http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/))
+* Learn C ([cocoadevcentral](http://cocoadevcentral.com/articles/000081.php))
 
 ### C++
 * Learn C++ ([learncpp](http://www.learncpp.com/))
@@ -207,6 +210,7 @@
 * 9 Traits of the Veteran Unix Admin ([g33kinfo](http://g33kinfo.com/info/archives/4502))
 * rm -rf ([justpasha](http://justpasha.org/folk/rm.html))
 * Taste Test Asible, Puppet, Chef ([gumroad](https://gumroad.com/l/taste-test/rubyweekly))
+* Sysadmin Version control with RCS ([wisc.edu](http://net.doit.wisc.edu/~plonka/sysadmin/article.html))
 
 ###Puppet
 * Introduction to Puppet ([davidwinter](http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/))
@@ -231,7 +235,8 @@
 ###Apache
 * 403 Errors in Mac OSX 10.8.4 ([stackoverflow.com](http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden))
 
-##Linux
+## Linux
+
 * Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html))
 * Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2014/07/15/unix-commands-for-data-science/))
 * Seven Unix for Data Science ([jeroenjanssens](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html))
@@ -244,6 +249,9 @@
 * The refining-linux advent calendar ([refining-linux](http://www.refining-linux.org/plugin/tag/advent+calendar))
 * Getting started with GnuPG ([madboa](http://www.madboa.com/geek/gpg-quickstart/))
 * IPTables Ubuntu ([digitalocean](https://www.digitalocean.com/community/articles/how-to-set-up-a-firewall-using-ip-tables-on-ubuntu-12-04))
+* Readline Keyboard Basics ([bigsmoke](http://www.bigsmoke.us/readline/shortcuts))
+* GNU Stow for dotfiles ([invergo](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+* Simple Terminal ([st.suckless](http://st.suckless.org/))
 
 ## Desktop Linux
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
@@ -255,6 +263,10 @@
 * Setup Replication Without the Downtime ([plusbryan.com](http://plusbryan.com/mysql-replication-without-downtime))
 * Storing Heirarchical Data in a database ([sitepoint](http://www.sitepoint.com/hierarchical-data-database/))
 * Everything you wanted to know about SQL injection ([troyhunt](www.troyhunt.com/2013/07/evertything-you-wanted-to-know-about-sql.html))
+
+## PosgreSQL
+
+* PosgreSQL basics by example ([darthdeus](http://darthdeus.github.io/blog/2013/08/19/postgresql-basics-by-example/))
 
 ### @neckbeardhacker
 
