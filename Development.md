@@ -262,6 +262,8 @@
 * Readline Keyboard Basics ([bigsmoke](http://www.bigsmoke.us/readline/shortcuts))
 * GNU Stow for dotfiles ([invergo](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 * Simple Terminal ([st.suckless](http://st.suckless.org/))
+* ShellCheck ([shellcheck.org](http://www.shellcheck.net/))
+* Open SSH Key Management Part 1([ibm.com](http://www.ibm.com/developerworks/opensource/library/l-keyc/index.html), [part2](http://webcache.googleusercontent.com/search?q=cache:n5M47jV8tSkJ:www.ibm.com/developerworks/library/l-keyc2/+&cd=1&hl=en&ct=clnk&gl=us), [part3](http://webcache.googleusercontent.com/search?q=cache:BzFiI_7zLoMJ:www.ibm.com/developerworks/library/l-keyc3/+&cd=1&hl=en&ct=clnk&gl=us))
 
 ## Desktop Linux
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))

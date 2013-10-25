@@ -20,6 +20,10 @@
 * dotshare.it ([dotshare.it](http://dotshare.it))
 * linux logo ([freecode](http://freecode.com/projects/linuxlogo))
 
+## Desktop Customization
+* PixelFuckers ([pixelfuckers](http://pixelfuckers.org/submissions/2223))
+* UnixPr0n ([reddit](http://www.reddit.com/r/unixporn))
+
 ## ASCII
 * T E X T F I L E S ([textfiles.com](http://textfiles.com/directory.html))
 * Sixteen Color ANSI/ASCII Art ([sixteencolors.net](http://sixteencolors.net/))
@@ -63,4 +67,5 @@
 * Google Correlate Draw ([google](http://www.google.com/trends/correlate/draw))
 * Chiptune composer ([html5gamedevs](http://www.html5gamedevs.com/topic/1271-chirp-8-bit-javascript-chitpune-music-composer/))
 * What shoes go with what ([imgur](http://i.imgur.com/GWYYPz6.jpg))
+* Apple iPhone Charger Teardown ([righto](http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html))
 * Pixel art (great for MOTD stuff) ([deviantart](http://www.deviantart.com/digitalart/pixelart/))
