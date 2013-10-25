@@ -36,6 +36,8 @@
 * Faster than Ack ([github](https://github.com/ggreer/the_silver_searcher))
 * Front-end generators ([flippinawesome](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators))
 * Mobile emulation in chrome ([developers.google.com](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation))
+* Incorporated Jekyll Template ([incorporated](http://incorporated.sendtoinc.com/))
+* nfu - Numeric Fu for your Shell ([github](https://github.com/spencertipping/nfu)
 
 ## Hardware
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
@@ -59,6 +61,7 @@
 * Bling.vim ([bling.github](http://bling.github.io/dotvim/))
 * Subvim—make vim sublime text ([faith.github](https://github.com/faith/subvim))
 * Vim-signature — display marks in your gutter ([github](https://github.com/kshenoy/vim-signature))
+* VimDeck ([github](https://github.com/tybenz/vimdeck))
 
 ## Sublime Text
 * Vintagous ([guillermooo.bitbucket](http://guillermooo.bitbucket.org/Vintageous/))
@@ -116,6 +119,8 @@
 * favicon numbers ([chrishunt.co](http://chrishunt.co/favcount/))
 
 ### Javascript
+
+* Grunt pre-commit hooks ([viget](http://viget.com/extend/grunt-getting-started-with-git-hooks))
 * Analyzing network characteristics in the DOM ([smashingmagazine](http://coding.smashingmagazine.com/2011/11/14/analyzing-network-characteristics-using-javascript-and-the-dom-part-1/))
 * Determine if a string contains another string ([designpepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches))
 * iOS supported JS Events ([developer.apple](http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5))
@@ -131,6 +136,8 @@
 * Bower for dependencies ([tysoncadenhead.com](npm, too? No? Ok—http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower))
 * jQuery Plugin Bolierplate ([jqueryboilerplate.com](http://jqueryboilerplate.com/))
 * Thin progress bar top of page ([ricostacruz.com](http://ricostacruz.com/nprogress/))
+* Sir Trevor - rich content editor ([madebymany](http://madebymany.github.io/sir-trevor-js/))
+* HTML5 and mobile ([smashingmagazine](http://mobile.smashingmagazine.com/2013/10/17/best-of-both-worlds-mixing-html5-native-code/))
 
 #### Node
 * Raspberry Pi, Arduino Home automation ([ni-c.github](http://ni-c.github.io/heimcontrol.js/))
@@ -153,6 +160,7 @@
 * Absolute Center in CSS ([codepen.io](http://codepen.io/shshaw/full/gEiDt))
 * Detecting CSS Style Support ([ryanmorr](http://ryanmorr.com/detecting-css-style-support/))
 * LibSass ([github](https://github.com/hcatlin/libsass))
+* CSS Application Architecture Video ([vimeo](http://vimeo.com/74359951))
 
 ###Ruby
 * Turn a Rails app into a Debian Package in Minutes ([discuss.gemnasium](https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59))
@@ -224,6 +232,7 @@
 * Chef Solo—cooking for 1 ([horewi.cz](http://horewi.cz/chef-solo-quick-and-easy-cooking-for-one.html))
 * Chef LAMP setup ([jasongrimes](http://www.jasongrimes.org/2012/06/managing-lamp-environments-with-chef-vagrant-and-ec2-1-of-3/))
 * Knife Solo ([matschaffer.github](http://matschaffer.github.io/knife-solo/))
+* Getting Started with Chef ([gettingstartedwithchef](http://gettingstartedwithchef.com/introducing-chef-server.html))
 
 ###Docker
 * Docker Tutorial ([github.com](https://github.com/kencochrane/docker-tutorial/blob/master/docker-tutorial.rst))
@@ -237,6 +246,7 @@
 
 ## Linux
 
+* Kernel coding style guide ([kernel.org](https://www.kernel.org/doc/Documentation/CodingStyle))
 * Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html))
 * Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2014/07/15/unix-commands-for-data-science/))
 * Seven Unix for Data Science ([jeroenjanssens](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html))

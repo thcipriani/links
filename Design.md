@@ -19,6 +19,7 @@
 * Progressive Viewports ([dbushell.com](http://dbushell.com/2013/07/25/progressive-viewports/))
 * Sketching with CSS ([sketchingwithcss](layouts with flexbox_—http://www.sketchingwithcss.com/samplechapter/))
 * UX Readlist ([readlists.com](http://readlists.com/user/Dangerwells/))
+* Use Imagemagick to make sharp, web-sized photos ([even.li](https://even.li/imagemagick-sharp-web-sized-photographs/))
 
 ## Videos
 
@@ -36,6 +37,8 @@
 * Redacted—keep your wireframes free of Ipsum ([github.com](https://github.com/christiannaths/Redacted-Font))
 * Font Hacking ([heydonworks](http://www.heydonworks.com/article/font-hacking))
 * Your Handwriting Font ([myscriptfont](http://www.myscriptfont.com/))
+* Norwester ([jamiewilson](http://jamiewilson.io/norwester/))
+* Font Awesome ([fontawesome](http://fontawesome.io/?4))
 
 ## Typography
 

@@ -49,6 +49,11 @@
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))
 
 ## Random
+
+* Super Meat Boy ([steam](http://store.steampowered.com/app/40800/))
+* Echonest CEO Interview ([kurthanson](http://www.kurthanson.com/news/interview-jim-lucchese-ceo-echo-nest))
+* What the next generation needs is math not Programming ([statspotting](http://statspotting.com/what-the-next-generation-needs-is-math-not-programming/))
+* Interactive Resume ([rleonardi](http://www.rleonardi.com/interactive-resume/?utm_source=hackernewsletter&utm_medium=email))
 * UsesThis ([usesthis](http://usesthis.com/))
 * Unsuck terrible business jargon ([unsuck-it](http://unsuck-it.com/))
 * Lateral Thinking Puzzles ([rinkworks](http://www.rinkworks.com/brainfood/p/latreal1.shtml))
