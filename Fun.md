@@ -19,6 +19,7 @@
 * janbrennen rice ([github](https://github.com/janbrennen/rice))
 * dotshare.it ([dotshare.it](http://dotshare.it))
 * linux logo ([freecode](http://freecode.com/projects/linuxlogo))
+* Powerline Font symbols ([powerline](https://powerline.readthedocs.org/en/latest/fontpatching.html))
 
 ## Desktop Customization
 * PixelFuckers ([pixelfuckers](http://pixelfuckers.org/submissions/2223))
