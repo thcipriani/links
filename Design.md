@@ -42,6 +42,7 @@
 
 ## Typography
 
+* On the Typography of Flight-Deck Documentation ([nasa.gov](http://ti.arc.nasa.gov/m/profile/adegani/Flight-Deck_Documentation.pdf))
 * @font-face FOUT ([github.com](https://github.com/typekit/webfontloader))
 * Typewolf ([typewolf](http://www.typewolf.com/))
 * CopyPasteCharacter.com ([copypastecharacter.com](http://copypastecharacter.com/))
