@@ -103,6 +103,7 @@
 * DdeboerSalesforceMapperBundle ([github](https://github.com/Ddeboer/DdeboerSalesforceMapperBundle/))
 * PHP is just coming into it's own ([blackshawk gist](https://gist.github.com/Blackshawk/5327505l))
 * Profiling PHP with cachegrind ([slideshare](http://www.slideshare.net/samkeen/profiling-php-with-xdebug-webgrind))
+* Webgrind ([github](https://github.com/jokkedk/webgrind))
 
 #### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
@@ -265,6 +266,7 @@
 * Simple Terminal ([st.suckless](http://st.suckless.org/))
 * ShellCheck ([shellcheck.org](http://www.shellcheck.net/))
 * Open SSH Key Management Part 1([ibm.com](http://www.ibm.com/developerworks/opensource/library/l-keyc/index.html), [part2](http://webcache.googleusercontent.com/search?q=cache:n5M47jV8tSkJ:www.ibm.com/developerworks/library/l-keyc2/+&cd=1&hl=en&ct=clnk&gl=us), [part3](http://webcache.googleusercontent.com/search?q=cache:BzFiI_7zLoMJ:www.ibm.com/developerworks/library/l-keyc3/+&cd=1&hl=en&ct=clnk&gl=us))
+* OpenSSL HowTo ([madboa](http://www.madboa.com/geek/openssl/#prime-test))
 * Check if program exists in shell script ([stackoverflow](http://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script))
 
 ## Desktop Linux
