@@ -113,12 +113,14 @@
 ### Python
 * GMail for Python ([github.com](https://github.com/charlierguo/gmail))
 
-### HTML5
+### HTML5/CSS3
 * Fun with the HTML <image> tag ([jakearchibald.com](http://jakearchibald.com/2013/having-fun-with-image/))
 * Client-side Storage Options ([tech.pro](http://tech.pro/blog/1486/client-side-storage-options))
 * Front-end Performance Crash Course ([youtube](https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY#grigorik))
 * Multi-Level hidden push menu ([tympanus.net](http://tympanus.net/codrops/2013/08/13/multi-level-push-menu/))
 * favicon numbers ([chrishunt.co](http://chrishunt.co/favcount/))
+* HTML5 `<em> <b> <i> <strong>` semantics ([html5doctor](http://html5doctor.com/i-b-em-strong-element/))
+
 
 ### Javascript
 
@@ -268,6 +270,8 @@
 * Open SSH Key Management Part 1([ibm.com](http://www.ibm.com/developerworks/opensource/library/l-keyc/index.html), [part2](http://webcache.googleusercontent.com/search?q=cache:n5M47jV8tSkJ:www.ibm.com/developerworks/library/l-keyc2/+&cd=1&hl=en&ct=clnk&gl=us), [part3](http://webcache.googleusercontent.com/search?q=cache:BzFiI_7zLoMJ:www.ibm.com/developerworks/library/l-keyc3/+&cd=1&hl=en&ct=clnk&gl=us))
 * OpenSSL HowTo ([madboa](http://www.madboa.com/geek/openssl/#prime-test))
 * Check if program exists in shell script ([stackoverflow](http://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script))
+* Ansible vs Shell scripts ([devopsu](http://devopsu.com/blog/ansible-vs-shell-scripts/))
+* On Ansible ([benscofield](http://benscofield.com/on-ansible/))
 
 ## Desktop Linux
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))

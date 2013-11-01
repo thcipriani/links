@@ -53,8 +53,13 @@
 ## Cooking
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))
 
+## Stuff
+
+* Blink USB light indicator ([thingm](http://thingm.com/products/blink-1.html))
+
 ## Random
 
+* Emoji Cheatsheet ([emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/))
 * Super Meat Boy ([steam](http://store.steampowered.com/app/40800/))
 * Echonest CEO Interview ([kurthanson](http://www.kurthanson.com/news/interview-jim-lucchese-ceo-echo-nest))
 * What the next generation needs is math not Programming ([statspotting](http://statspotting.com/what-the-next-generation-needs-is-math-not-programming/))
