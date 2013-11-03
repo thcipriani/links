@@ -20,6 +20,7 @@
 * dotshare.it ([dotshare.it](http://dotshare.it))
 * linux logo ([freecode](http://freecode.com/projects/linuxlogo))
 * Powerline Font symbols ([powerline](https://powerline.readthedocs.org/en/latest/fontpatching.html))
+* Stupid Programmer Tricks/Starwars gifs ([rarlindseysmash](http://rarlindseysmash.com/posts/stupid-programmer-tricks-and-star-wars-gifs))
 
 ## Desktop Customization
 * PixelFuckers ([pixelfuckers](http://pixelfuckers.org/submissions/2223))
