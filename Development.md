@@ -1,6 +1,7 @@
 #Development
 
 ##Articles
+* Best practices for RESTful services ([vinaysahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api))
 * Testing code is simple ([th3james.github](http://th3james.github.io/blog/2013/09/25/testing-code-is-simple/))
 * Learn C You Cheater ([medium.com](https://medium.com/tech-talk/afcfa2920c17))
 * 4 Steps to Google Without a Degree ([medium.com](https://medium.com/this-happened-to-me/8f381aa6bd5e))
