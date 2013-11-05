@@ -76,3 +76,4 @@
 * What shoes go with what ([imgur](http://i.imgur.com/GWYYPz6.jpg))
 * Apple iPhone Charger Teardown ([righto](http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html))
 * Pixel art (great for MOTD stuff) ([deviantart](http://www.deviantart.com/digitalart/pixelart/))
+* Monster Truck Madness 2 ([microsoft.com](http://www.microsoft.com/games/monster/default.htm))

@@ -10,6 +10,7 @@
 * The Laborer and the Craftsman ([8thlight](http://blog.8thlight.com/uncle-bob/2013/01/30/The-Craftsman-And-The-Laborer.html))
 * On being a better developer ([andreiboar](http://www.andreiboar.com/career/on-being-a-better-developer/))
 * Hostname Ideas ([seriss](http://seriss.com/people/erco/unixtools/hostnames.html))
+* OAuth2 and the Road to Hell ([hueniverse](http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/))
 
 ##Books
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
@@ -201,6 +202,7 @@
 * Larry Wall Why Perl is Like a Human Language ([perltv](http://perltv.org/v/why-is-perl-like-a-human-language))
 * Email DKIM Signatures with Perl ([pal-blog](http://www.pal-blog.de/entwicklung/dkim/setting-up-DKIM-with-Perl.html))
 * Perl Dancer on Digital Ocean ([perlmaven](http://perlmaven.com/getting-started-with-perl-dancer-on-digital-ocean))
+* Searching for Rhymes with Perl ([foo.be](http://www.foo.be/docs/tpj/issues/vol4_4/tpj0404-0003.html))
 
 ### AppleScript
 
