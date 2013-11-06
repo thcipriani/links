@@ -90,8 +90,6 @@
 
 ##Programming
 
-* WebPlatformDaily ([webplatformdaily.org](http://webplatformdaily.org/))
-
 ### PHP
 * Awesome PHP ([gist.github](https://gist.github.com/ziadoz/1677679))
 * From Proecedural to Object-Oriented PHP ([nettuts](http://net.tutsplus.com/tutorials/php/from-procedural-to-object-oriented-php/))
@@ -121,7 +119,7 @@
 * Multi-Level hidden push menu ([tympanus.net](http://tympanus.net/codrops/2013/08/13/multi-level-push-menu/))
 * favicon numbers ([chrishunt.co](http://chrishunt.co/favcount/))
 * HTML5 `<em> <b> <i> <strong>` semantics ([html5doctor](http://html5doctor.com/i-b-em-strong-element/))
-
+* WebPlatformDaily ([webplatformdaily.org](http://webplatformdaily.org/))
 
 ### Javascript
 
@@ -203,6 +201,10 @@
 * Larry Wall Why Perl is Like a Human Language ([perltv](http://perltv.org/v/why-is-perl-like-a-human-language))
 * Email DKIM Signatures with Perl ([pal-blog](http://www.pal-blog.de/entwicklung/dkim/setting-up-DKIM-with-Perl.html))
 * Perl Dancer on Digital Ocean ([perlmaven](http://perlmaven.com/getting-started-with-perl-dancer-on-digital-ocean))
+
+### AppleScript
+
+* Doug's AppleScripts for iTunes ([dougscripts](http://dougscripts.com/itunes/))
 
 ### Music/Audio
 * M4A to MP3 ([conjurecode.com](http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/))
