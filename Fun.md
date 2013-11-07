@@ -50,6 +50,7 @@
 * Play Github Music Server ([github](https://github.com/play))
 * Delicius vinyl ([deliciousvinyl](http://store.deliciousvinyl.com/collections/vinyl))
 * BoomKat ([boomkat](http://boomkat.com/))
+* Midi for the uninitiated ([createddigitalmusic](http://createdigitalmusic.com/2011/02/how-to-use-midi-to-make-an-ipad-more-musically-connected-productive-video-resources/))
 
 ## Cooking
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))
