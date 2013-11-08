@@ -1,6 +1,7 @@
 #Development
 
-##Articles
+## Articles
+
 * Best practices for RESTful services ([vinaysahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api))
 * Testing code is simple ([th3james.github](http://th3james.github.io/blog/2013/09/25/testing-code-is-simple/))
 * Learn C You Cheater ([medium.com](https://medium.com/tech-talk/afcfa2920c17))
@@ -22,7 +23,8 @@
 
 * * *
 
-##Tools
+## Tools
+
 * About My Browser ([aboutmybrowser](https://aboutmybrowser.com/))
 * Codekit steroids for web developers ([incident57](http://incident57.com/codekit/))
 * Manage SSH Like a Boss ([emre.github](http://emre.github.io/storm/))
@@ -44,7 +46,8 @@
 ## Hardware
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
 
-###Vim
+### Vim
+
 * Vim Logo Font ([myfonts](http://www.myfonts.com/fonts/linotype/crillee/))
 * Vimcasts ([vimcasts.org](http://vimcasts.org/episodes/archive))
 * Vim Airline ([github.com](https://github.com/bling/vim-airline))
@@ -64,10 +67,14 @@
 * Subvim—make vim sublime text ([faith.github](https://github.com/faith/subvim))
 * Vim-signature — display marks in your gutter ([github](https://github.com/kshenoy/vim-signature))
 * VimDeck ([github](https://github.com/tybenz/vimdeck))
+* Multiple Cursors ([github](https://github.com/terryma/vim-multiple-cursors))
+* Ack.vim ([github](https://github.com/mileszs/ack.vim))
 
 ## Sublime Text
+
 * Vintagous ([guillermooo.bitbucket](http://guillermooo.bitbucket.org/Vintageous/))
 * Upgrading to Sublime Text 3 ([harrywolff.com](http://harrywolff.com/upgrading-to-sublime-text-3/))
+* ActualVim ([github](https://github.com/lunixbochs/actualvim))
 
 ### Keyboards
 * A Modern Space Cadet ([stevelosh.com](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/))
@@ -255,8 +262,10 @@
 
 ## Linux
 
-* Kernel coding style guide ([kernel.org](https://www.kernel.org/doc/Documentation/CodingStyle))
 * Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html))
+* Better Than Grep ([betterthangrep](http://betterthangrep.com))
+* Better Than Ack ([betterthanack](http://betterthanack.com))
+* Kernel coding style guide ([kernel.org](https://www.kernel.org/doc/Documentation/CodingStyle))
 * Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2014/07/15/unix-commands-for-data-science/))
 * Seven Unix for Data Science ([jeroenjanssens](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html))
 * Diplay images with tput and terminal ([gist.github](https://gist.github.com/heptal/6052573))

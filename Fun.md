@@ -1,6 +1,7 @@
 #Fun.
 
 ## Bash/Terminal
+
 * The Useless Use of `cat` Award ([partmaps](http://partmaps.org/era/unix/award.html#cat))
 * Terminal Keynote (Ruby) ([github](https://github.com/fxn/tkn))
 * Boom. Motherfucking Text Snippets on the command line ([zachhholman](http://zachholman.com/boom/))
@@ -23,29 +24,35 @@
 * Stupid Programmer Tricks/Starwars gifs ([rarlindseysmash](http://rarlindseysmash.com/posts/stupid-programmer-tricks-and-star-wars-gifs))
 
 ## Desktop Customization
+
 * PixelFuckers ([pixelfuckers](http://pixelfuckers.org/submissions/2223))
 * UnixPr0n ([reddit](http://www.reddit.com/r/unixporn))
 
 ## ASCII
+
 * T E X T F I L E S ([textfiles.com](http://textfiles.com/directory.html))
 * Sixteen Color ANSI/ASCII Art ([sixteencolors.net](http://sixteencolors.net/))
 * Thuglife.org ([Thuglife](http://www.thuglife.org/))
 * Chris Johnson's ASCII Art Collection ([chris.com](http://chris.com/ascii/))
 
 ## Gif
+
 * Pronounciation ([bbc.co.uk](http://www.bbc.co.uk/news/technology-22620473))
 * Search ([giphy.com](http://giphy.com/tags/tv))
 
 ## Games
+
 * Ruby Atari 2600 Emulator ([github](https://github.com/chesterbr/ruby2600))
 
 ## Videos
+
 * Vi Hart - Stravinsky's Atonal Compositions ([youtu.be](http://youtu.be/4niz8TfY794))
 * Bootleg Fireworks ([youtube](http://www.youtube.com/watch?v=NRItYDKSqpQ ))
 * Rock-a-Fire In This Club ([youtube](http://www.youtube.com/watch?v=b90Cf6ARscc))
 * Vooza ([vooza.com](http://vooza.com/videos/?view=popular))
 
 ## Music
+
 * 4chan.org/mu chart ([images4.wikia](http://images4.wikia.nocookie.net/__cb20120629173013/mu4chan/images/e/e4/General_essentials_with_kanye.jpg))
 * Play Github Music Server ([github](https://github.com/play))
 * Delicius vinyl ([deliciousvinyl](http://store.deliciousvinyl.com/collections/vinyl))
@@ -53,6 +60,7 @@
 * Midi for the uninitiated ([createddigitalmusic](http://createdigitalmusic.com/2011/02/how-to-use-midi-to-make-an-ipad-more-musically-connected-productive-video-resources/))
 
 ## Cooking
+
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))
 
 ## Stuff
@@ -61,6 +69,7 @@
 
 ## Random
 
+* Coffee Experiments ([drbunsen](http://www.drbunsen.org/coffee-experiments/))
 * Emoji Cheatsheet ([emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/))
 * Super Meat Boy ([steam](http://store.steampowered.com/app/40800/))
 * Echonest CEO Interview ([kurthanson](http://www.kurthanson.com/news/interview-jim-lucchese-ceo-echo-nest))
