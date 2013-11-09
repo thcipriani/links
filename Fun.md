@@ -23,6 +23,10 @@
 * Powerline Font symbols ([powerline](https://powerline.readthedocs.org/en/latest/fontpatching.html))
 * Stupid Programmer Tricks/Starwars gifs ([rarlindseysmash](http://rarlindseysmash.com/posts/stupid-programmer-tricks-and-star-wars-gifs))
 
+## Arduino
+
+* Johnny-Five ([github](https://github.com/rwaldron/johnny-five))
+
 ## Desktop Customization
 
 * PixelFuckers ([pixelfuckers](http://pixelfuckers.org/submissions/2223))
@@ -69,6 +73,8 @@
 
 ## Random
 
+* The Man Who Would Teach Machines to Think ([theatlantic](http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/))
+* Reality distortion fields ([folklore](http://folklore.org/StoryView.py?project=Macintosh&story=Reality_Distortion_Field.txt))
 * Coffee Experiments ([drbunsen](http://www.drbunsen.org/coffee-experiments/))
 * Emoji Cheatsheet ([emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/))
 * Super Meat Boy ([steam](http://store.steampowered.com/app/40800/))

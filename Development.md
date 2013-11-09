@@ -12,6 +12,7 @@
 * On being a better developer ([andreiboar](http://www.andreiboar.com/career/on-being-a-better-developer/))
 * Hostname Ideas ([seriss](http://seriss.com/people/erco/unixtools/hostnames.html))
 * OAuth2 and the Road to Hell ([hueniverse](http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/))
+* How PayPal is being revolutionized by Node.js and Lean-UX ([nearform](http://www.nearform.com/nodecrunch/?p=109#.Un1whZQui8F))
 
 ##Books
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
@@ -88,6 +89,7 @@
 * A successful branching model ([nvie.com](http://nvie.com/posts/a-successful-git-branching-model/))
 * A simple git branching model ([gist](https://gist.github.com/jbenet/ee6c9ac48068889b0912))
 * Git Commit Messages ([tbaggery.com](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html))
+* Git Cheatsheet ([ndpsoftware](http://www.ndpsoftware.com/git-cheatsheet.html))
 
 ###Email
 * NSA Proof your email—setup your own server ([sealedabstract.com](http://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/))
@@ -149,6 +151,7 @@
 * Thin progress bar top of page ([ricostacruz.com](http://ricostacruz.com/nprogress/))
 * Sir Trevor - rich content editor ([madebymany](http://madebymany.github.io/sir-trevor-js/))
 * HTML5 and mobile ([smashingmagazine](http://mobile.smashingmagazine.com/2013/10/17/best-of-both-worlds-mixing-html5-native-code/))
+* Airbnb Style Guide ([github](https://github.com/airbnb/javascript))
 
 #### Node
 * Raspberry Pi, Arduino Home automation ([ni-c.github](http://ni-c.github.io/heimcontrol.js/))
