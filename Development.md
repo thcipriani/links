@@ -130,6 +130,8 @@
 * favicon numbers ([chrishunt.co](http://chrishunt.co/favcount/))
 * HTML5 `<em> <b> <i> <strong>` semantics ([html5doctor](http://html5doctor.com/i-b-em-strong-element/))
 * WebPlatformDaily ([webplatformdaily.org](http://webplatformdaily.org/))
+* Absolute Horizontal and Vertical centering ([smashingmagazine](http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/))
+* HTML thinks 'chucknorris' is a color ([stackoverflow](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color))
 
 ### Javascript
 
@@ -253,12 +255,14 @@
 * Knife Solo ([matschaffer.github](http://matschaffer.github.io/knife-solo/))
 * Getting Started with Chef ([gettingstartedwithchef](http://gettingstartedwithchef.com/introducing-chef-server.html))
 
-###Docker
+### Docker
+
 * Docker Tutorial ([github.com](https://github.com/kencochrane/docker-tutorial/blob/master/docker-tutorial.rst))
 * Drupal on Docker ([robknight](http://robknight.org.uk/blog/2013/05/drupal-on-docker/))
 * CoreOS Vagrant Images ([coreos.com](http://coreos.com/blog/coreos-vagrant-images/kj))
 * SSH, X, Libreoffice and Docker ([blog.docker](http://blog.docker.io/2013/07/docker-desktop-your-desktop-over-ssh-running-inside-of-a-docker-container/))
 * Interactive Docker Tutorial ([blog.docker](http://blog.docker.io/2013/08/introducing-an-interactive-docker-tutorial/))
+* Dokku - Docker-powered mini heroku in 100 lines of Bash ([github](https://github.com/progrium/dokku))
 
 ###Apache
 * 403 Errors in Mac OSX 10.8.4 ([stackoverflow.com](http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden))
@@ -268,6 +272,7 @@
 * Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html))
 * Better Than Grep ([betterthangrep](http://betterthangrep.com))
 * Better Than Ack ([betterthanack](http://betterthanack.com))
+* Gentoo Shell Guide ([devmanual](http://devmanual.gentoo.org/tools-reference/bash/))
 * Kernel coding style guide ([kernel.org](https://www.kernel.org/doc/Documentation/CodingStyle))
 * Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2014/07/15/unix-commands-for-data-science/))
 * Seven Unix for Data Science ([jeroenjanssens](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html))
