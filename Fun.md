@@ -38,6 +38,7 @@
 * Sixteen Color ANSI/ASCII Art ([sixteencolors.net](http://sixteencolors.net/))
 * Thuglife.org ([Thuglife](http://www.thuglife.org/))
 * Chris Johnson's ASCII Art Collection ([chris.com](http://chris.com/ascii/))
+* Underground Empire ([untergrund](http://ue.untergrund.net/ansi/))
 
 ## Gif
 
@@ -76,6 +77,7 @@
 * The Man Who Would Teach Machines to Think ([theatlantic](http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/))
 * Reality distortion fields ([folklore](http://folklore.org/StoryView.py?project=Macintosh&story=Reality_Distortion_Field.txt))
 * Coffee Experiments ([drbunsen](http://www.drbunsen.org/coffee-experiments/))
+* Gif Screencast OSX ([gist](https://gist.github.com/dergachev/4627207))
 * Emoji Cheatsheet ([emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/))
 * Super Meat Boy ([steam](http://store.steampowered.com/app/40800/))
 * Echonest CEO Interview ([kurthanson](http://www.kurthanson.com/news/interview-jim-lucchese-ceo-echo-nest))

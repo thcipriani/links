@@ -13,6 +13,7 @@
 * Effeckt.css ([h5bp.github](http://h5bp.github.io/Effeckt.css/dist/))
 * Photoshop/Illustrator Cheatsheets ([zerolag](http://www.zerolag.com/infographics/))
 * Responsinator ([responsinator](http://www.responsinator.com/))
+* Inkpad - Open source vector illustration app for iPad ([github](https://github.com/sprang/Inkpad))
 
 ## Articles
 

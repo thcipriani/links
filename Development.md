@@ -113,6 +113,7 @@
 * PHP is just coming into it's own ([blackshawk gist](https://gist.github.com/Blackshawk/5327505l))
 * Profiling PHP with cachegrind ([slideshare](http://www.slideshare.net/samkeen/profiling-php-with-xdebug-webgrind))
 * Webgrind ([github](https://github.com/jokkedk/webgrind))
+* Signaling PHP eBook ([leanpub](https://leanpub.com/signalingphp))
 
 #### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
@@ -249,11 +250,20 @@
 * Puppet Module Reusability ([speakerdeck](https://speakerdeck.com/garethr/puppet-module-reusability))
 * Puppet at Github ([speakerdeck](https://speakerdeck.com/wfarr/puppet-at-github-puppetcamp-raleigh-2013))
 
-###Chef
+### Chef
+
 * Chef Solo—cooking for 1 ([horewi.cz](http://horewi.cz/chef-solo-quick-and-easy-cooking-for-one.html))
 * Chef LAMP setup ([jasongrimes](http://www.jasongrimes.org/2012/06/managing-lamp-environments-with-chef-vagrant-and-ec2-1-of-3/))
 * Knife Solo ([matschaffer.github](http://matschaffer.github.io/knife-solo/))
 * Getting Started with Chef ([gettingstartedwithchef](http://gettingstartedwithchef.com/introducing-chef-server.html))
+* Chef at PagerDuty ([pagerduty](http://blog.pagerduty.com/2013/11/chef-at-pagerduty/))
+* Berkshelf ([berkshelf](http://berkshelf.com/))
+
+### Ansible
+
+* Ansible vs Shell scripts ([devopsu](http://devopsu.com/blog/ansible-vs-shell-scripts/))
+* On Ansible ([benscofield](http://benscofield.com/on-ansible/))
+* Sovereign - Ansible scripts for personal private cloud ([github](https://github.com/al3x/sovereign))
 
 ### Docker
 
@@ -265,6 +275,7 @@
 * Dokku - Docker-powered mini heroku in 100 lines of Bash ([github](https://github.com/progrium/dokku))
 
 ###Apache
+
 * 403 Errors in Mac OSX 10.8.4 ([stackoverflow.com](http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden))
 
 ## Linux
@@ -292,15 +303,20 @@
 * Open SSH Key Management Part 1([ibm.com](http://www.ibm.com/developerworks/opensource/library/l-keyc/index.html), [part2](http://webcache.googleusercontent.com/search?q=cache:n5M47jV8tSkJ:www.ibm.com/developerworks/library/l-keyc2/+&cd=1&hl=en&ct=clnk&gl=us), [part3](http://webcache.googleusercontent.com/search?q=cache:BzFiI_7zLoMJ:www.ibm.com/developerworks/library/l-keyc3/+&cd=1&hl=en&ct=clnk&gl=us))
 * OpenSSL HowTo ([madboa](http://www.madboa.com/geek/openssl/#prime-test))
 * Check if program exists in shell script ([stackoverflow](http://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script))
-* Ansible vs Shell scripts ([devopsu](http://devopsu.com/blog/ansible-vs-shell-scripts/))
-* On Ansible ([benscofield](http://benscofield.com/on-ansible/))
+
+## OSX
+
+* Mountain Lion Server Tutorials ([mountainlionserver](http://www.mountainlionserver.com/))
+* Homebrew Cask ([github](https://github.com/phinze/homebrew-cask))
 
 ## Desktop Linux
+
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
 * OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling))
 * Photoshop in Ubuntu ([prtfl.io](http://www.prtfl.io/muellerwolfram/blog/2013/1/23/how-to-use-photoshop-in-ubuntu))
 
 ##MySQL
+
 * 10 Steps to a complete understanding of SQL ([tech.pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql))
 * Setup Replication Without the Downtime ([plusbryan.com](http://plusbryan.com/mysql-replication-without-downtime))
 * Storing Heirarchical Data in a database ([sitepoint](http://www.sitepoint.com/hierarchical-data-database/))
@@ -309,6 +325,8 @@
 ## PosgreSQL
 
 * PosgreSQL basics by example ([darthdeus](http://darthdeus.github.io/blog/2013/08/19/postgresql-basics-by-example/))
+* Posgres Dev Box ([pgdevbox](http://www.pgdevbox.com/))
+* Pospres.app ([postgresapp](http://postgresapp.com/))
 
 ### @neckbeardhacker
 
