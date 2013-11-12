@@ -101,6 +101,7 @@
 ##Programming
 
 ### PHP
+
 * Awesome PHP ([gist.github](https://gist.github.com/ziadoz/1677679))
 * From Proecedural to Object-Oriented PHP ([nettuts](http://net.tutsplus.com/tutorials/php/from-procedural-to-object-oriented-php/))
 * PHP The right way ([phptherightway](http://www.phptherightway.com/))
@@ -114,6 +115,9 @@
 * Profiling PHP with cachegrind ([slideshare](http://www.slideshare.net/samkeen/profiling-php-with-xdebug-webgrind))
 * Webgrind ([github](https://github.com/jokkedk/webgrind))
 * Signaling PHP eBook ([leanpub](https://leanpub.com/signalingphp))
+* NodeJS vs PHP ([philsturgeon](http://philsturgeon.co.uk/blog/2013/11/benchmarking-codswallop-nodejs-v-php))
+* Debphp.org ([debphp](https://debphp.org/))
+* Laravel Realtime Chat ([medium](https://medium.com/on-coding/eaa550829538))
 
 #### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
