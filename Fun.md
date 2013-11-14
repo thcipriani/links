@@ -74,6 +74,7 @@
 
 ## Random
 
+* Short Domain Search ([shortdomainsearch](http://shortdomainsearch.net/))
 * The Man Who Would Teach Machines to Think ([theatlantic](http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/))
 * Reality distortion fields ([folklore](http://folklore.org/StoryView.py?project=Macintosh&story=Reality_Distortion_Field.txt))
 * Coffee Experiments ([drbunsen](http://www.drbunsen.org/coffee-experiments/))
