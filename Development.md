@@ -14,13 +14,15 @@
 * OAuth2 and the Road to Hell ([hueniverse](http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/))
 * How PayPal is being revolutionized by Node.js and Lean-UX ([nearform](http://www.nearform.com/nodecrunch/?p=109#.Un1whZQui8F))
 
-##Books
+## Books
+
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
 * Bayesian Methods for Hackers ([camdavidsonpilon.github](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/))
 * The Linux Command Line ([linuxcommand.org](http://linuxcommand.org/tlcl.php))
 * Introduction to the Command Line FSF ([flossmanuals](http://en.flossmanuals.net/command-line/index/))
 * List of freely available programming books ([stackoverflow](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926l))
 * Book Pr0n ([i.imgur](http://i.imgur.com/1mQOZg9.jpg))
+* Learn X in Y Minutes ([github](https://github.com/adambard/learnxinyminutes-docs))
 
 * * *
 
@@ -46,6 +48,7 @@
 
 ## Hardware
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
+* How long do disk drives last? ([backblaze](http://blog.backblaze.com/2013/11/12/how-long-do-disk-drives-last/))
 
 ### Vim
 
@@ -120,6 +123,7 @@
 * NodeJS vs PHP ([philsturgeon](http://philsturgeon.co.uk/blog/2013/11/benchmarking-codswallop-nodejs-v-php))
 * Debphp.org ([debphp](https://debphp.org/))
 * Laravel Realtime Chat ([medium](https://medium.com/on-coding/eaa550829538))
+* PHPDocumentor ([phpdoc](http://www.phpdoc.org/))
 
 #### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
@@ -217,6 +221,7 @@
 ### Perl
 
 * Beginning Perl ([perl.org](http://www.perl.org/books/beginning-perl/))
+* Beginning Perl by Ovid ([oreilly](http://web.archive.org/web/20120608012843/http://ofps.oreilly.com/titles/9781118013847/index.html))
 * Modern Perl Book ([github](https://github.com/chromatic/modern_perl_book))
 * Larry Wall Why Perl is Like a Human Language ([perltv](http://perltv.org/v/why-is-perl-like-a-human-language))
 * Email DKIM Signatures with Perl ([pal-blog](http://www.pal-blog.de/entwicklung/dkim/setting-up-DKIM-with-Perl.html))
@@ -290,6 +295,7 @@
 * Better Than Grep ([betterthangrep](http://betterthangrep.com))
 * Better Than Ack ([betterthanack](http://betterthanack.com))
 * Gentoo Shell Guide ([devmanual](http://devmanual.gentoo.org/tools-reference/bash/))
+* Mewbies Tutorials ([mewbies](http://www.mewbies.com/))
 * Kernel coding style guide ([kernel.org](https://www.kernel.org/doc/Documentation/CodingStyle))
 * Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2014/07/15/unix-commands-for-data-science/))
 * Seven Unix for Data Science ([jeroenjanssens](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html))
