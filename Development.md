@@ -316,10 +316,12 @@
 * OpenSSL HowTo ([madboa](http://www.madboa.com/geek/openssl/#prime-test))
 * Check if program exists in shell script ([stackoverflow](http://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script))
 
-## OSX
+## Apple Mac OSX
 
 * Mountain Lion Server Tutorials ([mountainlionserver](http://www.mountainlionserver.com/))
 * Homebrew Cask ([github](https://github.com/phinze/homebrew-cask))
+* Slate WM ([github](https://github.com/jigish/slate))
+* Steve Losh's .slate ([bitbucket](https://bitbucket.org/sjl/dotfiles/src/2de1f78616fd1ecafa0b93fab9f03708d9dee39f/slate?at=default))
 
 ## Desktop Linux
 
