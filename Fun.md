@@ -74,6 +74,8 @@
 
 ## Random
 
+* Neal McBurrnet Homepage ([boulder.co.us](http://bcn.boulder.co.us/~neal/))
+* You can't parse HTML with Regular Expressions ([stackoverflow](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454))
 * Short Domain Search ([shortdomainsearch](http://shortdomainsearch.net/))
 * ArkOS for Raspberry PI ([arkos](https://arkos.io/))
 * The Man Who Would Teach Machines to Think ([theatlantic](http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/))

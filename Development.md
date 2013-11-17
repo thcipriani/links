@@ -124,6 +124,7 @@
 * Debphp.org ([debphp](https://debphp.org/))
 * Laravel Realtime Chat ([medium](https://medium.com/on-coding/eaa550829538))
 * PHPDocumentor ([phpdoc](http://www.phpdoc.org/))
+* Hidden Features of PHP ([stackoverflow](http://stackoverflow.com/questions/61401/hidden-features-of-php/1024914#1024914))
 
 #### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
@@ -132,6 +133,8 @@
 
 ### Python
 * GMail for Python ([github.com](https://github.com/charlierguo/gmail))
+* Learning Python in one weekend ([stackoverflow](http://stackoverflow.com/questions/2682561/learning-python-in-one-weekend))
+* Python for sysadmin ([pythonforbeginners](http://www.pythonforbeginners.com/systems-programming/python-system-administration/))
 
 ### HTML5/CSS3
 * Fun with the HTML <image> tag ([jakearchibald.com](http://jakearchibald.com/2013/having-fun-with-image/))
@@ -227,10 +230,12 @@
 * Email DKIM Signatures with Perl ([pal-blog](http://www.pal-blog.de/entwicklung/dkim/setting-up-DKIM-with-Perl.html))
 * Perl Dancer on Digital Ocean ([perlmaven](http://perlmaven.com/getting-started-with-perl-dancer-on-digital-ocean))
 * Searching for Rhymes with Perl ([foo.be](http://www.foo.be/docs/tpj/issues/vol4_4/tpj0404-0003.html))
+* Salesforce API ([oreillynet](http://www.oreillynet.com/network/2006/11/27/using-the-salesforcecom-api.html))
 
 ### AppleScript
 
 * Doug's AppleScripts for iTunes ([dougscripts](http://dougscripts.com/itunes/))
+* How to clean Apple products ([apple.com](http://support.apple.com/kb/ht3226))
 
 ### Music/Audio
 * M4A to MP3 ([conjurecode.com](http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/))
@@ -294,6 +299,7 @@
 * Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html))
 * Better Than Grep ([betterthangrep](http://betterthangrep.com))
 * Better Than Ack ([betterthanack](http://betterthanack.com))
+* Awk Book ([catonmat](http://www.catonmat.net/blog/awk-book/))
 * Gentoo Shell Guide ([devmanual](http://devmanual.gentoo.org/tools-reference/bash/))
 * Mewbies Tutorials ([mewbies](http://www.mewbies.com/))
 * Kernel coding style guide ([kernel.org](https://www.kernel.org/doc/Documentation/CodingStyle))
