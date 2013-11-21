@@ -50,7 +50,11 @@
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
 * How long do disk drives last? ([backblaze](http://blog.backblaze.com/2013/11/12/how-long-do-disk-drives-last/))
 
-### Vim
+## WeeChat
+
+* Beautify your WeeChat ([dev.weechat](http://dev.weechat.org/post/2011/08/28/Beautify-your-WeeChat))
+
+## Vim
 
 * Vim Logo Font ([myfonts](http://www.myfonts.com/fonts/linotype/crillee/))
 * Vimcasts ([vimcasts.org](http://vimcasts.org/episodes/archive))
