@@ -50,9 +50,10 @@
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
 * How long do disk drives last? ([backblaze](http://blog.backblaze.com/2013/11/12/how-long-do-disk-drives-last/))
 
-## WeeChat
+## IRC
 
 * Beautify your WeeChat ([dev.weechat](http://dev.weechat.org/post/2011/08/28/Beautify-your-WeeChat))
+* IRC Tutorial ([irchelp](http://www.irchelp.org/irchelp/irctutorial.html))
 
 ## Vim
 
@@ -97,6 +98,7 @@
 * A simple git branching model ([gist](https://gist.github.com/jbenet/ee6c9ac48068889b0912))
 * Git Commit Messages ([tbaggery.com](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html))
 * Git Cheatsheet ([ndpsoftware](http://www.ndpsoftware.com/git-cheatsheet.html))
+* tl;dr git fetch && git merge origin/master ([stackoverflow](http://stackoverflow.com/questions/1741143/git-pull-origin-mybranch-leaves-local-mybranch-n-commits-ahead-of-origin-why))
 
 ### Email
 
@@ -174,11 +176,13 @@
 * Airbnb Style Guide ([github](https://github.com/airbnb/javascript))
 
 #### Node
+
 * Raspberry Pi, Arduino Home automation ([ni-c.github](http://ni-c.github.io/heimcontrol.js/))
 * Absolute Beginners Guide to Node.js ([blog.modulus](http://blog.modulus.io/absolute-beginners-guide-to-nodejs))
 * Guide for front-end devlopers to getting started with Node ([cwbuecheler](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/))
 * How to write a command line app in Node ([liangzan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/))
 * Keep an node.js server up forever ([nodejitsu](http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever))
+* Introduction to fullstack js ([smashingmagazine](http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/))
 
 ### CSS
 * CSS Guidelines ([github.com](https://github.com/csswizardry/CSS-Guidelines))
