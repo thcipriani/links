@@ -262,10 +262,15 @@
 * Taste Test Asible, Puppet, Chef ([gumroad](https://gumroad.com/l/taste-test/rubyweekly))
 * Sysadmin Version control with RCS ([wisc.edu](http://net.doit.wisc.edu/~plonka/sysadmin/article.html))
 
+
+### Vagrant
+
+* Vagrant Machines with Packer ([codeship.io](http://blog.codeship.io/2013/11/07/building-vagrant-machines-with-packer.html))
+* Vagrant &amp; Puppet dev environments ([kloudless](http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/))
+
 ###Puppet
 * Introduction to Puppet ([davidwinter](http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/))
 * GUI to create PHP/Puppet VMs ([puphet](https://puphpet.com/))
-* Vagrant &amp; Puppet dev environments ([kloudless](http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/))
 * Puppet 3 Beginners Guide ([tutsplus](https://tutsplus.com/ebook/puppet-3-beginners-guide/))
 * Puppet Module Reusability ([speakerdeck](https://speakerdeck.com/garethr/puppet-module-reusability))
 * Puppet at Github ([speakerdeck](https://speakerdeck.com/wfarr/puppet-at-github-puppetcamp-raleigh-2013))
@@ -350,7 +355,9 @@
 
 * PosgreSQL basics by example ([darthdeus](http://darthdeus.github.io/blog/2013/08/19/postgresql-basics-by-example/))
 * Posgres Dev Box ([pgdevbox](http://www.pgdevbox.com/))
-* Pospres.app ([postgresapp](http://postgresapp.com/))
+* Postgres.app ([postgresapp](http://postgresapp.com/))
+* Postgres Env Vars ([postgresql](http://www.postgresql.org/docs/9.3/static/libpq-envars.html))
+* .pgpass file ([postgresql](http://www.postgresql.org/docs/9.3/static/libpq-pgpass.html))
 
 ### @neckbeardhacker
 
