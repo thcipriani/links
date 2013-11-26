@@ -131,6 +131,8 @@
 * Laravel Realtime Chat ([medium](https://medium.com/on-coding/eaa550829538))
 * PHPDocumentor ([phpdoc](http://www.phpdoc.org/))
 * Hidden Features of PHP ([stackoverflow](http://stackoverflow.com/questions/61401/hidden-features-of-php/1024914#1024914))
+* Security issues with using PHP's escapeshellarg ([basesystemsdetica](http://baesystemsdetica.blogspot.com.au/2013/11/security-issues-with-using-phps.html))
+* Processing data with PHP using STDIN and Pipes ([gregfreeman](http://www.gregfreeman.org/2013/processing-data-with-php-using-stdin-and-piping/))
 
 #### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
