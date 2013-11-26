@@ -350,7 +350,7 @@
 * OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling))
 * Photoshop in Ubuntu ([prtfl.io](http://www.prtfl.io/muellerwolfram/blog/2013/1/23/how-to-use-photoshop-in-ubuntu))
 
-##MySQL
+## MySQL
 
 * 10 Steps to a complete understanding of SQL ([tech.pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql))
 * Setup Replication Without the Downtime ([plusbryan.com](http://plusbryan.com/mysql-replication-without-downtime))
@@ -365,6 +365,11 @@
 * Postgres Env Vars ([postgresql](http://www.postgresql.org/docs/9.3/static/libpq-envars.html))
 * .pgpass file ([postgresql](http://www.postgresql.org/docs/9.3/static/libpq-pgpass.html))
 * Efficient Use of PostgreSQL Indexes ([heroku](https://devcenter.heroku.com/articles/postgresql-indexes))
+
+## MongoDB
+
+* Install MongoDB on Ubuntu ([docs.mongodb.org](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/))
+* Getting Started Mongo ([nettuts](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb/))
 
 ### @neckbeardhacker
 
