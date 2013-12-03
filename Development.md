@@ -365,6 +365,7 @@
 * Postgres Env Vars ([postgresql](http://www.postgresql.org/docs/9.3/static/libpq-envars.html))
 * .pgpass file ([postgresql](http://www.postgresql.org/docs/9.3/static/libpq-pgpass.html))
 * Efficient Use of PostgreSQL Indexes ([heroku](https://devcenter.heroku.com/articles/postgresql-indexes))
+* Modifying Tables - Add/Drop Constraints Etc ([postgresql.org](http://www.postgresql.org/docs/9.3/static/ddl-alter.html))
 
 ## MongoDB
 
