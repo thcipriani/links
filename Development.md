@@ -146,6 +146,7 @@
 * WebPlatformDaily ([webplatformdaily.org](http://webplatformdaily.org/))
 * Absolute Horizontal and Vertical centering ([smashingmagazine](http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/))
 * HTML thinks 'chucknorris' is a color ([stackoverflow](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color))
+* Drop shadows and glows ([prowebdeign.ro](http://www.prowebdesign.ro/round-brush-like-responsive-drop-shadows-with-css3-and-no-images/))
 
 ### Javascript
 
@@ -321,6 +322,8 @@
 * Open SSH Key Management Part 1([ibm.com](http://www.ibm.com/developerworks/opensource/library/l-keyc/index.html), [part2](http://webcache.googleusercontent.com/search?q=cache:n5M47jV8tSkJ:www.ibm.com/developerworks/library/l-keyc2/+&cd=1&hl=en&ct=clnk&gl=us), [part3](http://webcache.googleusercontent.com/search?q=cache:BzFiI_7zLoMJ:www.ibm.com/developerworks/library/l-keyc3/+&cd=1&hl=en&ct=clnk&gl=us))
 * OpenSSL HowTo ([madboa](http://www.madboa.com/geek/openssl/#prime-test))
 * Check if program exists in shell script ([stackoverflow](http://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script))
+* cdup ([stackoverflow](http://www.reddit.com/r/commandline/comments/1r5age/cdup_a_handy_function_for_moving_up_the_directory/))
+* What I learned from other people's shell scripts ([fizerkhan](http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html))
 
 ## Apple Mac OSX
 
