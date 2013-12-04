@@ -50,7 +50,12 @@
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
 * How long do disk drives last? ([backblaze](http://blog.backblaze.com/2013/11/12/how-long-do-disk-drives-last/))
 
-### Vim
+## IRC
+
+* Beautify your WeeChat ([dev.weechat](http://dev.weechat.org/post/2011/08/28/Beautify-your-WeeChat))
+* IRC Tutorial ([irchelp](http://www.irchelp.org/irchelp/irctutorial.html))
+
+## Vim
 
 * Vim Logo Font ([myfonts](http://www.myfonts.com/fonts/linotype/crillee/))
 * Vimcasts ([vimcasts.org](http://vimcasts.org/episodes/archive))
@@ -93,6 +98,7 @@
 * A simple git branching model ([gist](https://gist.github.com/jbenet/ee6c9ac48068889b0912))
 * Git Commit Messages ([tbaggery.com](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html))
 * Git Cheatsheet ([ndpsoftware](http://www.ndpsoftware.com/git-cheatsheet.html))
+* tl;dr git fetch && git merge origin/master ([stackoverflow](http://stackoverflow.com/questions/1741143/git-pull-origin-mybranch-leaves-local-mybranch-n-commits-ahead-of-origin-why))
 
 ### Email
 
@@ -125,6 +131,8 @@
 * Laravel Realtime Chat ([medium](https://medium.com/on-coding/eaa550829538))
 * PHPDocumentor ([phpdoc](http://www.phpdoc.org/))
 * Hidden Features of PHP ([stackoverflow](http://stackoverflow.com/questions/61401/hidden-features-of-php/1024914#1024914))
+* Security issues with using PHP's escapeshellarg ([basesystemsdetica](http://baesystemsdetica.blogspot.com.au/2013/11/security-issues-with-using-phps.html))
+* Processing data with PHP using STDIN and Pipes ([gregfreeman](http://www.gregfreeman.org/2013/processing-data-with-php-using-stdin-and-piping/))
 
 #### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
@@ -171,11 +179,13 @@
 * Airbnb Style Guide ([github](https://github.com/airbnb/javascript))
 
 #### Node
+
 * Raspberry Pi, Arduino Home automation ([ni-c.github](http://ni-c.github.io/heimcontrol.js/))
 * Absolute Beginners Guide to Node.js ([blog.modulus](http://blog.modulus.io/absolute-beginners-guide-to-nodejs))
 * Guide for front-end devlopers to getting started with Node ([cwbuecheler](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/))
 * How to write a command line app in Node ([liangzan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/))
 * Keep an node.js server up forever ([nodejitsu](http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever))
+* Introduction to fullstack js ([smashingmagazine](http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/))
 
 ### CSS
 * CSS Guidelines ([github.com](https://github.com/csswizardry/CSS-Guidelines))
@@ -259,10 +269,15 @@
 * Taste Test Asible, Puppet, Chef ([gumroad](https://gumroad.com/l/taste-test/rubyweekly))
 * Sysadmin Version control with RCS ([wisc.edu](http://net.doit.wisc.edu/~plonka/sysadmin/article.html))
 
+
+### Vagrant
+
+* Vagrant Machines with Packer ([codeship.io](http://blog.codeship.io/2013/11/07/building-vagrant-machines-with-packer.html))
+* Vagrant &amp; Puppet dev environments ([kloudless](http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/))
+
 ###Puppet
 * Introduction to Puppet ([davidwinter](http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/))
 * GUI to create PHP/Puppet VMs ([puphet](https://puphpet.com/))
-* Vagrant &amp; Puppet dev environments ([kloudless](http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/))
 * Puppet 3 Beginners Guide ([tutsplus](https://tutsplus.com/ebook/puppet-3-beginners-guide/))
 * Puppet Module Reusability ([speakerdeck](https://speakerdeck.com/garethr/puppet-module-reusability))
 * Puppet at Github ([speakerdeck](https://speakerdeck.com/wfarr/puppet-at-github-puppetcamp-raleigh-2013))
@@ -338,7 +353,7 @@
 * OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling))
 * Photoshop in Ubuntu ([prtfl.io](http://www.prtfl.io/muellerwolfram/blog/2013/1/23/how-to-use-photoshop-in-ubuntu))
 
-##MySQL
+## MySQL
 
 * 10 Steps to a complete understanding of SQL ([tech.pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql))
 * Setup Replication Without the Downtime ([plusbryan.com](http://plusbryan.com/mysql-replication-without-downtime))
@@ -349,7 +364,16 @@
 
 * PosgreSQL basics by example ([darthdeus](http://darthdeus.github.io/blog/2013/08/19/postgresql-basics-by-example/))
 * Posgres Dev Box ([pgdevbox](http://www.pgdevbox.com/))
-* Pospres.app ([postgresapp](http://postgresapp.com/))
+* Postgres.app ([postgresapp](http://postgresapp.com/))
+* Postgres Env Vars ([postgresql](http://www.postgresql.org/docs/9.3/static/libpq-envars.html))
+* .pgpass file ([postgresql](http://www.postgresql.org/docs/9.3/static/libpq-pgpass.html))
+* Efficient Use of PostgreSQL Indexes ([heroku](https://devcenter.heroku.com/articles/postgresql-indexes))
+* Modifying Tables - Add/Drop Constraints Etc ([postgresql.org](http://www.postgresql.org/docs/9.3/static/ddl-alter.html))
+
+## MongoDB
+
+* Install MongoDB on Ubuntu ([docs.mongodb.org](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/))
+* Getting Started Mongo ([nettuts](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb/))
 
 ### @neckbeardhacker
 
