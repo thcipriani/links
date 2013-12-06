@@ -54,6 +54,7 @@
 
 * Beautify your WeeChat ([dev.weechat](http://dev.weechat.org/post/2011/08/28/Beautify-your-WeeChat))
 * IRC Tutorial ([irchelp](http://www.irchelp.org/irchelp/irctutorial.html))
+* IRC Stuffs ([pascalpoitras](http://pascalpoitras.com/category/irc))
 
 ## Vim
 
