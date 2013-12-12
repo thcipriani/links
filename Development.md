@@ -340,6 +340,7 @@
 * Check if program exists in shell script ([stackoverflow](http://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script))
 * cdup ([stackoverflow](http://www.reddit.com/r/commandline/comments/1r5age/cdup_a_handy_function_for_moving_up_the_directory/))
 * What I learned from other people's shell scripts ([fizerkhan](http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html))
+* Configuring rsyslog ([papertrail](http://help.papertrailapp.com/kb/configuration/configuring-remote-syslog-from-unixlinux-and-bsdos-x))
 
 ## Apple Mac OSX
 
@@ -353,6 +354,10 @@
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
 * OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling))
 * Photoshop in Ubuntu ([prtfl.io](http://www.prtfl.io/muellerwolfram/blog/2013/1/23/how-to-use-photoshop-in-ubuntu))
+
+### Debian
+
+* Unstable (where the good stuff is) ([debian.org](https://wiki.debian.org/AptPreferences#A.2Fetc.2Fapt.2Fsources.list))
 
 ## MySQL
 
