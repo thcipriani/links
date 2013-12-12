@@ -21,6 +21,7 @@
 * dotshare.it ([dotshare.it](http://dotshare.it))
 * linux logo ([freecode](http://freecode.com/projects/linuxlogo))
 * Powerline Font symbols ([powerline](https://powerline.readthedocs.org/en/latest/fontpatching.html))
+* Sbire - voice command line ([github](https://github.com/GCorbel/sbire))
 * Stupid Programmer Tricks/Starwars gifs ([rarlindseysmash](http://rarlindseysmash.com/posts/stupid-programmer-tricks-and-star-wars-gifs))
 
 ## Arduino

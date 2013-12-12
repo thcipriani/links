@@ -47,8 +47,10 @@
 * nfu - Numeric Fu for your Shell ([github](https://github.com/spencertipping/nfu)
 
 ## Hardware
+
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
 * How long do disk drives last? ([backblaze](http://blog.backblaze.com/2013/11/12/how-long-do-disk-drives-last/))
+* Kano $99 Rasberry Pi Computer ([kano.me](http://www.kano.me/))
 
 ## IRC
 
@@ -341,6 +343,14 @@
 * cdup ([stackoverflow](http://www.reddit.com/r/commandline/comments/1r5age/cdup_a_handy_function_for_moving_up_the_directory/))
 * What I learned from other people's shell scripts ([fizerkhan](http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html))
 * Configuring rsyslog ([papertrail](http://help.papertrailapp.com/kb/configuration/configuring-remote-syslog-from-unixlinux-and-bsdos-x))
+* ZSH Workshop ([uiuc.edu](http://www.acm.uiuc.edu/workshops/zsh/toc.html))
+* Building a GNU Autotools project ([sourceforge.net/tutorial](http://inti.sourceforge.net/tutorial/libinti/autotoolsproject.html))
+* Datastructures and Algorithms in the Linux Kernel ([blogalia](http://luisbg.blogalia.com/historias/74062))
+
+### RHCSA/RHCE
+
+* Oracle Base articles ([oracle-base](http://www.oracle-base.com/articles/linux/articles-linux.php#rhcsa_and_rhce))
+* RHCSA Cheatsheet ([controlprotocol](http://controlprotocol.blogspot.be/2012/05/rhcsa-cheat-sheet.html#more))
 
 ## Apple Mac OSX
 
