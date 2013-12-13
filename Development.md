@@ -346,6 +346,7 @@
 * ZSH Workshop ([uiuc.edu](http://www.acm.uiuc.edu/workshops/zsh/toc.html))
 * Building a GNU Autotools project ([sourceforge.net/tutorial](http://inti.sourceforge.net/tutorial/libinti/autotoolsproject.html))
 * Datastructures and Algorithms in the Linux Kernel ([blogalia](http://luisbg.blogalia.com/historias/74062))
+* Bash as a modern programming language ([oscon](http://www.oscon.com/oscon2013/public/schedule/detail/29108))
 
 ### RHCSA/RHCE
 
