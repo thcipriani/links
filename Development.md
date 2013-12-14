@@ -347,6 +347,7 @@
 * Building a GNU Autotools project ([sourceforge.net/tutorial](http://inti.sourceforge.net/tutorial/libinti/autotoolsproject.html))
 * Datastructures and Algorithms in the Linux Kernel ([blogalia](http://luisbg.blogalia.com/historias/74062))
 * Bash as a modern programming language ([oscon](http://www.oscon.com/oscon2013/public/schedule/detail/29108))
+* GZip vs BZip2 ([superuser](http://superuser.com/questions/205223/pros-and-cons-of-bzip-vs-gzip/205984#205984))
 
 ### RHCSA/RHCE
 
@@ -359,6 +360,7 @@
 * Homebrew Cask ([github](https://github.com/phinze/homebrew-cask))
 * Slate WM ([github](https://github.com/jigish/slate))
 * Steve Losh's .slate ([bitbucket](https://bitbucket.org/sjl/dotfiles/src/2de1f78616fd1ecafa0b93fab9f03708d9dee39f/slate?at=default))
+* Power users tool list ([carpeaqua](http://carpeaqua.com/2013/10/27/my-ultimate-developer-and-power-users-tool-list-for-os-x-2013-edition-/))
 
 ## Desktop Linux
 
@@ -369,6 +371,7 @@
 ### Debian
 
 * Unstable (where the good stuff is) ([debian.org](https://wiki.debian.org/AptPreferences#A.2Fetc.2Fapt.2Fsources.list))
+* Setup repository with Reprepro ([debian.org](https://wiki.debian.org/SettingUpSignedAptRepositoryWithReprepro))
 
 ## MySQL
 
