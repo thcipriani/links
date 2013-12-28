@@ -278,6 +278,7 @@
 
 * Vagrant Machines with Packer ([codeship.io](http://blog.codeship.io/2013/11/07/building-vagrant-machines-with-packer.html))
 * Vagrant &amp; Puppet dev environments ([kloudless](http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/))
+* Protobox, uild and share virtual machines ([protobox](http://getprotobox.com/))
 
 ###Puppet
 * Introduction to Puppet ([davidwinter](http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/))
@@ -345,6 +346,9 @@
 * What I learned from other people's shell scripts ([fizerkhan](http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html))
 * Configuring rsyslog ([papertrail](http://help.papertrailapp.com/kb/configuration/configuring-remote-syslog-from-unixlinux-and-bsdos-x))
 * ZSH Workshop ([uiuc.edu](http://www.acm.uiuc.edu/workshops/zsh/toc.html))
+* ZSH Lovers ([grml](http://grml.org/zsh/zsh-lovers.html))
+* GRML ZSH Refcard ([grml](http://grml.org/zsh/grml-zsh-refcard.pdf))
+* Prezto zsh ([github](https://github.com/sorin-ionescu/prezto))
 * Building a GNU Autotools project ([sourceforge.net/tutorial](http://inti.sourceforge.net/tutorial/libinti/autotoolsproject.html))
 * Datastructures and Algorithms in the Linux Kernel ([blogalia](http://luisbg.blogalia.com/historias/74062))
 * Bash as a modern programming language ([oscon](http://www.oscon.com/oscon2013/public/schedule/detail/29108))
