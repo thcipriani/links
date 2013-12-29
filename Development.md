@@ -13,6 +13,7 @@
 * Hostname Ideas ([seriss](http://seriss.com/people/erco/unixtools/hostnames.html))
 * OAuth2 and the Road to Hell ([hueniverse](http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/))
 * How PayPal is being revolutionized by Node.js and Lean-UX ([nearform](http://www.nearform.com/nodecrunch/?p=109#.Un1whZQui8F))
+* Interviewing as a Front-end engineer ([css-tricks](http://css-tricks.com/interviewing-front-end-engineer-san-francisco/)
 
 ## Books
 
@@ -147,6 +148,7 @@
 * GMail for Python ([github.com](https://github.com/charlierguo/gmail))
 * Learning Python in one weekend ([stackoverflow](http://stackoverflow.com/questions/2682561/learning-python-in-one-weekend))
 * Python for sysadmin ([pythonforbeginners](http://www.pythonforbeginners.com/systems-programming/python-system-administration/))
+* Python Practice Projects ([pythonpracticeprojects](http://pythonpracticeprojects.com/command-line-parser.html))
 
 ### HTML5/CSS3
 * Fun with the HTML <image> tag ([jakearchibald.com](http://jakearchibald.com/2013/having-fun-with-image/))
@@ -246,6 +248,7 @@
 * Perl Dancer on Digital Ocean ([perlmaven](http://perlmaven.com/getting-started-with-perl-dancer-on-digital-ocean))
 * Searching for Rhymes with Perl ([foo.be](http://www.foo.be/docs/tpj/issues/vol4_4/tpj0404-0003.html))
 * Salesforce API ([oreillynet](http://www.oreillynet.com/network/2006/11/27/using-the-salesforcecom-api.html))
+* Perl CGI Course ([ovid-cgi-course](http://ovid-cgi-course.perl-begin.org/cgi-course/lesson_1.html))
 
 ### AppleScript
 

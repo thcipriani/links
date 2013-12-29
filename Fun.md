@@ -64,6 +64,7 @@
 * Delicius vinyl ([deliciousvinyl](http://store.deliciousvinyl.com/collections/vinyl))
 * BoomKat ([boomkat](http://boomkat.com/))
 * Midi for the uninitiated ([createddigitalmusic](http://createdigitalmusic.com/2011/02/how-to-use-midi-to-make-an-ipad-more-musically-connected-productive-video-resources/))
+* Classic Country Suggestions from your Older Brother ([cavalier.tumblr.com](http://cavalier.tumblr.com/post/15981874264/classic-country-suggestions-from-your-older-and-wiser))
 
 ## Cooking
 
@@ -75,6 +76,7 @@
 
 ## Random
 
+* Top Science Long-Reads of 2013 ([nationalgeographic](http://phenomena.nationalgeographic.com/2013/12/23/top-science-longreads-of-2013/))
 * Neal McBurrnet Homepage ([boulder.co.us](http://bcn.boulder.co.us/~neal/))
 * You can't parse HTML with Regular Expressions ([stackoverflow](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454))
 * Short Domain Search ([shortdomainsearch](http://shortdomainsearch.net/))
