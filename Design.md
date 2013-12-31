@@ -5,6 +5,7 @@
 * Young Jerks ([youngjerks.com](http://youngjerks.com/))
 * Give n Go Pair - Dribbble and Codepen pairs ([give-n](http://give-n-go.tumblr.com/))
 * Working Watches ([wrist](http://www.wrist.im/))
+* Sidebar.io ([sidebar](http://sidebar.io/))
 
 ## Tools
 * **Sketch**—Photoshop alternative

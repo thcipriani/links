@@ -75,6 +75,7 @@
 
 ## Random
 
+* Passweird - Passwords too gross to steal ([passweird](http://www.passweird.com/))
 * Neal McBurrnet Homepage ([boulder.co.us](http://bcn.boulder.co.us/~neal/))
 * You can't parse HTML with Regular Expressions ([stackoverflow](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454))
 * Short Domain Search ([shortdomainsearch](http://shortdomainsearch.net/))
