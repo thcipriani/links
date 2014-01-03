@@ -76,6 +76,7 @@
 
 ## Random
 
+* Boulder Colorado: Sunrise/Sunset data and length of twilight ([noaa.gov](http://www.esrl.noaa.gov/psd/boulder/boulder.sunset.html))
 * Passweird - Passwords too gross to steal ([passweird](http://www.passweird.com/))
 * Top Science Long-Reads of 2013 ([nationalgeographic](http://phenomena.nationalgeographic.com/2013/12/23/top-science-longreads-of-2013/))
 * Neal McBurrnet Homepage ([boulder.co.us](http://bcn.boulder.co.us/~neal/))
