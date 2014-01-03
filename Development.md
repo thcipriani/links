@@ -397,6 +397,7 @@
 * .pgpass file ([postgresql](http://www.postgresql.org/docs/9.3/static/libpq-pgpass.html))
 * Efficient Use of PostgreSQL Indexes ([heroku](https://devcenter.heroku.com/articles/postgresql-indexes))
 * Modifying Tables - Add/Drop Constraints Etc ([postgresql.org](http://www.postgresql.org/docs/9.3/static/ddl-alter.html))
+* Extended display with pager FINALLY! ([lopsa.org](https://lopsa.org/content/postgres-tip-fix-column-smearing-and-stop-squinting-psql-extended-display))
 
 ## MongoDB
 
