@@ -46,6 +46,7 @@
 * Mobile emulation in chrome ([developers.google.com](https://developers.google.com/chrome-developer-tools/docs/mobile-emulation))
 * Incorporated Jekyll Template ([incorporated](http://incorporated.sendtoinc.com/))
 * nfu - Numeric Fu for your Shell ([github](https://github.com/spencertipping/nfu)
+* XIP.IO Wildcard DNS for everyone ([xip.io](http://xip.io/))
 
 ## Hardware
 
