@@ -357,6 +357,7 @@
 * Datastructures and Algorithms in the Linux Kernel ([blogalia](http://luisbg.blogalia.com/historias/74062))
 * Bash as a modern programming language ([oscon](http://www.oscon.com/oscon2013/public/schedule/detail/29108))
 * GZip vs BZip2 ([superuser](http://superuser.com/questions/205223/pros-and-cons-of-bzip-vs-gzip/205984#205984))
+* Unix Shell's Humble If ([thoughtbot.com](http://robots.thoughtbot.com/the-unix-shells-humble-if))
 
 ### RHCSA/RHCE
 
