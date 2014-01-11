@@ -150,6 +150,8 @@
 * Learning Python in one weekend ([stackoverflow](http://stackoverflow.com/questions/2682561/learning-python-in-one-weekend))
 * Python for sysadmin ([pythonforbeginners](http://www.pythonforbeginners.com/systems-programming/python-system-administration/))
 * Python Practice Projects ([pythonpracticeprojects](http://pythonpracticeprojects.com/command-line-parser.html))
+* Invent with Python ([inventwithpython.com](http://inventwithpython.com/hacking/chapters/))
+* Python for Bash Scripters ([redhat.com](http://magazine.redhat.com/2008/02/07/python-for-bash-scripters-a-well-kept-secret/))
 
 ### HTML5/CSS3
 * Fun with the HTML <image> tag ([jakearchibald.com](http://jakearchibald.com/2013/having-fun-with-image/))
@@ -231,6 +233,9 @@
 
 ### C++
 * Learn C++ ([learncpp](http://www.learncpp.com/))
+
+### Java
+* Java for Python programmers ([interactivepython.org](http://interactivepython.org/runestone/static/java4python/index.html))
 
 ### Objective C
 * NYTimes Objective-C Style Guide ([github](https://github.com/NYTimes/objective-c-style-guide))
