@@ -363,6 +363,7 @@
 * Bash as a modern programming language ([oscon](http://www.oscon.com/oscon2013/public/schedule/detail/29108))
 * GZip vs BZip2 ([superuser](http://superuser.com/questions/205223/pros-and-cons-of-bzip-vs-gzip/205984#205984))
 * Unix Shell's Humble If ([thoughtbot.com](http://robots.thoughtbot.com/the-unix-shells-humble-if))
+* 4 paths to being a kernel hacker ([jvns.ca](http://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/))
 
 ### RHCSA/RHCE
 
