@@ -66,6 +66,9 @@
 * Midi for the uninitiated ([createddigitalmusic](http://createdigitalmusic.com/2011/02/how-to-use-midi-to-make-an-ipad-more-musically-connected-productive-video-resources/))
 * Classic Country Suggestions from your Older Brother ([cavalier.tumblr.com](http://cavalier.tumblr.com/post/15981874264/classic-country-suggestions-from-your-older-and-wiser))
 
+## Audio
+* ALO Audio's pintrest ([pintrest.com](http://www.pinterest.com/source/aloaudio.com/))
+
 ## Cooking
 
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))
