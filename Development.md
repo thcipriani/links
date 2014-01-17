@@ -17,6 +17,7 @@
 
 ## Books
 
+* Unix and linux System Administration Handbook ([admin.com](http://admin.com/))
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
 * Bayesian Methods for Hackers ([camdavidsonpilon.github](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/))
 * The Linux Command Line ([linuxcommand.org](http://linuxcommand.org/tlcl.php))
@@ -186,6 +187,8 @@
 * Sir Trevor - rich content editor ([madebymany](http://madebymany.github.io/sir-trevor-js/))
 * HTML5 and mobile ([smashingmagazine](http://mobile.smashingmagazine.com/2013/10/17/best-of-both-worlds-mixing-html5-native-code/))
 * Airbnb Style Guide ([github](https://github.com/airbnb/javascript))
+* JQuery to Backbone ([github.com](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md))
+* Frameworkless Javascript ([moot.it](https://moot.it/blog/technology/frameworkless-javascript.html))
 
 #### Node
 

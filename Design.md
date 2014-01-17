@@ -15,13 +15,17 @@
 * Photoshop/Illustrator Cheatsheets ([zerolag](http://www.zerolag.com/infographics/))
 * Responsinator ([responsinator](http://www.responsinator.com/))
 * Inkpad - Open source vector illustration app for iPad ([github](https://github.com/sprang/Inkpad))
+* PlaceIt ([placeit.net](https://placeit.net/#!/stages/iphone-5s-held-by-man))
+* Pixlr - Online photo editor ([pixlr.com](http://pixlr.com/editor/))
 
 ## Articles
 
+* Photoshop Etiquette ([photoshopetiquette.com](http://photoshopetiquette.com/))
 * Progressive Viewports ([dbushell.com](http://dbushell.com/2013/07/25/progressive-viewports/))
 * Sketching with CSS ([sketchingwithcss](layouts with flexbox_—http://www.sketchingwithcss.com/samplechapter/))
 * UX Readlist ([readlists.com](http://readlists.com/user/Dangerwells/))
 * Use Imagemagick to make sharp, web-sized photos ([even.li](https://even.li/imagemagick-sharp-web-sized-photographs/))
+* Where designers go to find photos and graphics ([sitebuilderreport.com](http://www.sitebuilderreport.com/blog/where-the-best-designers-go-to-find-photos-and-graphics))
 
 ## Videos
 
