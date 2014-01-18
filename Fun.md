@@ -40,6 +40,8 @@
 * Thuglife.org ([Thuglife](http://www.thuglife.org/))
 * Chris Johnson's ASCII Art Collection ([chris.com](http://chris.com/ascii/))
 * Underground Empire ([untergrund](http://ue.untergrund.net/ansi/))
+* Binary Walker ([deviantart.com](http://binarywalker.deviantart.com/))
+* Blocktronics ([blocktronics.org](http://blocktronics.org/))
 
 ## Gif
 
