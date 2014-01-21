@@ -14,6 +14,7 @@
 * OAuth2 and the Road to Hell ([hueniverse](http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/))
 * How PayPal is being revolutionized by Node.js and Lean-UX ([nearform](http://www.nearform.com/nodecrunch/?p=109#.Un1whZQui8F))
 * Interviewing as a Front-end engineer ([css-tricks](http://css-tricks.com/interviewing-front-end-engineer-san-francisco/)
+* 10 programming languages to learn in 2014 ([mashable.com](http://mashable.com/2014/01/21/learn-programming-languages/))
 
 ## Books
 
