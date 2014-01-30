@@ -285,6 +285,7 @@
 * rm -rf ([justpasha](http://justpasha.org/folk/rm.html))
 * Taste Test Asible, Puppet, Chef ([gumroad](https://gumroad.com/l/taste-test/rubyweekly))
 * Sysadmin Version control with RCS ([wisc.edu](http://net.doit.wisc.edu/~plonka/sysadmin/article.html))
+* Staying on top of TLS Attacks ([blogs.cloudflare.com](http://blog.cloudflare.com/staying-on-top-of-tls-attacks))
 
 
 ### Vagrant
