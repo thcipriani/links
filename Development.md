@@ -15,6 +15,7 @@
 * How PayPal is being revolutionized by Node.js and Lean-UX ([nearform](http://www.nearform.com/nodecrunch/?p=109#.Un1whZQui8F))
 * Interviewing as a Front-end engineer ([css-tricks](http://css-tricks.com/interviewing-front-end-engineer-san-francisco/)
 * 10 programming languages to learn in 2014 ([mashable.com](http://mashable.com/2014/01/21/learn-programming-languages/))
+* The magic of strace ([chadfowler.com](http://chadfowler.com/blog/2014/01/26/the-magic-of-strace/))
 
 ## Books
 

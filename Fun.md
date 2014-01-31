@@ -47,6 +47,8 @@
 
 * Pronounciation ([bbc.co.uk](http://www.bbc.co.uk/news/technology-22620473))
 * Search ([giphy.com](http://giphy.com/tags/tv))
+* Bunches ([sadbastard.org](http://sadbastard.org/lonely-web/images/))
+* Film Reaction gifs ([reddit.com](http://www.reddit.com/r/EditingAndLayout/))
 
 ## Games
 
