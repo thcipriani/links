@@ -190,6 +190,7 @@
 * Airbnb Style Guide ([github](https://github.com/airbnb/javascript))
 * JQuery to Backbone ([github.com](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md))
 * Frameworkless Javascript ([moot.it](https://moot.it/blog/technology/frameworkless-javascript.html))
+* You might not need jQuery ([youmightnotneedjquery.com](http://youmightnotneedjquery.com/))
 
 #### Node
 
