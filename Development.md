@@ -142,6 +142,7 @@
 * Security issues with using PHP's escapeshellarg ([basesystemsdetica](http://baesystemsdetica.blogspot.com.au/2013/11/security-issues-with-using-phps.html))
 * Processing data with PHP using STDIN and Pipes ([gregfreeman](http://www.gregfreeman.org/2013/processing-data-with-php-using-stdin-and-piping/))
 * PHP-FPM and Sysctl ([rtcamp](https://rtcamp.com/tutorials/php/fpm-sysctl-tweaking/))
+* Restful api from php ([coreymaynard.com](http://coreymaynard.com/blog/creating-a-restful-api-with-php/))
 
 #### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
@@ -242,6 +243,7 @@
 
 ### Java
 * Java for Python programmers ([interactivepython.org](http://interactivepython.org/runestone/static/java4python/index.html))
+* Java Sucks ([jwz.org](http://www.jwz.org/doc/java.html))
 
 ### Objective C
 * NYTimes Objective-C Style Guide ([github](https://github.com/NYTimes/objective-c-style-guide))
@@ -278,6 +280,7 @@
 
 ##Sysadmin
 
+* Heirarchy of DevOps Needs ([kickstarter.com](https://www.kickstarter.com/backing-and-hacking/hierarchy-of-devops-needs))
 * My First 5 Minutes on a Server ([plusbryan](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers#))
 * SysadminCasts ([sysadmincasts](http://sysadmincasts.com/))
 * Memcached on CentOS with PECL ([bxtra](http://www.bxtra.net/articles/2011-03-22/how-to-install-memcached-on-centos-memcached-pecl-update-20110322))
@@ -311,6 +314,7 @@
 * Getting Started with Chef ([gettingstartedwithchef](http://gettingstartedwithchef.com/introducing-chef-server.html))
 * Chef at PagerDuty ([pagerduty](http://blog.pagerduty.com/2013/11/chef-at-pagerduty/))
 * Berkshelf ([berkshelf](http://berkshelf.com/))
+* ChefSpec ([sethvargo.com](http://code.sethvargo.com/chefspec/))
 
 ### Ansible
 
@@ -326,6 +330,7 @@
 * SSH, X, Libreoffice and Docker ([blog.docker](http://blog.docker.io/2013/07/docker-desktop-your-desktop-over-ssh-running-inside-of-a-docker-container/))
 * Interactive Docker Tutorial ([blog.docker](http://blog.docker.io/2013/08/introducing-an-interactive-docker-tutorial/))
 * Dokku - Docker-powered mini heroku in 100 lines of Bash ([github](https://github.com/progrium/dokku))
+* Decentralizing Docker ([blog.ctl-c.io](http://blog.ctl-c.io/?p=43))
 
 ###Apache
 
@@ -371,6 +376,7 @@
 * GZip vs BZip2 ([superuser](http://superuser.com/questions/205223/pros-and-cons-of-bzip-vs-gzip/205984#205984))
 * Unix Shell's Humble If ([thoughtbot.com](http://robots.thoughtbot.com/the-unix-shells-humble-if))
 * 4 paths to being a kernel hacker ([jvns.ca](http://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/))
+* OpenSSL to encrypt messages and files ([linuxcareer.com](http://how-to.linuxcareer.com/using-openssl-to-encrypt-messages-and-files))
 
 ### RHCSA/RHCE
 
