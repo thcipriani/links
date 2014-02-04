@@ -77,6 +77,11 @@
 
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))
 
+## Potential Server Naming Schemas
+
+* Kaiju ([wikipedia](http://en.wikipedia.org/wiki/Kaiju))
+* Shaw Brothers Films ([wikipedia](http://en.wikipedia.org/wiki/List_of_Shaw_Brothers_films))
+
 ## Stuff
 
 * Blink USB light indicator ([thingm](http://thingm.com/products/blink-1.html))
