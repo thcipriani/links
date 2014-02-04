@@ -261,6 +261,7 @@
 * Searching for Rhymes with Perl ([foo.be](http://www.foo.be/docs/tpj/issues/vol4_4/tpj0404-0003.html))
 * Salesforce API ([oreillynet](http://www.oreillynet.com/network/2006/11/27/using-the-salesforcecom-api.html))
 * Perl CGI Course ([ovid-cgi-course](http://ovid-cgi-course.perl-begin.org/cgi-course/lesson_1.html))
+* Learn how to program perl ([lernhowtoprogramperl.info](http://learnhowtoprogramperl.info/))
 
 ### AppleScript
 
