@@ -264,6 +264,7 @@
 * Salesforce API ([oreillynet](http://www.oreillynet.com/network/2006/11/27/using-the-salesforcecom-api.html))
 * Perl CGI Course ([ovid-cgi-course](http://ovid-cgi-course.perl-begin.org/cgi-course/lesson_1.html))
 * Learn how to program perl ([lernhowtoprogramperl.info](http://learnhowtoprogramperl.info/))
+* Renaming Nikon RAW images with perl ([martin-evans.me.uk](http://www.martin-evans.me.uk/node/168))
 
 ### AppleScript
 
