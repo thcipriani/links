@@ -16,6 +16,8 @@
 * Interviewing as a Front-end engineer ([css-tricks](http://css-tricks.com/interviewing-front-end-engineer-san-francisco/)
 * 10 programming languages to learn in 2014 ([mashable.com](http://mashable.com/2014/01/21/learn-programming-languages/))
 * The magic of strace ([chadfowler.com](http://chadfowler.com/blog/2014/01/26/the-magic-of-strace/))
+* Vim, LaTeX and High School ([conra.dk](http://conra.dk/2012/10/06/vim-latex-and-high-school.html))
+* Devops in Straight English ([redhat.com](http://developerblog.redhat.com/2014/01/29/devops-straight-english-2-of-2/))
 
 ## Books
 
