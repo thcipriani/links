@@ -59,6 +59,7 @@
 * Practical Typography ([practicaltypography.com](http://practicaltypography.com/))
 * Typography safe list ([papress](http://www.papress.com/other/thinkingwithtype/letter/few_fonts.htm))
 * Compose a vertical rhythm ([24ways](http://24ways.org/2006/compose-to-a-vertical-rhythm/))
+* I Love Ligatures ([iloveligatures.tumblr.com](http://iloveligatures.tumblr.com/))
 
 ## Lettering
 

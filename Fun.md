@@ -77,6 +77,11 @@
 
 * Whole Wheat Bread with a Biga and Soaker ([applepiepatispate](http://www.applepiepatispate.com/bread/honey-wheat-sandwich-bread-whole-grain/))
 
+## Potential Server Naming Schemas
+
+* Kaiju ([wikipedia](http://en.wikipedia.org/wiki/Kaiju))
+* Shaw Brothers Films ([wikipedia](http://en.wikipedia.org/wiki/List_of_Shaw_Brothers_films))
+
 ## Stuff
 
 * Blink USB light indicator ([thingm](http://thingm.com/products/blink-1.html))
@@ -84,6 +89,7 @@
 ## Random
 
 * Teaching Mathmatics Graph Theory ([jeremykun.com](http://jeremykun.com/2011/06/26/teaching-mathematics-graph-theory/))
+* The Setup ([usethis.com](http://usesthis.com))
 * Academic Torrents ([academictorrents.com](http://academictorrents.com/))
 * Free Softward Foundation Gift Guide 2013 ([fsf.org](http://www.fsf.org/givingguide))
 * Boulder Colorado: Sunrise/Sunset data and length of twilight ([noaa.gov](http://www.esrl.noaa.gov/psd/boulder/boulder.sunset.html))
