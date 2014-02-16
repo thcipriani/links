@@ -83,6 +83,7 @@
 
 ## Random
 
+* Teaching Mathmatics Graph Theory ([jeremykun.com](http://jeremykun.com/2011/06/26/teaching-mathematics-graph-theory/))
 * Academic Torrents ([academictorrents.com](http://academictorrents.com/))
 * Free Softward Foundation Gift Guide 2013 ([fsf.org](http://www.fsf.org/givingguide))
 * Boulder Colorado: Sunrise/Sunset data and length of twilight ([noaa.gov](http://www.esrl.noaa.gov/psd/boulder/boulder.sunset.html))
