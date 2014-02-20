@@ -358,7 +358,6 @@
 * Finalterm ([github](https://github.com/p-e-w/finalterm))
 * Mosh ssh ([mit](http://mosh.mit.edu/))
 * The refining-linux advent calendar ([refining-linux](http://www.refining-linux.org/plugin/tag/advent+calendar))
-* Getting started with GnuPG ([madboa](http://www.madboa.com/geek/gpg-quickstart/))
 * IPTables Ubuntu ([digitalocean](https://www.digitalocean.com/community/articles/how-to-set-up-a-firewall-using-ip-tables-on-ubuntu-12-04))
 * Readline Keyboard Basics ([bigsmoke](http://www.bigsmoke.us/readline/shortcuts))
 * GNU Stow for dotfiles ([invergo](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
@@ -381,6 +380,13 @@
 * Unix Shell's Humble If ([thoughtbot.com](http://robots.thoughtbot.com/the-unix-shells-humble-if))
 * 4 paths to being a kernel hacker ([jvns.ca](http://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/))
 * OpenSSL to encrypt messages and files ([linuxcareer.com](http://how-to.linuxcareer.com/using-openssl-to-encrypt-messages-and-files))
+
+## GPG
+
+* Getting started with GnuPG ([madboa](http://www.madboa.com/geek/gpg-quickstart/))
+* GPG on Ubuntu 12.04 ([digitalocean](https://www.digitalocean.com/community/articles/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps))
+* Where to store gpg key ([stackexchage](http://security.stackexchange.com/questions/51771/where-do-you-store-your-personal-private-gpg-key))
+* paperback ([github](http://ollydbg.de/Paperbak/))
 
 ### RHCSA/RHCE
 
