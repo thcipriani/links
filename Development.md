@@ -145,6 +145,7 @@
 * Processing data with PHP using STDIN and Pipes ([gregfreeman](http://www.gregfreeman.org/2013/processing-data-with-php-using-stdin-and-piping/))
 * PHP-FPM and Sysctl ([rtcamp](https://rtcamp.com/tutorials/php/fpm-sysctl-tweaking/))
 * Restful api from php ([coreymaynard.com](http://coreymaynard.com/blog/creating-a-restful-api-with-php/))
+* ReactPHP as a server ([marcjschmidt](http://marcjschmidt.de/blog/2014/02/08/php-high-performance.html))
 
 #### Laravel
 * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
