@@ -86,6 +86,12 @@
 
 * Blink USB light indicator ([thingm](http://thingm.com/products/blink-1.html))
 
+## Coffee
+
+* Water-to-coffee ratios ([coffeed](http://coffeed.com/viewtopic.php?f=17&t=2965#p28979))
+* Coffee Extraction ([hotwatermagic](http://hotwatermagic.blogspot.com/2012/12/coffee-extraction.html))
+* Coffee Experiments ([drbunsen](http://www.drbunsen.org/coffee-experiments/))
+
 ## Random
 
 * Teaching Mathmatics Graph Theory ([jeremykun.com](http://jeremykun.com/2011/06/26/teaching-mathematics-graph-theory/))
@@ -101,7 +107,6 @@
 * ArkOS for Raspberry PI ([arkos](https://arkos.io/))
 * The Man Who Would Teach Machines to Think ([theatlantic](http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/))
 * Reality distortion fields ([folklore](http://folklore.org/StoryView.py?project=Macintosh&story=Reality_Distortion_Field.txt))
-* Coffee Experiments ([drbunsen](http://www.drbunsen.org/coffee-experiments/))
 * Gif Screencast OSX ([gist](https://gist.github.com/dergachev/4627207))
 * Emoji Cheatsheet ([emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/))
 * Super Meat Boy ([steam](http://store.steampowered.com/app/40800/))
