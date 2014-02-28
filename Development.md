@@ -88,6 +88,7 @@
 * VimDeck ([github](https://github.com/tybenz/vimdeck))
 * Multiple Cursors ([github](https://github.com/terryma/vim-multiple-cursors))
 * Ack.vim ([github](https://github.com/mileszs/ack.vim))
+* Making Vim status lines that own (scrooloose)([got-ravings.blogspot.co.uk](http://got-ravings.blogspot.co.uk/2008/08/vim-pr0n-making-statuslines-that-own.html))
 
 ## Sublime Text
 
