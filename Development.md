@@ -206,6 +206,7 @@
 * How to write a command line app in Node ([liangzan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/))
 * Keep an node.js server up forever ([nodejitsu](http://blog.nodejitsu.com/keep-a-nodejs-server-up-with-forever))
 * Introduction to fullstack js ([smashingmagazine](http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/))
+* VNC client with angular and yeoman ([mgechev.com](http://blog.mgechev.com/2014/02/08/remote-desktop-vnc-client-with-angularjs-and-yeoman/))
 
 ### CSS
 * CSS Guidelines ([github.com](https://github.com/csswizardry/CSS-Guidelines))
