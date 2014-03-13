@@ -175,6 +175,7 @@
 * Absolute Horizontal and Vertical centering ([smashingmagazine](http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/))
 * HTML thinks 'chucknorris' is a color ([stackoverflow](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color))
 * Drop shadows and glows ([prowebdeign.ro](http://www.prowebdesign.ro/round-brush-like-responsive-drop-shadows-with-css3-and-no-images/))
+* Triangles in CSS ([jonrohan](http://jonrohan.me/guide/css/creating-triangles-in-css/))
 
 ### Javascript
 
@@ -386,6 +387,7 @@
 * Unix Shell's Humble If ([thoughtbot.com](http://robots.thoughtbot.com/the-unix-shells-humble-if))
 * 4 paths to being a kernel hacker ([jvns.ca](http://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/))
 * OpenSSL to encrypt messages and files ([linuxcareer.com](http://how-to.linuxcareer.com/using-openssl-to-encrypt-messages-and-files))
+* Safely generate random numbers ([sockpuppet.org](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/))
 
 ## GPG
 
