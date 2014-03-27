@@ -95,6 +95,7 @@
 
 ## Random
 
+* Visual Cryptography ([datagenetics](http://datagenetics.com/blog/november32013/index.html))
 * Teaching Mathmatics Graph Theory ([jeremykun.com](http://jeremykun.com/2011/06/26/teaching-mathematics-graph-theory/))
 * The Setup ([usethis.com](http://usesthis.com))
 * Academic Torrents ([academictorrents.com](http://academictorrents.com/))
