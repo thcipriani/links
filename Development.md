@@ -176,6 +176,8 @@
 * HTML thinks 'chucknorris' is a color ([stackoverflow](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color))
 * Drop shadows and glows ([prowebdeign.ro](http://www.prowebdesign.ro/round-brush-like-responsive-drop-shadows-with-css3-and-no-images/))
 * Triangles in CSS ([jonrohan](http://jonrohan.me/guide/css/creating-triangles-in-css/))
+* Grid Style Sheets ([gridstylesheets](http://gridstylesheets.org/))
+* Math Elements ([github.io](http://charbelrami.github.io/math-elements/#about))
 
 ### Javascript
 
