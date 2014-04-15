@@ -49,6 +49,7 @@
 * Search ([giphy.com](http://giphy.com/tags/tv))
 * Bunches ([sadbastard.org](http://sadbastard.org/lonely-web/images/))
 * Film Reaction gifs ([reddit.com](http://www.reddit.com/r/EditingAndLayout/))
+* Photoshop cs6 gif how to ([imgur.com](http://i.imgur.com/rt8KB1M.png) [save for web settings](http://i.imgur.com/JXG4S7R.png))
 
 ## Games
 
