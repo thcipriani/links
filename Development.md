@@ -256,6 +256,10 @@
 * Java for Python programmers ([interactivepython.org](http://interactivepython.org/runestone/static/java4python/index.html))
 * Java Sucks ([jwz.org](http://www.jwz.org/doc/java.html))
 
+### Clojure
+
+* A Brief Beginner's Guide to Clojure ([unexpected-voices.com](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/))
+
 ### Objective C
 * NYTimes Objective-C Style Guide ([github](https://github.com/NYTimes/objective-c-style-guide))
 
