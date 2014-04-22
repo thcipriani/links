@@ -54,6 +54,12 @@
 * nfu - Numeric Fu for your Shell ([github](https://github.com/spencertipping/nfu)
 * XIP.IO Wildcard DNS for everyone ([xip.io](http://xip.io/))
 
+Build Tools
+---
+* The Ultimate Frontend Build Tool: make ([rdio.com](https://algorithms.rdio.com/post/make/))
+* Build Tools–Make, no more ([hadihariri.com](http://hadihariri.com/2014/04/21/build-make-no-more/))
+* Grunt pre-commit hooks ([viget](http://viget.com/extend/grunt-getting-started-with-git-hooks))
+
 ## Hardware
 
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
@@ -181,7 +187,6 @@
 
 ### Javascript
 
-* Grunt pre-commit hooks ([viget](http://viget.com/extend/grunt-getting-started-with-git-hooks))
 * Analyzing network characteristics in the DOM ([smashingmagazine](http://coding.smashingmagazine.com/2011/11/14/analyzing-network-characteristics-using-javascript-and-the-dom-part-1/))
 * Determine if a string contains another string ([designpepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches))
 * iOS supported JS Events ([developer.apple](http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5))
