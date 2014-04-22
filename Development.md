@@ -59,6 +59,7 @@ Build Tools
 * The Ultimate Frontend Build Tool: make ([rdio.com](https://algorithms.rdio.com/post/make/))
 * Build Tools–Make, no more ([hadihariri.com](http://hadihariri.com/2014/04/21/build-make-no-more/))
 * Grunt pre-commit hooks ([viget](http://viget.com/extend/grunt-getting-started-with-git-hooks))
+* Gulp is the new black ([shaundunne.com](http://www.shaundunne.com/gulp-is-the-new-black/))
 
 ## Hardware
 
