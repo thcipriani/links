@@ -249,6 +249,7 @@ Build Tools
 * Nokogiri—what to do if libxml2 is being a jerk ([github](https://github.com/sparklemotion/nokogiri/wiki/What-to-do-if-libxml2-is-being-a-jerk))
 * Chrome as IDE for Rails app ([tech.pro](http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1))
 * Deploy a Sinatra Site on a VPS ([codylittlewood](http://codylittlewood.com/build-and-deploy-ruby-microsite-with-sinatra/))
+* Huginn: Yahoo! Pipes + IFTTT on your own server ([github](https://github.com/cantino/huginn))
 
 ### C
 * Basics of Function Pointers in C ([denniskubes.com](http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/))
