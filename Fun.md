@@ -96,6 +96,7 @@
 
 ## Random
 
+* AOLServer ([aolserver.com](http://www.aolserver.com/))
 * Git query language ([github](https://github.com/cloudson/gitql))
 * Visual Cryptography ([datagenetics](http://datagenetics.com/blog/november32013/index.html))
 * Teaching Mathmatics Graph Theory ([jeremykun.com](http://jeremykun.com/2011/06/26/teaching-mathematics-graph-theory/))
