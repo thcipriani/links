@@ -19,6 +19,7 @@
 * Vim, LaTeX and High School ([conra.dk](http://conra.dk/2012/10/06/vim-latex-and-high-school.html))
 * Devops in Straight English ([redhat.com](http://developerblog.redhat.com/2014/01/29/devops-straight-english-2-of-2/))
 * Papers We Love ([github.com](https://github.com/papers-we-love/papers-we-love))
+* Semantic Versioning 2.0.0 ([semver.org](http://semver.org/))
 
 ## Books
 
