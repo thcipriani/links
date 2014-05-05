@@ -402,6 +402,7 @@ Build Tools
 * OpenSSL to encrypt messages and files ([linuxcareer.com](http://how-to.linuxcareer.com/using-openssl-to-encrypt-messages-and-files))
 * Safely generate random numbers ([sockpuppet.org](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/))
 * Terminal colours made simple ([linuxwell.com](http://linuxwell.com/2014/03/30/tco/))
+* SSH Kung-Fu ([tjll.net](http://blog.tjll.net/ssh-kung-fu/))
 
 ## GPG
 
