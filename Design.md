@@ -47,6 +47,7 @@
 * Your Handwriting Font ([myscriptfont](http://www.myscriptfont.com/))
 * Norwester ([jamiewilson](http://jamiewilson.io/norwester/))
 * Font Awesome ([fontawesome](http://fontawesome.io/?4))
+* Calendas Plus ([calendasplus.com](http://www.calendasplus.com/index.html))
 
 ## Typography
 
