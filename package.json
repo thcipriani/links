@@ -1,0 +1,7 @@
+{
+  "name": "linkblog",
+  "version": "0.0.1",
+  "dependencies": {
+    "less": "*"
+  }
+}
