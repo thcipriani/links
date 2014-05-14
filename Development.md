@@ -1,3 +1,6 @@
+---
+pagetitle: dev stuffs
+---
 #Development
 
 ## Articles

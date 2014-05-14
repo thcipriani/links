@@ -1,34 +1,31 @@
-REPO := $(shell git config --get remote.origin.url)
-GHPAGES := gh-pages
+REPO_ASSERT := $(shell git config --get remote.origin.url)
+REPO ?= $(REPO_ASSERT)
 
-LESSC := node_modules/less/bin/lessc
-LESSDIR := less
-LESSFILE := $(LESSDIR)/main.less
-CSSDIR := $(GHPAGES)/css
-CSSFILE := $(CSSDIR)/main.css
-INDEXFILE := $(GHPAGES)/index.html
+GHPAGES = gh-pages
 
-ICOFILE := favicon.ico
-FAVICON := $(GHPAGES)/$(ICOFILE)
+LESSC    = node_modules/less/bin/lessc
+LESSFILE = less/main.less
 
-all: init $(GHPAGES) $(CSSFILE) $(addprefix $(GHPAGES)/, $(addsuffix .html, $(basename $(wildcard *.md)))) $(INDEXFILE)
+CSSDIR  = $(GHPAGES)/css
+CSSFILE = $(CSSDIR)/main.css
 
-$(INDEXFILE): $(GHPAGES)/README.html
-	mv "$<" "$@"
+INDEXFILE = $(GHPAGES)/index.html
+
+all: init clean $(GHPAGES) $(CSSFILE) $(addprefix $(GHPAGES)/, $(addsuffix .html, $(basename $(wildcard *.md))))
 
 $(GHPAGES)/%.html: %.md
-	@# uncomment if not using YAML pagetitle
-	@# pandoc -s -V pagetitle:'$(notdir $(basename $@))' -c "css/main.css" -f markdown -t html5 -o "$@" "$<"
-	pandoc -s -c "css/main.css" -f markdown -t html5 -o "$@" "$<"
+	pandoc -s --template "_layout" -c "css/main.css" -f markdown -t html5 -o "$@" "$<"
 
 $(CSSFILE): $(CSSDIR) $(LESSFILE)
-	$(LESSC) "$(LESSFILE)" "$@"
+	$(LESSC) "$(LESSFILE)" "$(CSSFILE)"
 
 $(CSSDIR):
-	[ -d $(CSSDIR) ] || mkdir "$(CSSDIR)"
+	mkdir "$(CSSDIR)"
 
 $(GHPAGES):
-	[ -d $(GHPAGES) ] || git clone "$(REPO)" "$(GHPAGES)"
+	@echo $(REPO)
+	git clone "$(REPO)" "$(GHPAGES)"
+	@echo "Donezo"
 	(cd $(GHPAGES) && git checkout $(GHPAGES)) || (cd $(GHPAGES) && git checkout --orphan $(GHPAGES) && git rm -rf .)
 
 init:
@@ -36,13 +33,16 @@ init:
 	@[ -x $(LESSC) ] || npm install
 
 serve:
-	(cd gh-pages && python -m SimpleHTTPServer) || echo 'Have you run make yet?'
+	cd gh-pages && python -m SimpleHTTPServer
 
 clean:
 	rm -rf gh-pages
 
 commit:
-	(cd gh-pages && git add . && git commit --edit --message="Publish @$$(date)")
-	(cd gh-page && git push origin gh-pages)
+	cd $(GHPAGES) && \
+		git add . && \
+		git commit --edit --message="Publish @$$(date)"
+	cd $(GHPAGES) && \
+		git push origin $(GHPAGES)
 
-.PHONY: init gh-pages clean serve
+.PHONY: init gh-pages clean commit serve

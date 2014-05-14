@@ -1,8 +1,27 @@
 html {
-  font-family: sans-serif; /* 1 */
-  -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+  font-family: "Liberation Mono", Courier, monospace;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  line-height: 1.5em;
+  font-variant-ligatures: common-ligatures additionalligatures;
+
+  -webkit-font-feature-settings: "liga";
+     -moz-font-feature-settings: "liga=1, dlig=0";
+      -ms-font-feature-settings: "liga";
+       -o-font-feature-settings: "liga";
+          font-feature-settings: "liga";
+
+  -webkit-font-smoothing: antialiased;
 }
+
+::selection {
+    background: #c0f541;
+}
+
+::-moz-selection {
+    background: #c0f541;
+}
+
 body {
   margin: 0;
 }
@@ -63,8 +82,26 @@ dfn {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 7em;
   margin: 0.67em 0;
+}
+
+h2 {
+  font-size: 5em;
+  text-align: center;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 0.25em;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 800;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  line-height: 1em;
+  letter-spacing: -0.1em;
 }
 
 mark {
@@ -212,4 +249,17 @@ table {
 td,
 th {
   padding: 0;
+}
+
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 98%;
+  max-width: 700px;
+  _width: 700px;
+  margin: 0 auto;
 }

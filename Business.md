@@ -1,5 +1,5 @@
 ---
-pagetitle: workiness
+pagetitle: Bidness
 ---
 #Work/Business
 

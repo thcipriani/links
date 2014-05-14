@@ -1,3 +1,6 @@
+---
+pagetitle: Design Links
+---
 # Design Links
 
 ## Inspirations

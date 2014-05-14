@@ -1,3 +1,6 @@
+---
+pagetitle: Fun Zone
+---
 #Fun.
 
 ## Bash/Terminal
