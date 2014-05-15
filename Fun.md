@@ -89,6 +89,7 @@ pagetitle: Fun Zone
 ## Stuff
 
 * Blink USB light indicator ([thingm](http://thingm.com/products/blink-1.html))
+* Printable gift tags ([bloodstre.am](http://bloodstre.am/studio/printable-holiday-gift-tags/))
 
 ## Coffee
 
@@ -99,6 +100,7 @@ pagetitle: Fun Zone
 
 ## Random
 
+* Private traits and attributes predictable from digital records ([pnas.org](http://www.pnas.org/content/110/15/5802.full))
 * AOLServer ([aolserver.com](http://www.aolserver.com/))
 * Git query language ([github](https://github.com/cloudson/gitql))
 * Visual Cryptography ([datagenetics](http://datagenetics.com/blog/november32013/index.html))

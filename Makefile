@@ -10,6 +10,7 @@ CSSDIR  = $(GHPAGES)/css
 CSSFILE = $(CSSDIR)/main.css
 
 INDEXFILE = $(GHPAGES)/index.html
+CHANGED := $(shell git status --porcelain | cut -d' ' -f3)
 
 all: init clean $(GHPAGES) $(CSSFILE) $(addprefix $(GHPAGES)/, $(addsuffix .html, $(basename $(wildcard *.md))))
 
@@ -23,10 +24,9 @@ $(CSSDIR):
 	mkdir "$(CSSDIR)"
 
 $(GHPAGES):
-	@echo $(REPO)
 	git clone "$(REPO)" "$(GHPAGES)"
-	@echo "Donezo"
 	(cd $(GHPAGES) && git checkout $(GHPAGES)) || (cd $(GHPAGES) && git checkout --orphan $(GHPAGES) && git rm -rf .)
+	@touch $(CHANGED)
 
 init:
 	@command -v pandoc > /dev/null 2>&1 || (echo 'pandoc not found http://johnmacfarlane.net/pandoc/installing.html' && exit 1)
