@@ -1,9 +1,11 @@
 ---
 pagetitle: dev stuffs
 ---
-#Development
+Development
+===
 
-## Articles
+Articles
+---
 
 * Best practices for RESTful services ([vinaysahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api))
 * Testing code is simple ([th3james.github](http://th3james.github.io/blog/2013/09/25/testing-code-is-simple/))
@@ -24,7 +26,8 @@ pagetitle: dev stuffs
 * Papers We Love ([github.com](https://github.com/papers-we-love/papers-we-love))
 * Semantic Versioning 2.0.0 ([semver.org](http://semver.org/))
 
-## Books
+Books
+---
 
 * Unix and linux System Administration Handbook ([admin.com](http://admin.com/))
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
@@ -35,9 +38,8 @@ pagetitle: dev stuffs
 * Book Pr0n ([i.imgur](http://i.imgur.com/1mQOZg9.jpg))
 * Learn X in Y Minutes ([github](https://github.com/adambard/learnxinyminutes-docs))
 
-* * *
-
-## Tools
+Tools
+---
 
 * About My Browser ([aboutmybrowser](https://aboutmybrowser.com/))
 * Codekit steroids for web developers ([incident57](http://incident57.com/codekit/))
@@ -58,26 +60,26 @@ pagetitle: dev stuffs
 * nfu - Numeric Fu for your Shell ([github](https://github.com/spencertipping/nfu)
 * XIP.IO Wildcard DNS for everyone ([xip.io](http://xip.io/))
 
-Build Tools
----
+### Build Tools
+
 * The Ultimate Frontend Build Tool: make ([rdio.com](https://algorithms.rdio.com/post/make/))
 * Build Tools–Make, no more ([hadihariri.com](http://hadihariri.com/2014/04/21/build-make-no-more/))
 * Grunt pre-commit hooks ([viget](http://viget.com/extend/grunt-getting-started-with-git-hooks))
 * Gulp is the new black ([shaundunne.com](http://www.shaundunne.com/gulp-is-the-new-black/))
 
-## Hardware
+### Hardware
 
 * Petabytes on a budget: how to build cheap cloud storage ([backblaze](http://blog.backblaze.com/2009/09/01/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/))
 * How long do disk drives last? ([backblaze](http://blog.backblaze.com/2013/11/12/how-long-do-disk-drives-last/))
 * Kano $99 Rasberry Pi Computer ([kano.me](http://www.kano.me/))
 
-## IRC
+### IRC
 
 * Beautify your WeeChat ([dev.weechat](http://dev.weechat.org/post/2011/08/28/Beautify-your-WeeChat))
 * IRC Tutorial ([irchelp](http://www.irchelp.org/irchelp/irctutorial.html))
 * IRC Stuffs ([pascalpoitras](http://pascalpoitras.com/category/irc))
 
-## Vim
+### Vim
 
 * Vim Logo Font ([myfonts](http://www.myfonts.com/fonts/linotype/crillee/))
 * Vimcasts ([vimcasts.org](http://vimcasts.org/episodes/archive))
@@ -102,7 +104,7 @@ Build Tools
 * Ack.vim ([github](https://github.com/mileszs/ack.vim))
 * Making Vim status lines that own (scrooloose)([got-ravings.blogspot.co.uk](http://got-ravings.blogspot.co.uk/2008/08/vim-pr0n-making-statuslines-that-own.html))
 
-## Sublime Text
+### Sublime Text
 
 * Vintagous ([guillermooo.bitbucket](http://guillermooo.bitbucket.org/Vintageous/))
 * Upgrading to Sublime Text 3 ([harrywolff.com](http://harrywolff.com/upgrading-to-sublime-text-3/))
@@ -132,9 +134,8 @@ Build Tools
 * Personalized Bulk Email using Google ([github.com](https://github.com/danielsz/mmailer))
 * Responsive HTML Emails ([github/zurb](https://github.com/zurb/ink))
 
-* * *
-
-##Programming
+Programming
+---
 
 ### PHP
 
@@ -161,13 +162,13 @@ Build Tools
 * PHP-FPM and Sysctl ([rtcamp](https://rtcamp.com/tutorials/php/fpm-sysctl-tweaking/))
 * Restful api from php ([coreymaynard.com](http://coreymaynard.com/blog/creating-a-restful-api-with-php/))
 * ReactPHP as a server ([marcjschmidt](http://marcjschmidt.de/blog/2014/02/08/php-high-performance.html))
-
-#### Laravel
-* Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
-* Code Happy ([codehappy.daylerees](http://codehappy.daylerees.com/))
-* Laravel Migrations ([phpmaster.com](http://phpmaster.com/laravel-migrations/))
+* **Laravel**
+  * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
+  * Code Happy ([codehappy.daylerees](http://codehappy.daylerees.com/))
+  * Laravel Migrations ([phpmaster.com](http://phpmaster.com/laravel-migrations/))
 
 ### Python
+
 * GMail for Python ([github.com](https://github.com/charlierguo/gmail))
 * Learning Python in one weekend ([stackoverflow](http://stackoverflow.com/questions/2682561/learning-python-in-one-weekend))
 * Python for sysadmin ([pythonforbeginners](http://www.pythonforbeginners.com/systems-programming/python-system-administration/))
@@ -176,6 +177,7 @@ Build Tools
 * Python for Bash Scripters ([redhat.com](http://magazine.redhat.com/2008/02/07/python-for-bash-scripters-a-well-kept-secret/))
 
 ### HTML5/CSS3
+
 * Fun with the HTML <image> tag ([jakearchibald.com](http://jakearchibald.com/2013/having-fun-with-image/))
 * Client-side Storage Options ([tech.pro](http://tech.pro/blog/1486/client-side-storage-options))
 * Front-end Performance Crash Course ([youtube](https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY#grigorik))
@@ -192,6 +194,7 @@ Build Tools
 
 ### Javascript
 
+* Removing UI Complexity ([jlongster.com](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome))
 * Analyzing network characteristics in the DOM ([smashingmagazine](http://coding.smashingmagazine.com/2011/11/14/analyzing-network-characteristics-using-javascript-and-the-dom-part-1/))
 * Determine if a string contains another string ([designpepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches))
 * iOS supported JS Events ([developer.apple](http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5))
@@ -214,7 +217,7 @@ Build Tools
 * Frameworkless Javascript ([moot.it](https://moot.it/blog/technology/frameworkless-javascript.html))
 * You might not need jQuery ([youmightnotneedjquery.com](http://youmightnotneedjquery.com/))
 
-#### Node
+### Node
 
 * Raspberry Pi, Arduino Home automation ([ni-c.github](http://ni-c.github.io/heimcontrol.js/))
 * Absolute Beginners Guide to Node.js ([blog.modulus](http://blog.modulus.io/absolute-beginners-guide-to-nodejs))
@@ -240,7 +243,8 @@ Build Tools
 * LibSass ([github](https://github.com/hcatlin/libsass))
 * CSS Application Architecture Video ([vimeo](http://vimeo.com/74359951))
 
-###Ruby
+### Ruby
+
 * Turn a Rails app into a Debian Package in Minutes ([discuss.gemnasium](https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59))
 * Distributing command line applications—from ruby to go ([codegangsta.io](http://codegangsta.io/blog/2013/07/21/creating-cli-applications-in-go))
 * Localtunnel—share your localhost ([progrium.com](http://progrium.com/localtunnel/))
@@ -304,9 +308,8 @@ Build Tools
 * Deb Multimedia Repo ([deb-multimedia](http://www.deb-multimedia.org/))
 * Experimental Music Player ([wothke](http://www.wothke.ch/experimental/TinyJsSid.html))
 
-* * *
-
-##Sysadmin
+Sysadmin
+---
 
 * Heirarchy of DevOps Needs ([kickstarter.com](https://www.kickstarter.com/backing-and-hacking/hierarchy-of-devops-needs))
 * My First 5 Minutes on a Server ([plusbryan](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers#))
@@ -327,7 +330,7 @@ Build Tools
 * Vagrant &amp; Puppet dev environments ([kloudless](http://blog.kloudless.com/2013/07/01/automating-development-environments-with-vagrant-and-puppet/))
 * Protobox, uild and share virtual machines ([protobox](http://getprotobox.com/))
 
-###Puppet
+### Puppet
 * Introduction to Puppet ([davidwinter](http://davidwinter.me/articles/2012/03/04/introduction-to-puppet/))
 * GUI to create PHP/Puppet VMs ([puphet](https://puphpet.com/))
 * Puppet 3 Beginners Guide ([tutsplus](https://tutsplus.com/ebook/puppet-3-beginners-guide/))
@@ -343,6 +346,7 @@ Build Tools
 * Chef at PagerDuty ([pagerduty](http://blog.pagerduty.com/2013/11/chef-at-pagerduty/))
 * Berkshelf ([berkshelf](http://berkshelf.com/))
 * ChefSpec ([sethvargo.com](http://code.sethvargo.com/chefspec/))
+* The Environment Cookbook Patters ([vialstudios.com](http://blog.vialstudios.com/the-environment-cookbook-pattern/))
 
 ### Ansible
 
@@ -360,7 +364,7 @@ Build Tools
 * Dokku - Docker-powered mini heroku in 100 lines of Bash ([github](https://github.com/progrium/dokku))
 * Decentralizing Docker ([blog.ctl-c.io](http://blog.ctl-c.io/?p=43))
 
-###Apache
+### Apache
 
 * 403 Errors in Mac OSX 10.8.4 ([stackoverflow.com](http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden))
 
@@ -408,27 +412,7 @@ Build Tools
 * Terminal colours made simple ([linuxwell.com](http://linuxwell.com/2014/03/30/tco/))
 * SSH Kung-Fu ([tjll.net](http://blog.tjll.net/ssh-kung-fu/))
 
-## GPG
-
-* Getting started with GnuPG ([madboa](http://www.madboa.com/geek/gpg-quickstart/))
-* GPG on Ubuntu 12.04 ([digitalocean](https://www.digitalocean.com/community/articles/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps))
-* Where to store gpg key ([stackexchage](http://security.stackexchange.com/questions/51771/where-do-you-store-your-personal-private-gpg-key))
-* paperback ([github](http://ollydbg.de/Paperbak/))
-
-### RHCSA/RHCE
-
-* Oracle Base articles ([oracle-base](http://www.oracle-base.com/articles/linux/articles-linux.php#rhcsa_and_rhce))
-* RHCSA Cheatsheet ([controlprotocol](http://controlprotocol.blogspot.be/2012/05/rhcsa-cheat-sheet.html#more))
-
-## Apple Mac OSX
-
-* Mountain Lion Server Tutorials ([mountainlionserver](http://www.mountainlionserver.com/))
-* Homebrew Cask ([github](https://github.com/phinze/homebrew-cask))
-* Slate WM ([github](https://github.com/jigish/slate))
-* Steve Losh's .slate ([bitbucket](https://bitbucket.org/sjl/dotfiles/src/2de1f78616fd1ecafa0b93fab9f03708d9dee39f/slate?at=default))
-* Power users tool list ([carpeaqua](http://carpeaqua.com/2013/10/27/my-ultimate-developer-and-power-users-tool-list-for-os-x-2013-edition-/))
-
-## Desktop Linux
+### Desktop Linux
 
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
 * OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling))
@@ -439,14 +423,37 @@ Build Tools
 * Unstable (where the good stuff is) ([debian.org](https://wiki.debian.org/AptPreferences#A.2Fetc.2Fapt.2Fsources.list))
 * Setup repository with Reprepro ([debian.org](https://wiki.debian.org/SettingUpSignedAptRepositoryWithReprepro))
 
-## MySQL
+### RHCSA/RHCE
+
+* Oracle Base articles ([oracle-base](http://www.oracle-base.com/articles/linux/articles-linux.php#rhcsa_and_rhce))
+* RHCSA Cheatsheet ([controlprotocol](http://controlprotocol.blogspot.be/2012/05/rhcsa-cheat-sheet.html#more))
+
+### GPG
+
+* Getting started with GnuPG ([madboa](http://www.madboa.com/geek/gpg-quickstart/))
+* GPG on Ubuntu 12.04 ([digitalocean](https://www.digitalocean.com/community/articles/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps))
+* Where to store gpg key ([stackexchage](http://security.stackexchange.com/questions/51771/where-do-you-store-your-personal-private-gpg-key))
+* paperback ([github](http://ollydbg.de/Paperbak/))
+
+## Apple Mac OSX
+
+* Mountain Lion Server Tutorials ([mountainlionserver](http://www.mountainlionserver.com/))
+* Homebrew Cask ([github](https://github.com/phinze/homebrew-cask))
+* Slate WM ([github](https://github.com/jigish/slate))
+* Steve Losh's .slate ([bitbucket](https://bitbucket.org/sjl/dotfiles/src/2de1f78616fd1ecafa0b93fab9f03708d9dee39f/slate?at=default))
+* Power users tool list ([carpeaqua](http://carpeaqua.com/2013/10/27/my-ultimate-developer-and-power-users-tool-list-for-os-x-2013-edition-/))
+
+Databases
+---
+
+### MySQL
 
 * 10 Steps to a complete understanding of SQL ([tech.pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql))
 * Setup Replication Without the Downtime ([plusbryan.com](http://plusbryan.com/mysql-replication-without-downtime))
 * Storing Heirarchical Data in a database ([sitepoint](http://www.sitepoint.com/hierarchical-data-database/))
 * Everything you wanted to know about SQL injection ([troyhunt](www.troyhunt.com/2013/07/evertything-you-wanted-to-know-about-sql.html))
 
-## PosgreSQL
+### PosgreSQL
 
 * PosgreSQL basics by example ([darthdeus](http://darthdeus.github.io/blog/2013/08/19/postgresql-basics-by-example/))
 * Posgres Dev Box ([pgdevbox](http://www.pgdevbox.com/))
@@ -457,7 +464,7 @@ Build Tools
 * Modifying Tables - Add/Drop Constraints Etc ([postgresql.org](http://www.postgresql.org/docs/9.3/static/ddl-alter.html))
 * Extended display with pager FINALLY! ([lopsa.org](https://lopsa.org/content/postgres-tip-fix-column-smearing-and-stop-squinting-psql-extended-display))
 
-## MongoDB
+### MongoDB
 
 * Install MongoDB on Ubuntu ([docs.mongodb.org](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/))
 * Getting Started Mongo ([nettuts](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb/))
@@ -471,8 +478,6 @@ Build Tools
 * GNU RCS ([gnu.org](http://www.gnu.org/software/rcs/))
 * TCL Tutorial ([tcl](http://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html))
 * Mod TCL ([apache.org](http://tcl.apache.org/mod_tcl/))
-
-* * *
 
 ## Snippets
 
