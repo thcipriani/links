@@ -296,11 +296,6 @@ Programming
 * Learn how to program perl ([lernhowtoprogramperl.info](http://learnhowtoprogramperl.info/))
 * Renaming Nikon RAW images with perl ([martin-evans.me.uk](http://www.martin-evans.me.uk/node/168))
 
-### AppleScript
-
-* Doug's AppleScripts for iTunes ([dougscripts](http://dougscripts.com/itunes/))
-* How to clean Apple products ([apple.com](http://support.apple.com/kb/ht3226))
-
 ### Music/Audio
 * M4A to MP3 ([conjurecode.com](http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/))
 * Node Icecast Stack ([npmjs.org](https://npmjs.org/package/icecast-stack))
@@ -363,10 +358,6 @@ Sysadmin
 * Interactive Docker Tutorial ([blog.docker](http://blog.docker.io/2013/08/introducing-an-interactive-docker-tutorial/))
 * Dokku - Docker-powered mini heroku in 100 lines of Bash ([github](https://github.com/progrium/dokku))
 * Decentralizing Docker ([blog.ctl-c.io](http://blog.ctl-c.io/?p=43))
-
-### Apache
-
-* 403 Errors in Mac OSX 10.8.4 ([stackoverflow.com](http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden))
 
 ## Linux
 
@@ -437,11 +428,19 @@ Sysadmin
 
 ## Apple Mac OSX
 
+* How to clean Apple products ([apple.com](http://support.apple.com/kb/ht3226))
 * Mountain Lion Server Tutorials ([mountainlionserver](http://www.mountainlionserver.com/))
 * Homebrew Cask ([github](https://github.com/phinze/homebrew-cask))
 * Slate WM ([github](https://github.com/jigish/slate))
 * Steve Losh's .slate ([bitbucket](https://bitbucket.org/sjl/dotfiles/src/2de1f78616fd1ecafa0b93fab9f03708d9dee39f/slate?at=default))
 * Power users tool list ([carpeaqua](http://carpeaqua.com/2013/10/27/my-ultimate-developer-and-power-users-tool-list-for-os-x-2013-edition-/))
+* Doug's AppleScripts for iTunes ([dougscripts](http://dougscripts.com/itunes/))
+* 403 Errors in Mac OSX 10.8.4 ([stackoverflow.com](http://stackoverflow.com/questions/5737048/allowoverride-for-htaccess-on-local-machine-giving-403-forbidden))
+
+## Windows
+
+* Useful command-line commands ([serverfault.com](http://serverfault.com/questions/3780/useful-command-line-commands-on-windows/))
+* Scott Hanselman's Power Users Tool List ([http://www.hanselman.com/tools](http://www.hanselman.com/tools))
 
 Databases
 ---
