@@ -402,6 +402,7 @@ Sysadmin
 * Safely generate random numbers ([sockpuppet.org](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/))
 * Terminal colours made simple ([linuxwell.com](http://linuxwell.com/2014/03/30/tco/))
 * SSH Kung-Fu ([tjll.net](http://blog.tjll.net/ssh-kung-fu/))
+* The Black Magic of SSH ([vimeo.com](http://vimeo.com/54505525))
 
 ### Desktop Linux
 
