@@ -216,6 +216,7 @@ Programming
 * JQuery to Backbone ([github.com](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md))
 * Frameworkless Javascript ([moot.it](https://moot.it/blog/technology/frameworkless-javascript.html))
 * You might not need jQuery ([youmightnotneedjquery.com](http://youmightnotneedjquery.com/))
+* Semicolons ([mislav.uniqpath.com](http://mislav.uniqpath.com/2010/05/semicolons/))
 
 ### Node
 
@@ -446,9 +447,12 @@ Sysadmin
 Databases
 ---
 
+### SQL
+* 10 Steps to a complete understanding of SQL ([tech.pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql))
+* Why is upsert complicated? ([depesz.com](http://www.depesz.com/2012/06/10/why-is-upsert-so-complicated/))
+
 ### MySQL
 
-* 10 Steps to a complete understanding of SQL ([tech.pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql))
 * Setup Replication Without the Downtime ([plusbryan.com](http://plusbryan.com/mysql-replication-without-downtime))
 * Storing Heirarchical Data in a database ([sitepoint](http://www.sitepoint.com/hierarchical-data-database/))
 * Everything you wanted to know about SQL injection ([troyhunt](www.troyhunt.com/2013/07/evertything-you-wanted-to-know-about-sql.html))
