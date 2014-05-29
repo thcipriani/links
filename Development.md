@@ -191,6 +191,7 @@ Programming
 * Triangles in CSS ([jonrohan](http://jonrohan.me/guide/css/creating-triangles-in-css/))
 * Grid Style Sheets ([gridstylesheets](http://gridstylesheets.org/))
 * Math Elements ([github.io](http://charbelrami.github.io/math-elements/#about))
+* Single Responsibility Principal for CSS ([drewbarontini.com](http://drewbarontini.com/articles/single-responsibility/))
 
 ### Javascript
 
@@ -359,6 +360,8 @@ Sysadmin
 * Interactive Docker Tutorial ([blog.docker](http://blog.docker.io/2013/08/introducing-an-interactive-docker-tutorial/))
 * Dokku - Docker-powered mini heroku in 100 lines of Bash ([github](https://github.com/progrium/dokku))
 * Decentralizing Docker ([blog.ctl-c.io](http://blog.ctl-c.io/?p=43))
+* Integrating Docker, Jenkins CI and Rails ([powpark.com](http://www.powpark.com/blog/programming/2014/01/29/integrating-docker-with-jenkins-for-ruby-on-rails-app))
+* Deploy Redis-backed webapps with Docker ([tutsplus.com](http://code.tutsplus.com/tutorials/easily-deploy-redis-backed-web-apps-with-docker--cms-20405))
 
 ## Linux
 

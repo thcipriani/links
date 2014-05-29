@@ -100,6 +100,7 @@ pagetitle: Fun Zone
 
 ## Random
 
+* You're probably using the wrong dictionary ([jsomers.net](http://jsomers.net/blog/dictionary))
 * Private traits and attributes predictable from digital records ([pnas.org](http://www.pnas.org/content/110/15/5802.full))
 * AOLServer ([aolserver.com](http://www.aolserver.com/))
 * Git query language ([github](https://github.com/cloudson/gitql))
