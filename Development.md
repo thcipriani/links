@@ -195,6 +195,7 @@ Programming
 
 ### Javascript
 
+* Stanford Javascript Crypto Library ([bitwiseshiftleft.github.io](https://bitwiseshiftleft.github.io/sjcl/))
 * Removing UI Complexity ([jlongster.com](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome))
 * Analyzing network characteristics in the DOM ([smashingmagazine](http://coding.smashingmagazine.com/2011/11/14/analyzing-network-characteristics-using-javascript-and-the-dom-part-1/))
 * Determine if a string contains another string ([designpepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches))
@@ -470,6 +471,8 @@ Databases
 * Efficient Use of PostgreSQL Indexes ([heroku](https://devcenter.heroku.com/articles/postgresql-indexes))
 * Modifying Tables - Add/Drop Constraints Etc ([postgresql.org](http://www.postgresql.org/docs/9.3/static/ddl-alter.html))
 * Extended display with pager FINALLY! ([lopsa.org](https://lopsa.org/content/postgres-tip-fix-column-smearing-and-stop-squinting-psql-extended-display))
+* Better Id generator for PostgreSQL ([wekeroad.com](http://www.wekeroad.com/2014/05/29/a-better-id-generator-for-postgresql/))
+* Foreign Keys are not free ([bonesmoses.org](http://bonesmoses.org/2014/05/14/foreign-keys-are-not-free/))
 
 ### MongoDB
 
