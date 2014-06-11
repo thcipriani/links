@@ -25,6 +25,9 @@ Articles
 * Devops in Straight English ([redhat.com](http://developerblog.redhat.com/2014/01/29/devops-straight-english-2-of-2/))
 * Papers We Love ([github.com](https://github.com/papers-we-love/papers-we-love))
 * Semantic Versioning 2.0.0 ([semver.org](http://semver.org/))
+* Obama Campaign Fundraising Platform (i.e., jekyll and s3) ([kylerush.net](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/))
+* Datacenter as a Computer ([cs.berkley.edu](http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf))
+* The Borg and Mesos ([theverge.com](http://www.theverge.com/2013/3/6/4070500/inside-twitter-mesos-and-google-borg-data-center-tools))
 
 Books
 ---
@@ -162,6 +165,7 @@ Programming
 * PHP-FPM and Sysctl ([rtcamp](https://rtcamp.com/tutorials/php/fpm-sysctl-tweaking/))
 * Restful api from php ([coreymaynard.com](http://coreymaynard.com/blog/creating-a-restful-api-with-php/))
 * ReactPHP as a server ([marcjschmidt](http://marcjschmidt.de/blog/2014/02/08/php-high-performance.html))
+* Building a small microframework in PHP ([gonzalo123.com](http://gonzalo123.com/2011/08/22/building-a-small-microframework-with-php/))
 * **Laravel**
   * Multiple Databases ([forums.laravel](http://forums.laravel.io/viewtopic.php?id=923))
   * Code Happy ([codehappy.daylerees](http://codehappy.daylerees.com/))
@@ -192,6 +196,7 @@ Programming
 * Grid Style Sheets ([gridstylesheets](http://gridstylesheets.org/))
 * Math Elements ([github.io](http://charbelrami.github.io/math-elements/#about))
 * Single Responsibility Principal for CSS ([drewbarontini.com](http://drewbarontini.com/articles/single-responsibility/))
+* CSS is not an angular measurement and it is not linear ([omnicognate.wordpress.com](http://omnicognate.wordpress.com/2013/01/07/in-css-px-is-not-an-angular-measurement-and-it-is-not-non-linear/))
 
 ### Javascript
 
@@ -299,6 +304,10 @@ Programming
 * Learn how to program perl ([lernhowtoprogramperl.info](http://learnhowtoprogramperl.info/))
 * Renaming Nikon RAW images with perl ([martin-evans.me.uk](http://www.martin-evans.me.uk/node/168))
 
+### Haskell
+
+  * The JavaScript Problem ([haskell.org](http://www.haskell.org/haskellwiki/The_JavaScript_Problem))
+
 ### Music/Audio
 * M4A to MP3 ([conjurecode.com](http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/))
 * Node Icecast Stack ([npmjs.org](https://npmjs.org/package/icecast-stack))
@@ -320,6 +329,7 @@ Sysadmin
 * Taste Test Asible, Puppet, Chef ([gumroad](https://gumroad.com/l/taste-test/rubyweekly))
 * Sysadmin Version control with RCS ([wisc.edu](http://net.doit.wisc.edu/~plonka/sysadmin/article.html))
 * Staying on top of TLS Attacks ([blogs.cloudflare.com](http://blog.cloudflare.com/staying-on-top-of-tls-attacks))
+* LAMP stack on Debian ([yesdevnull](http://yesdevnull.net/2014/01/setting-up-a-lamp-stack-on-debian-my-way/))
 
 
 ### Vagrant
@@ -351,6 +361,7 @@ Sysadmin
 * Ansible vs Shell scripts ([devopsu](http://devopsu.com/blog/ansible-vs-shell-scripts/))
 * On Ansible ([benscofield](http://benscofield.com/on-ansible/))
 * Sovereign - Ansible scripts for personal private cloud ([github](https://github.com/al3x/sovereign))
+* First 5½ minutes on a server with ansible ([lattejed.com](http://lattejed.com/first-five-and-a-half-minutes-on-a-server-with-ansible))
 
 ### Docker
 
@@ -408,6 +419,7 @@ Sysadmin
 * Terminal colours made simple ([linuxwell.com](http://linuxwell.com/2014/03/30/tco/))
 * SSH Kung-Fu ([tjll.net](http://blog.tjll.net/ssh-kung-fu/))
 * The Black Magic of SSH ([vimeo.com](http://vimeo.com/54505525))
+* ImageMagick to make sharp web-sized photographs ([even.li](https://even.li/imagemagick-sharp-web-sized-photographs/))
 
 ### Desktop Linux
 

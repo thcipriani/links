@@ -31,6 +31,7 @@ pagetitle: Design Links
 * UX Readlist ([readlists.com](http://readlists.com/user/Dangerwells/))
 * Use Imagemagick to make sharp, web-sized photos ([even.li](https://even.li/imagemagick-sharp-web-sized-photographs/))
 * Where designers go to find photos and graphics ([sitebuilderreport.com](http://www.sitebuilderreport.com/blog/where-the-best-designers-go-to-find-photos-and-graphics))
+* Logo, Bullshit & Co., Inc ([ia.net](http://ia.net/blog/logo-bullshit-co-inc/))
 
 ## Videos
 
@@ -65,6 +66,7 @@ pagetitle: Design Links
 * Typography safe list ([papress](http://www.papress.com/other/thinkingwithtype/letter/few_fonts.htm))
 * Compose a vertical rhythm ([24ways](http://24ways.org/2006/compose-to-a-vertical-rhythm/))
 * I Love Ligatures ([iloveligatures.tumblr.com](http://iloveligatures.tumblr.com/))
+* Flowtype.js ([simplefocus.com](http://simplefocus.com/flowtype/))
 
 ## Lettering
 
