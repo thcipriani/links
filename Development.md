@@ -432,6 +432,12 @@ Sysadmin
 * Unstable (where the good stuff is) ([debian.org](https://wiki.debian.org/AptPreferences#A.2Fetc.2Fapt.2Fsources.list))
 * Setup repository with Reprepro ([debian.org](https://wiki.debian.org/SettingUpSignedAptRepositoryWithReprepro))
 
+### Arch
+
+* Wireless network configuration ([wiki.archlinux.org](https://wiki.archlinux.org/index.php/Wireless_network_configuration))
+* WPA2, EAP-MSCHAP v2 wpa_supplicant ([linuxquestion.org](http://www.linuxquestions.org/questions/linux-wireless-networking-41/wpa2-eap-mschap-v2-credentials-and-trusted-root-certification-authority-532211/))
+* Tablet PC ([wiki.archlinux.org](https://wiki.archlinux.org/index.php/Tablet_PC))
+
 ### RHCSA/RHCE
 
 * Oracle Base articles ([oracle-base](http://www.oracle-base.com/articles/linux/articles-linux.php#rhcsa_and_rhce))
