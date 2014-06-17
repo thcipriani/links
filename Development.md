@@ -303,6 +303,7 @@ Programming
 * Perl CGI Course ([ovid-cgi-course](http://ovid-cgi-course.perl-begin.org/cgi-course/lesson_1.html))
 * Learn how to program perl ([lernhowtoprogramperl.info](http://learnhowtoprogramperl.info/))
 * Renaming Nikon RAW images with perl ([martin-evans.me.uk](http://www.martin-evans.me.uk/node/168))
+* Why perl didn't win ([outspeaking.com](http://outspeaking.com/words-of-technology/why-perl-didnt-win.html))
 
 ### Haskell
 
