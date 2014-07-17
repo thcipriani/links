@@ -28,6 +28,8 @@ Articles
 * Obama Campaign Fundraising Platform (i.e., jekyll and s3) ([kylerush.net](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/))
 * Datacenter as a Computer ([cs.berkley.edu](http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf))
 * The Borg and Mesos ([theverge.com](http://www.theverge.com/2013/3/6/4070500/inside-twitter-mesos-and-google-borg-data-center-tools))
+* Visualizing Algorithms ([http://bost.ocks.org](http://bost.ocks.org/mike/algorithms/))
+* Personal Names Around the World ([w3.org](http://www.w3.org/International/questions/qa-personal-names.en.php))
 
 Books
 ---
@@ -106,6 +108,7 @@ Tools
 * Multiple Cursors ([github](https://github.com/terryma/vim-multiple-cursors))
 * Ack.vim ([github](https://github.com/mileszs/ack.vim))
 * Making Vim status lines that own (scrooloose)([got-ravings.blogspot.co.uk](http://got-ravings.blogspot.co.uk/2008/08/vim-pr0n-making-statuslines-that-own.html))
+* Vim Awesome ([vimawesome.com](http://vimawesome.com/))
 
 ### Sublime Text
 
@@ -331,6 +334,8 @@ Sysadmin
 * Sysadmin Version control with RCS ([wisc.edu](http://net.doit.wisc.edu/~plonka/sysadmin/article.html))
 * Staying on top of TLS Attacks ([blogs.cloudflare.com](http://blog.cloudflare.com/staying-on-top-of-tls-attacks))
 * LAMP stack on Debian ([yesdevnull](http://yesdevnull.net/2014/01/setting-up-a-lamp-stack-on-debian-my-way/))
+* Immutable Infrastructure Practical or Not ([getchef.com](http://www.getchef.com/blog/2014/06/23/immutable-infrastructure-practical-or-not/))
+* Go for systems adminstrators ([blog.lusis.org](http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/))
 
 
 ### Vagrant
@@ -421,12 +426,14 @@ Sysadmin
 * SSH Kung-Fu ([tjll.net](http://blog.tjll.net/ssh-kung-fu/))
 * The Black Magic of SSH ([vimeo.com](http://vimeo.com/54505525))
 * ImageMagick to make sharp web-sized photographs ([even.li](https://even.li/imagemagick-sharp-web-sized-photographs/))
+* `rm -rf /` remains ([lambdaops.com](http://lambdaops.com/rm-rf-remains))
 
 ### Desktop Linux
 
 * Elementary OS Ultrabook ([rileybrandt](http://www.rileybrandt.com/2013/07/23/elementary-ultrabook/))
 * OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling))
 * Photoshop in Ubuntu ([prtfl.io](http://www.prtfl.io/muellerwolfram/blog/2013/1/23/how-to-use-photoshop-in-ubuntu))
+* MSU - Monitor Setup Utility ([github.com/pbrisbin](https://github.com/pbrisbin/msu))
 
 ### Debian
 
