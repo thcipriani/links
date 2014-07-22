@@ -427,6 +427,7 @@ Sysadmin
 * The Black Magic of SSH ([vimeo.com](http://vimeo.com/54505525))
 * ImageMagick to make sharp web-sized photographs ([even.li](https://even.li/imagemagick-sharp-web-sized-photographs/))
 * `rm -rf /` remains ([lambdaops.com](http://lambdaops.com/rm-rf-remains))
+* Linux Performance ([brendangregg.com](http://brendangregg.com/linuxperf.html))
 
 ### Desktop Linux
 
