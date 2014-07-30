@@ -390,7 +390,7 @@ Sysadmin
 * Gentoo Shell Guide ([devmanual](http://devmanual.gentoo.org/tools-reference/bash/))
 * Mewbies Tutorials ([mewbies](http://www.mewbies.com/))
 * Kernel coding style guide ([kernel.org](https://www.kernel.org/doc/Documentation/CodingStyle))
-* Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2014/07/15/unix-commands-for-data-science/))
+* Useful Unix for Data Science ([gregreda](http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/))
 * Seven Unix for Data Science ([jeroenjanssens](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html))
 * Diplay images with tput and terminal ([gist.github](https://gist.github.com/heptal/6052573))
 * What is systemd? ([wiki.archlinux](https://wiki.archlinux.org/index.php/Systemd))
