@@ -428,6 +428,7 @@ Sysadmin
 * ImageMagick to make sharp web-sized photographs ([even.li](https://even.li/imagemagick-sharp-web-sized-photographs/))
 * `rm -rf /` remains ([lambdaops.com](http://lambdaops.com/rm-rf-remains))
 * Linux Performance ([brendangregg.com](http://brendangregg.com/linuxperf.html))
+* Unix wildcards gone wild ([defensecode.com](http://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt))
 
 ### Desktop Linux
 
