@@ -429,7 +429,7 @@ Sysadmin
 * `rm -rf /` remains ([lambdaops.com](http://lambdaops.com/rm-rf-remains))
 * Linux Performance ([brendangregg.com](http://brendangregg.com/linuxperf.html))
 * Unix wildcards gone wild ([defensecode.com](http://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt))
-* Dynamically setting colors in xterm ([rcr.io](http://rcr.io/words/dynamic-xterm-colors.html))
+* Dynamically setting colors in xterm (xterm party) ([rcr.io](http://rcr.io/words/dynamic-xterm-colors.html))
 
 ### Desktop Linux
 
