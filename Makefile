@@ -41,7 +41,7 @@ clean:
 commit:
 	cd $(GHPAGES) && \
 		git add . && \
-		git commit --edit --message="Publish @$$(date)"
+		git commit --message="Publish @$$(date)"
 	cd $(GHPAGES) && \
 		git push origin $(GHPAGES)
 
