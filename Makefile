@@ -10,7 +10,7 @@ CSSDIR  = $(GHPAGES)/css
 CSSFILE = $(CSSDIR)/main.css
 
 INDEXFILE = $(GHPAGES)/index.html
-CHANGED := $(shell git status --porcelain | cut -d' ' -f3)
+CHANGED := $(shell git status --porcelain | cut -c4- | grep .md)
 
 all: init clean $(GHPAGES) $(CSSFILE) $(addprefix $(GHPAGES)/, $(addsuffix .html, $(basename $(wildcard *.md))))
 

@@ -7,3 +7,10 @@ In an effort to _not_ have 100+ tabs open&hellip;
 * [Development](Development.html)
 * [Business](Business.html)
 * [Fun](Fun.html)
+
+Other Things:
+
+* [Read List](Readlist.md) - stuff I want to read
+* [Watch List](Readlist.md) - stuff I want to watch
+* [Wish List](Readlist.md) - stuff I want to buy
+
