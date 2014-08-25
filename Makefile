@@ -25,8 +25,8 @@ $(CSSDIR):
 
 $(GHPAGES):
 	git clone "$(REPO)" "$(GHPAGES)"
-	(cd $(GHPAGES) && git checkout $(GHPAGES)) || (cd $(GHPAGES) && git checkout --orphan $(GHPAGES) && git rm -rf .)
-	@touch $(CHANGED)
+	@(cd $(GHPAGES) && git checkout $(GHPAGES)) || (cd $(GHPAGES) && git checkout --orphan $(GHPAGES) && git rm -rf .)
+	touch $(CHANGED)
 
 init:
 	@command -v pandoc > /dev/null 2>&1 || (echo 'pandoc not found http://johnmacfarlane.net/pandoc/installing.html' && exit 1)
