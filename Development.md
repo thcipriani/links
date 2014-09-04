@@ -437,6 +437,7 @@ Sysadmin
 * OSX Emulator ([darling.dolezel](http://darling.dolezel.info/en/Darling))
 * Photoshop in Ubuntu ([prtfl.io](http://www.prtfl.io/muellerwolfram/blog/2013/1/23/how-to-use-photoshop-in-ubuntu))
 * MSU - Monitor Setup Utility ([github.com/pbrisbin](https://github.com/pbrisbin/msu))
+* Night Mode XOrg ([github.com](https://github.com/jimenezrick/rlog/blob/1520c3ee7d54ca543c67c35b1ec1674d66cc4061/posts/20140430/night-mode.md))
 
 ### Debian
 
