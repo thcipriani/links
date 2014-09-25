@@ -65,6 +65,11 @@ Tools
 * nfu - Numeric Fu for your Shell ([github](https://github.com/spencertipping/nfu)
 * XIP.IO Wildcard DNS for everyone ([xip.io](http://xip.io/))
 
+Cryptography
+---
+
+* Matasano Crypto Challenges ([cryptopals.com](http://cryptopals.com/))
+
 ### Build Tools
 
 * The Ultimate Frontend Build Tool: make ([rdio.com](https://algorithms.rdio.com/post/make/))
@@ -227,6 +232,7 @@ Programming
 * Frameworkless Javascript ([moot.it](https://moot.it/blog/technology/frameworkless-javascript.html))
 * You might not need jQuery ([youmightnotneedjquery.com](http://youmightnotneedjquery.com/))
 * Semicolons ([mislav.uniqpath.com](http://mislav.uniqpath.com/2010/05/semicolons/))
+* Deferred font style loading using localstorage ([gist.github.com](https://gist.github.com/hdragomir/8f00ce2581795fd7b1b7))
 
 ### Node
 
@@ -253,6 +259,8 @@ Programming
 * Detecting CSS Style Support ([ryanmorr](http://ryanmorr.com/detecting-css-style-support/))
 * LibSass ([github](https://github.com/hcatlin/libsass))
 * CSS Application Architecture Video ([vimeo](http://vimeo.com/74359951))
+* On Utility Classes ([davidtheclark.com](http://davidtheclark.com/on-utility-classes/))
+* Scalable CSS Reading List ([github.com](https://github.com/davidtheclark/scalable-css-reading-list));
 
 ### Ruby
 
@@ -361,6 +369,7 @@ Sysadmin
 * Berkshelf ([berkshelf](http://berkshelf.com/))
 * ChefSpec ([sethvargo.com](http://code.sethvargo.com/chefspec/))
 * The Environment Cookbook Patters ([vialstudios.com](http://blog.vialstudios.com/the-environment-cookbook-pattern/))
+* Chef for rails devs ([gotealaf.com](http://www.gotealeaf.com/blog/chef-basics-for-rails-developers))
 
 ### Ansible
 
