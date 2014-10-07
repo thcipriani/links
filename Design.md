@@ -77,6 +77,8 @@ pagetitle: Design Links
 ##UI/UX
 * Archy ([en.wikipedia](https://en.wikipedia.org/wiki/Archy))
 * Progress bar perceived duration ([chrisharrison](http://www.chrisharrison.net/projects/progressbars2/ProgressBarsHarrison.pdf))
+* Country selector autocomplete ([baymard.com](http://baymard.com/labs/country-selector))
+* Select2 jQuery textbox replacement ([github.io](https://ivaynberg.github.io/select2/))
 
 ## Photography
 * Old-New Stock Photos ([nos.twnsnd](http://nos.twnsnd.co/))
