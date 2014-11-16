@@ -46,6 +46,7 @@ Books
 Tools
 ---
 
+* US-AltGr-Intl Console Keymap ([max-klinger.org](http://max-klinger.org/projects/us-intl-keymap.php))
 * About My Browser ([aboutmybrowser](https://aboutmybrowser.com/))
 * Codekit steroids for web developers ([incident57](http://incident57.com/codekit/))
 * Manage SSH Like a Boss ([emre.github](http://emre.github.io/storm/))
@@ -205,6 +206,7 @@ Programming
 * Math Elements ([github.io](http://charbelrami.github.io/math-elements/#about))
 * Single Responsibility Principal for CSS ([drewbarontini.com](http://drewbarontini.com/articles/single-responsibility/))
 * CSS is not an angular measurement and it is not linear ([omnicognate.wordpress.com](http://omnicognate.wordpress.com/2013/01/07/in-css-px-is-not-an-angular-measurement-and-it-is-not-non-linear/))
+* CSS3 FadeIn on Load ([graphicfusiondesign.com](https://graphicfusiondesign.com/design/creating-fancy-css3-fade-in-animations-on-page-load/));
 
 ### Javascript
 
