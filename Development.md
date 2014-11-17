@@ -7,6 +7,7 @@ Development
 Articles
 ---
 
+* 7 Principals of Rich Web Applications ([rauchg.com](http://rauchg.com/2014/7-principles-of-rich-web-applications/))
 * Best practices for RESTful services ([vinaysahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api))
 * Testing code is simple ([th3james.github](http://th3james.github.io/blog/2013/09/25/testing-code-is-simple/))
 * Learn C You Cheater ([medium.com](https://medium.com/tech-talk/afcfa2920c17))
