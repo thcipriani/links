@@ -47,6 +47,7 @@ Tools
 ---
 
 * US-AltGr-Intl Console Keymap ([max-klinger.org](http://max-klinger.org/projects/us-intl-keymap.php))
+* Keyboard Configuration in Console ([wiki.archlinux.org](https://wiki.archlinux.org/index.php/Keyboard_configuration_in_console))
 * About My Browser ([aboutmybrowser](https://aboutmybrowser.com/))
 * Codekit steroids for web developers ([incident57](http://incident57.com/codekit/))
 * Manage SSH Like a Boss ([emre.github](http://emre.github.io/storm/))
