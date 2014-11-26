@@ -118,6 +118,15 @@ Cryptography
 * Making Vim status lines that own (scrooloose)([got-ravings.blogspot.co.uk](http://got-ravings.blogspot.co.uk/2008/08/vim-pr0n-making-statuslines-that-own.html))
 * Vim Awesome ([vimawesome.com](http://vimawesome.com/))
 
+### Emacs
+
+* Mastering Emacs ([masteringemacs.org](http://www.masteringemacs.org/))
+* Eschewing Zshell for Emacs ([howardism.org](http://www.howardism.org/Technical/Emacs/eshell-fun.html))
+* TeemuLeisti-init.el ([emacswiki.org](http://www.emacswiki.org/emacs/TeemuLeisti-init.el))
+* Magit ([github.com](https://github.com/magit/magit#its-magit--an-emacs-mode-for-git))
+* Package Management in Emacs ([batsov.com](http://batsov.com/articles/2012/02/19/package-management-in-emacs-the-good-the-bad-and-the-ugly/))
+* Toward a Vim-like Emacs config ([nathantypanski.com](https://web.archive.org/web/20141126074454/http://nathantypanski.com/blog/2014-08-03-a-vim-like-emacs-config.html))
+
 ### Sublime Text
 
 * Vintagous ([guillermooo.bitbucket](http://guillermooo.bitbucket.org/Vintageous/))
@@ -237,6 +246,7 @@ Programming
 * You might not need jQuery ([youmightnotneedjquery.com](http://youmightnotneedjquery.com/))
 * Semicolons ([mislav.uniqpath.com](http://mislav.uniqpath.com/2010/05/semicolons/))
 * Deferred font style loading using localstorage ([gist.github.com](https://gist.github.com/hdragomir/8f00ce2581795fd7b1b7))
+* Conway's game of life in coffeescript ([ibm.com](http://www.ibm.com/developerworks/library/wa-coffeescriptcanvas/))
 
 ### Node
 
@@ -393,9 +403,13 @@ Sysadmin
 * Decentralizing Docker ([blog.ctl-c.io](http://blog.ctl-c.io/?p=43))
 * Integrating Docker, Jenkins CI and Rails ([powpark.com](http://www.powpark.com/blog/programming/2014/01/29/integrating-docker-with-jenkins-for-ruby-on-rails-app))
 * Deploy Redis-backed webapps with Docker ([tutsplus.com](http://code.tutsplus.com/tutorials/easily-deploy-redis-backed-web-apps-with-docker--cms-20405))
+* Docker at Shopify ([shopify.com](https://www.shopify.com/technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops))
 
 ## Linux
 
+* Boycott Systemd ([boycottsystemd.org](http://boycottsystemd.org/))
+* Rethinking PID 1 a.k.a systemd announcement ([http://0pointer.de](http://0pointer.de/blog/projects/systemd.html))
+* Ubilinux Debian for Edison ([emutexlabs.com](http://www.emutexlabs.com/ubilinux))
 * Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html))
 * Better Than Grep ([betterthangrep](http://betterthangrep.com))
 * Better Than Ack ([betterthanack](http://betterthanack.com))
