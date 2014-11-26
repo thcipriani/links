@@ -79,6 +79,11 @@ pagetitle: Design Links
 * Progress bar perceived duration ([chrisharrison](http://www.chrisharrison.net/projects/progressbars2/ProgressBarsHarrison.pdf))
 * Country selector autocomplete ([baymard.com](http://baymard.com/labs/country-selector))
 * Select2 jQuery textbox replacement ([github.io](https://ivaynberg.github.io/select2/))
+* Bulletproof International Telephone ([jackocnr.com](http://jackocnr.com/intl-tel-input.html))
+* Multiselects ([wenzhixin.net.cn](http://wenzhixin.net.cn/p/multiple-select/docs/))
+* Fancy credit card input ([github.com](https://github.com/jessepollak/card))
+* Custom Select Styles ([tympanus.net](http://tympanus.net/codrops/2014/07/10/inspiration-for-custom-select-elements/))
+* Cross-browser css-only custom select boxes ([jsbin.com](http://jsbin.com/yaruh/37/edit?html,output))
 
 ## Photography
 * Old-New Stock Photos ([nos.twnsnd](http://nos.twnsnd.co/))
