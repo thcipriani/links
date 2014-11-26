@@ -126,6 +126,7 @@ Cryptography
 * Magit ([github.com](https://github.com/magit/magit#its-magit--an-emacs-mode-for-git))
 * Package Management in Emacs ([batsov.com](http://batsov.com/articles/2012/02/19/package-management-in-emacs-the-good-the-bad-and-the-ugly/))
 * Toward a Vim-like Emacs config ([nathantypanski.com](https://web.archive.org/web/20141126074454/http://nathantypanski.com/blog/2014-08-03-a-vim-like-emacs-config.html))
+* Org Mode intro ([orgmode.org](http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html))
 
 ### Sublime Text
 
