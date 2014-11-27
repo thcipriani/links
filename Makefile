@@ -26,7 +26,7 @@ $(CSSDIR):
 $(GHPAGES):
 	git clone "$(REPO)" "$(GHPAGES)"
 	@(cd $(GHPAGES) && git checkout $(GHPAGES)) || (cd $(GHPAGES) && git checkout --orphan $(GHPAGES) && git rm -rf .)
-	@if [ "$(CHANGED)x" != 'x' ]; then \
+	@if [ -n "$(CHANGED)" ]; then \
 		touch $(CHANGED); \
 	else\
 		echo "No changed files found try 'make gh-pages/*.html'";\

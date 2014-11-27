@@ -8,3 +8,8 @@ In an effort to _not_ have 100+ tabs open&hellip;
 * [Business](Business.html)
 * [Fun](Fun.html)
 
+* * *
+
+* [Readlist](Readlist.html)
+* [Watchlist](Watchlist.html)
+* [Wishlist](Wishlist.html)
