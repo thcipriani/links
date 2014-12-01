@@ -31,6 +31,7 @@ Articles
 * The Borg and Mesos ([theverge.com](http://www.theverge.com/2013/3/6/4070500/inside-twitter-mesos-and-google-borg-data-center-tools))
 * Visualizing Algorithms ([http://bost.ocks.org](http://bost.ocks.org/mike/algorithms/))
 * Personal Names Around the World ([w3.org](http://www.w3.org/International/questions/qa-personal-names.en.php))
+* HTTP API Design Guide ([github.com](https://github.com/interagent/http-api-design))
 
 Books
 ---
@@ -385,6 +386,7 @@ Sysadmin
 * ChefSpec ([sethvargo.com](http://code.sethvargo.com/chefspec/))
 * The Environment Cookbook Patters ([vialstudios.com](http://blog.vialstudios.com/the-environment-cookbook-pattern/))
 * Chef for rails devs ([gotealaf.com](http://www.gotealeaf.com/blog/chef-basics-for-rails-developers))
+* Writing your first chef recipe ([reiddraper.com](http://reiddraper.com/first-chef-recipe/)
 
 ### Ansible
 

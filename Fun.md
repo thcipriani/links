@@ -100,6 +100,7 @@ pagetitle: Fun Zone
 
 ## Random
 
+* The Book of Life ([thebookoflife.org](http://www.thebookoflife.org/))
 * Wikipedia Records ([wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_records))
 * IMDB top 100,000 Movies Analysis ([bugra.github.io](https://bugra.github.io/work/notes/2014-02-15/imdb-top-100K-movies-analysis-in-depth-part-1/))
 * You're probably using the wrong dictionary ([jsomers.net](http://jsomers.net/blog/dictionary))
