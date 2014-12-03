@@ -224,7 +224,7 @@ Programming
 ### Javascript
 
 * Stanford Javascript Crypto Library ([bitwiseshiftleft.github.io](https://bitwiseshiftleft.github.io/sjcl/))
-* Removing UI Complexity ([jlongster.com](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome))
+* Removing UI Complexity (a.k.a, why react is awesome) ([jlongster.com](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome))
 * Analyzing network characteristics in the DOM ([smashingmagazine](http://coding.smashingmagazine.com/2011/11/14/analyzing-network-characteristics-using-javascript-and-the-dom-part-1/))
 * Determine if a string contains another string ([designpepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches))
 * iOS supported JS Events ([developer.apple](http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5))
@@ -277,6 +277,8 @@ Programming
 * CSS Application Architecture Video ([vimeo](http://vimeo.com/74359951))
 * On Utility Classes ([davidtheclark.com](http://davidtheclark.com/on-utility-classes/))
 * Scalable CSS Reading List ([github.com](https://github.com/davidtheclark/scalable-css-reading-list));
+* CSSStats ([cssstats.com](http://cssstats.com/))
+* Keeping CSS Short with currentColor ([osvaldas.info](http://osvaldas.info/keeping-css-short-with-currentcolor))
 
 ### Ruby
 
@@ -460,6 +462,7 @@ Sysadmin
 * Linux Performance ([brendangregg.com](http://brendangregg.com/linuxperf.html))
 * Unix wildcards gone wild ([defensecode.com](http://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt))
 * Dynamically setting colors in xterm (xterm party) ([rcr.io](http://rcr.io/words/dynamic-xterm-colors.html))
+* SSH Agent Forwarding is a Bug ([lyte.id.au](http://blog.lyte.id.au/2012/03/19/ssh-agent-forwarding-is-a-bug/))
 
 ### Desktop Linux
 
