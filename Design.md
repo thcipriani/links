@@ -85,6 +85,7 @@ pagetitle: Design Links
 * Fancy credit card input ([github.com](https://github.com/jessepollak/card))
 * Custom Select Styles ([tympanus.net](http://tympanus.net/codrops/2014/07/10/inspiration-for-custom-select-elements/))
 * Cross-browser css-only custom select boxes ([jsbin.com](http://jsbin.com/yaruh/37/edit?html,output))
+* JQuery Menu Aim ([github.com](https://github.com/kamens/jQuery-menu-aim))
 
 ## Photography
 * Old-New Stock Photos ([nos.twnsnd](http://nos.twnsnd.co/))
