@@ -12,3 +12,4 @@ Reading List
 *  DFW 1994 Syllabus ([link]( http://www.openculture.com/2013/02/david_foster_wallaces_1994_syllabus.html))
 *  The internet remembers too much ([link]( http://idlewords.com/bt14.htm))
 *  surveillance law ([link]( https://www.coursera.org/course/surveillance))
+*  The Saddest Thing I Know about the Integers ([link]( http://blogs.scientificamerican.com/roots-of-unity/2014/11/30/the-saddest-thing-i-know-about-the-integers/))

@@ -11,3 +11,4 @@ Wish List
 *  Plate 22, Sheet 7, Ancient Courses Mississippi River Meander Belt ([link]( http://www.youshouldbuyart.com/collections/vintage-editions/products/plate-22-sheet-7-ancient-courses-mississippi-river-meander-belt))
 *  jd40 keyboard ([link]( https://ctrlalt.io/store/items/jd40))
 *  Wichita Flag ([link]( http://www.cvsflags.com/viewcity.cfm?CF=Wichita&gclid=CMS45o6fgsICFYo-MgodKlYAMw))
+*  Batteries Not Included Puzzle ([link]( http://www.libertypuzzles.com/shop/detail/id/689))

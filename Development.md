@@ -31,6 +31,7 @@ Articles
 * The Borg and Mesos ([theverge.com](http://www.theverge.com/2013/3/6/4070500/inside-twitter-mesos-and-google-borg-data-center-tools))
 * Visualizing Algorithms ([http://bost.ocks.org](http://bost.ocks.org/mike/algorithms/))
 * Personal Names Around the World ([w3.org](http://www.w3.org/International/questions/qa-personal-names.en.php))
+* HTTP API Design Guide ([github.com](https://github.com/interagent/http-api-design))
 
 Books
 ---
@@ -117,6 +118,16 @@ Cryptography
 * Ack.vim ([github](https://github.com/mileszs/ack.vim))
 * Making Vim status lines that own (scrooloose)([got-ravings.blogspot.co.uk](http://got-ravings.blogspot.co.uk/2008/08/vim-pr0n-making-statuslines-that-own.html))
 * Vim Awesome ([vimawesome.com](http://vimawesome.com/))
+
+### Emacs
+
+* Mastering Emacs ([masteringemacs.org](http://www.masteringemacs.org/))
+* Eschewing Zshell for Emacs ([howardism.org](http://www.howardism.org/Technical/Emacs/eshell-fun.html))
+* TeemuLeisti-init.el ([emacswiki.org](http://www.emacswiki.org/emacs/TeemuLeisti-init.el))
+* Magit ([github.com](https://github.com/magit/magit#its-magit--an-emacs-mode-for-git))
+* Package Management in Emacs ([batsov.com](http://batsov.com/articles/2012/02/19/package-management-in-emacs-the-good-the-bad-and-the-ugly/))
+* Toward a Vim-like Emacs config ([nathantypanski.com](https://web.archive.org/web/20141126074454/http://nathantypanski.com/blog/2014-08-03-a-vim-like-emacs-config.html))
+* Org Mode intro ([orgmode.org](http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html))
 
 ### Sublime Text
 
@@ -213,7 +224,7 @@ Programming
 ### Javascript
 
 * Stanford Javascript Crypto Library ([bitwiseshiftleft.github.io](https://bitwiseshiftleft.github.io/sjcl/))
-* Removing UI Complexity ([jlongster.com](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome))
+* Removing UI Complexity (a.k.a, why react is awesome) ([jlongster.com](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome))
 * Analyzing network characteristics in the DOM ([smashingmagazine](http://coding.smashingmagazine.com/2011/11/14/analyzing-network-characteristics-using-javascript-and-the-dom-part-1/))
 * Determine if a string contains another string ([designpepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches))
 * iOS supported JS Events ([developer.apple](http://developer.apple.com/library/ios/#DOCUMENTATION/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html#//apple_ref/doc/uid/TP40006511-SW5))
@@ -237,6 +248,7 @@ Programming
 * You might not need jQuery ([youmightnotneedjquery.com](http://youmightnotneedjquery.com/))
 * Semicolons ([mislav.uniqpath.com](http://mislav.uniqpath.com/2010/05/semicolons/))
 * Deferred font style loading using localstorage ([gist.github.com](https://gist.github.com/hdragomir/8f00ce2581795fd7b1b7))
+* Conway's game of life in coffeescript ([ibm.com](http://www.ibm.com/developerworks/library/wa-coffeescriptcanvas/))
 
 ### Node
 
@@ -265,6 +277,8 @@ Programming
 * CSS Application Architecture Video ([vimeo](http://vimeo.com/74359951))
 * On Utility Classes ([davidtheclark.com](http://davidtheclark.com/on-utility-classes/))
 * Scalable CSS Reading List ([github.com](https://github.com/davidtheclark/scalable-css-reading-list));
+* CSSStats ([cssstats.com](http://cssstats.com/))
+* Keeping CSS Short with currentColor ([osvaldas.info](http://osvaldas.info/keeping-css-short-with-currentcolor))
 
 ### Ruby
 
@@ -374,6 +388,7 @@ Sysadmin
 * ChefSpec ([sethvargo.com](http://code.sethvargo.com/chefspec/))
 * The Environment Cookbook Patters ([vialstudios.com](http://blog.vialstudios.com/the-environment-cookbook-pattern/))
 * Chef for rails devs ([gotealaf.com](http://www.gotealeaf.com/blog/chef-basics-for-rails-developers))
+* Writing your first chef recipe ([reiddraper.com](http://reiddraper.com/first-chef-recipe/)
 
 ### Ansible
 
@@ -393,9 +408,13 @@ Sysadmin
 * Decentralizing Docker ([blog.ctl-c.io](http://blog.ctl-c.io/?p=43))
 * Integrating Docker, Jenkins CI and Rails ([powpark.com](http://www.powpark.com/blog/programming/2014/01/29/integrating-docker-with-jenkins-for-ruby-on-rails-app))
 * Deploy Redis-backed webapps with Docker ([tutsplus.com](http://code.tutsplus.com/tutorials/easily-deploy-redis-backed-web-apps-with-docker--cms-20405))
+* Docker at Shopify ([shopify.com](https://www.shopify.com/technology/15934308-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops))
 
 ## Linux
 
+* Boycott Systemd ([boycottsystemd.org](http://boycottsystemd.org/))
+* Rethinking PID 1 a.k.a systemd announcement ([http://0pointer.de](http://0pointer.de/blog/projects/systemd.html))
+* Ubilinux Debian for Edison ([emutexlabs.com](http://www.emutexlabs.com/ubilinux))
 * Why GNU Grep is Fast ([lists.freebsd](http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html))
 * Better Than Grep ([betterthangrep](http://betterthangrep.com))
 * Better Than Ack ([betterthanack](http://betterthanack.com))
@@ -443,6 +462,7 @@ Sysadmin
 * Linux Performance ([brendangregg.com](http://brendangregg.com/linuxperf.html))
 * Unix wildcards gone wild ([defensecode.com](http://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt))
 * Dynamically setting colors in xterm (xterm party) ([rcr.io](http://rcr.io/words/dynamic-xterm-colors.html))
+* SSH Agent Forwarding is a Bug ([lyte.id.au](http://blog.lyte.id.au/2012/03/19/ssh-agent-forwarding-is-a-bug/))
 
 ### Desktop Linux
 
