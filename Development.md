@@ -32,6 +32,7 @@ Articles
 * Visualizing Algorithms ([http://bost.ocks.org](http://bost.ocks.org/mike/algorithms/))
 * Personal Names Around the World ([w3.org](http://www.w3.org/International/questions/qa-personal-names.en.php))
 * HTTP API Design Guide ([github.com](https://github.com/interagent/http-api-design))
+* D-Note – Self destructing, encrypted anonymous notes ([pthree.org](https://pthree.org/2014/06/09/officially-announcing-d-note-version-1-0/))
 
 Books
 ---
@@ -201,6 +202,7 @@ Programming
 * Python Practice Projects ([pythonpracticeprojects](http://pythonpracticeprojects.com/command-line-parser.html))
 * Invent with Python ([inventwithpython.com](http://inventwithpython.com/hacking/chapters/))
 * Python for Bash Scripters ([redhat.com](http://magazine.redhat.com/2008/02/07/python-for-bash-scripters-a-well-kept-secret/))
+* Guide to Python Function Decorators ([thecodeship.com](http://thecodeship.com/patterns/guide-to-python-function-decorators/))
 
 ### HTML5/CSS3
 
@@ -261,6 +263,7 @@ Programming
 * VNC client with angular and yeoman ([mgechev.com](http://blog.mgechev.com/2014/02/08/remote-desktop-vnc-client-with-angularjs-and-yeoman/))
 
 ### CSS
+
 * CSS Guidelines ([github.com](https://github.com/csswizardry/CSS-Guidelines))
 * Idomatic CSS ([github.com](https://github.com/necolas/idiomatic-css))
 * Github's CSS Performance ([vimeo.com](http://vimeo.com/54990931))
@@ -296,6 +299,7 @@ Programming
 * Chrome as IDE for Rails app ([tech.pro](http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1))
 * Deploy a Sinatra Site on a VPS ([codylittlewood](http://codylittlewood.com/build-and-deploy-ruby-microsite-with-sinatra/))
 * Huginn: Yahoo! Pipes + IFTTT on your own server ([github](https://github.com/cantino/huginn))
+* `$: <<` Dollar-sign push/angle-bracket angle-bracket in ruby ([stackoverflow](https://stackoverflow.com/questions/10372880/what-does-push-do-in-ruby))
 
 ### C
 * Basics of Function Pointers in C ([denniskubes.com](http://denniskubes.com/2013/03/22/basics-of-function-pointers-in-c/))
@@ -536,6 +540,7 @@ Databases
 * Extended display with pager FINALLY! ([lopsa.org](https://lopsa.org/content/postgres-tip-fix-column-smearing-and-stop-squinting-psql-extended-display))
 * Better Id generator for PostgreSQL ([wekeroad.com](http://www.wekeroad.com/2014/05/29/a-better-id-generator-for-postgresql/))
 * Foreign Keys are not free ([bonesmoses.org](http://bonesmoses.org/2014/05/14/foreign-keys-are-not-free/))
+* Representing Trees in Postgres ([woss.name](http://woss.name/articles/representing-trees-in-postgresql/))
 
 ### MongoDB
 
