@@ -498,6 +498,7 @@ Sysadmin
 * GPG on Ubuntu 12.04 ([digitalocean](https://www.digitalocean.com/community/articles/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps))
 * Where to store gpg key ([stackexchage](http://security.stackexchange.com/questions/51771/where-do-you-store-your-personal-private-gpg-key))
 * paperback ([github](http://ollydbg.de/Paperbak/))
+* Key Signing Party ([wiki.ubuntu.com](https://wiki.ubuntu.com/KeySigningParty))
 
 ## Apple Mac OSX
 
