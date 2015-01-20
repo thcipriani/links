@@ -7,6 +7,7 @@ Development
 Articles
 ---
 
+* How to break into security ([krebsonsecurity.com](http://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/#more-15594))
 * 7 Principals of Rich Web Applications ([rauchg.com](http://rauchg.com/2014/7-principles-of-rich-web-applications/))
 * Best practices for RESTful services ([vinaysahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api))
 * Testing code is simple ([th3james.github](http://th3james.github.io/blog/2013/09/25/testing-code-is-simple/))
@@ -285,6 +286,7 @@ Programming
 
 ### Ruby
 
+* Ruby Tapas Screencasts ([rubytapas.com](http://www.rubytapas.com/))
 * Turn a Rails app into a Debian Package in Minutes ([discuss.gemnasium](https://discuss.gemnasium.com/t/pkgr-make-a-package-out-of-a-rails-app-in-5-minutes/59))
 * Distributing command line applications—from ruby to go ([codegangsta.io](http://codegangsta.io/blog/2013/07/21/creating-cli-applications-in-go))
 * Localtunnel—share your localhost ([progrium.com](http://progrium.com/localtunnel/))
@@ -311,10 +313,12 @@ Programming
 ### Java
 * Java for Python programmers ([interactivepython.org](http://interactivepython.org/runestone/static/java4python/index.html))
 * Java Sucks ([jwz.org](http://www.jwz.org/doc/java.html))
+* An Opinionated Guide to Modern Java Development ([paralleluniverse.co](http://blog.paralleluniverse.co/2014/05/01/modern-java/))
 
 ### Clojure
 
 * A Brief Beginner's Guide to Clojure ([unexpected-voices.com](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/))
+* Clojure for the Brave and True ([braveclojure.com](http://www.braveclojure.com/))
 
 ### Objective C
 * NYTimes Objective-C Style Guide ([github](https://github.com/NYTimes/objective-c-style-guide))
@@ -337,6 +341,8 @@ Programming
 * Learn how to program perl ([lernhowtoprogramperl.info](http://learnhowtoprogramperl.info/))
 * Renaming Nikon RAW images with perl ([martin-evans.me.uk](http://www.martin-evans.me.uk/node/168))
 * Why perl didn't win ([outspeaking.com](http://outspeaking.com/words-of-technology/why-perl-didnt-win.html))
+* Photo of the day helper script ([plix.at](http://domm.plix.at/perl/2015_01_potd_helper_script.html))
+* Kiss Kiss Shebang Shebang ([perl.org](http://blogs.perl.org/users/buddy_burden/2015/01/kiss-kiss-shebang-shebang.html))
 
 ### Haskell
 
@@ -416,6 +422,7 @@ Sysadmin
 
 ## Linux
 
+* Sync, a Unix way ([darkcoding.net](http://www.darkcoding.net/software/sync-a-unix-way/))
 * Boycott Systemd ([boycottsystemd.org](http://boycottsystemd.org/))
 * Rethinking PID 1 a.k.a systemd announcement ([http://0pointer.de](http://0pointer.de/blog/projects/systemd.html))
 * Ubilinux Debian for Edison ([emutexlabs.com](http://www.emutexlabs.com/ubilinux))
