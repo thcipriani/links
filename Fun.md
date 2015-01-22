@@ -99,8 +99,13 @@ pagetitle: Fun Zone
 * Coffee Experiments ([drbunsen](http://www.drbunsen.org/coffee-experiments/))
 * Tonx Gift Guide ([tonx.org](https://tonx.org/frequency/gift-guide))
 
+## Photography
+
+* New York at 7.5K ft ([storehouse.co](https://www.storehouse.co/stories/r3rcy-gotham-7-5k))
+
 ## Random
 
+* Retina 3K Projector ([allinabox.com](http://forum.allinbox.com/aspectgeek/Projetsencours/18/photon3k-projector-2880x1800-sujet_9774_1.htm))
 * The Book of Life ([thebookoflife.org](http://www.thebookoflife.org/))
 * Wikipedia Records ([wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_records))
 * IMDB top 100,000 Movies Analysis ([bugra.github.io](https://bugra.github.io/work/notes/2014-02-15/imdb-top-100K-movies-analysis-in-depth-part-1/))

@@ -10,11 +10,10 @@ CSSDIR  = $(GHPAGES)/css
 CSSFILE = $(CSSDIR)/main.css
 
 INDEXFILE = $(GHPAGES)/index.html
-CHANGED := $(shell git status --porcelain | cut -c4- | grep .md)
 
-all: init clean $(GHPAGES) $(CSSFILE) $(addprefix $(GHPAGES)/, $(addsuffix .html, $(basename $(wildcard *.md))))
+all: init clean $(addprefix $(GHPAGES)/, $(addsuffix .html, $(basename $(wildcard *.md))))
 
-$(GHPAGES)/%.html: %.md
+$(GHPAGES)/%.html: %.md $(GHPAGES) $(CSSFILE)
 	pandoc -s --template "_layout" -c "css/main.css" -f markdown -t html5 -o "$@" "$<"
 
 $(CSSFILE): $(CSSDIR) $(LESSFILE)
@@ -26,11 +25,7 @@ $(CSSDIR):
 $(GHPAGES):
 	git clone "$(REPO)" "$(GHPAGES)"
 	@(cd $(GHPAGES) && git checkout $(GHPAGES)) || (cd $(GHPAGES) && git checkout --orphan $(GHPAGES) && git rm -rf .)
-	@if [ -n "$(CHANGED)" ]; then \
-		touch $(CHANGED); \
-	else\
-		echo "No changed files found try 'make gh-pages/*.html'";\
-	fi
+	@touch `git status --porcelain | cut -c4- | grep .md`
 
 init:
 	@command -v pandoc > /dev/null 2>&1 || (echo 'pandoc not found http://johnmacfarlane.net/pandoc/installing.html' && exit 1)

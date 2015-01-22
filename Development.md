@@ -422,6 +422,7 @@ Sysadmin
 
 ## Linux
 
+* Awk in 20 mins ([ferd.ca](http://ferd.ca/awk-in-20-minutes.html))
 * Sync, a Unix way ([darkcoding.net](http://www.darkcoding.net/software/sync-a-unix-way/))
 * Boycott Systemd ([boycottsystemd.org](http://boycottsystemd.org/))
 * Rethinking PID 1 a.k.a systemd announcement ([http://0pointer.de](http://0pointer.de/blog/projects/systemd.html))
