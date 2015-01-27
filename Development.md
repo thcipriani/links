@@ -94,6 +94,9 @@ Cryptography
 * Beautify your WeeChat ([dev.weechat](http://dev.weechat.org/post/2011/08/28/Beautify-your-WeeChat))
 * IRC Tutorial ([irchelp](http://www.irchelp.org/irchelp/irctutorial.html))
 * IRC Stuffs ([pascalpoitras](http://pascalpoitras.com/category/irc))
+* Perfect Irssi setup ([antonfagerberg.com](http://www.antonfagerberg.com/texts/my-perfect-irssi-setup/))
+* WeeChat on a server for IRC backlogs ([robots.thoughtbot.com](http://robots.thoughtbot.com/running-weechat-on-a-server-for-irc-backlogs))
+* How to idle on IRC ([bisqwit.iki.fi](http://bisqwit.iki.fi/jutut/away.html))
 
 ### Vim
 
