@@ -68,6 +68,7 @@ pagetitle: Design Links
 * Compose a vertical rhythm ([24ways](http://24ways.org/2006/compose-to-a-vertical-rhythm/))
 * I Love Ligatures ([iloveligatures.tumblr.com](http://iloveligatures.tumblr.com/))
 * Flowtype.js ([simplefocus.com](http://simplefocus.com/flowtype/))
+* The Raster Tragedy at Low-Resolution Revisited ([rastertragedy.com](http://www.rastertragedy.com/))
 
 ## Lettering
 
