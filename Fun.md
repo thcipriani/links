@@ -57,6 +57,8 @@ pagetitle: Fun Zone
 ## Games
 
 * Ruby Atari 2600 Emulator ([github](https://github.com/chesterbr/ruby2600))
+* Kerbal Space Program ([kerbalspaceprogram.com](https://kerbalspaceprogram.com))
+* Earth: A Primer ([earthprimer.com](http://www.earthprimer.com/))
 
 ## Videos
 
@@ -105,6 +107,7 @@ pagetitle: Fun Zone
 
 ## Random
 
+* Motorola Moto E Modifications—ioerror ([torproject.org](https://people.torproject.org/~ioerror/skunkworks/moto_e/))
 * Retina 3K Projector ([allinabox.com](http://forum.allinbox.com/aspectgeek/Projetsencours/18/photon3k-projector-2880x1800-sujet_9774_1.htm))
 * The Book of Life ([thebookoflife.org](http://www.thebookoflife.org/))
 * Wikipedia Records ([wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_records))

@@ -46,6 +46,7 @@ Books
 * List of freely available programming books ([stackoverflow](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926l))
 * Book Pr0n ([i.imgur](http://i.imgur.com/1mQOZg9.jpg))
 * Learn X in Y Minutes ([github](https://github.com/adambard/learnxinyminutes-docs))
+* An Introduction to Computer Networks ([intronetworks.cs.luc.edu](http://intronetworks.cs.luc.edu/current/ComputerNetworks.pdf))
 
 Tools
 ---
@@ -70,6 +71,7 @@ Tools
 * Incorporated Jekyll Template ([incorporated](http://incorporated.sendtoinc.com/))
 * nfu - Numeric Fu for your Shell ([github](https://github.com/spencertipping/nfu)
 * XIP.IO Wildcard DNS for everyone ([xip.io](http://xip.io/))
+* Duplicity + S3 ([rtcamp.com](https://rtcamp.com/tutorials/backups/duplicity-amazon-s3/))
 
 Cryptography
 ---
