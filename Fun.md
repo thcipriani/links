@@ -107,6 +107,7 @@ pagetitle: Fun Zone
 
 ## Random
 
+* Paper sizes ([royvanrijn.com](http://www.royvanrijn.com/blog/2015/02/paper-sizes/))
 * Motorola Moto E Modifications—ioerror ([torproject.org](https://people.torproject.org/~ioerror/skunkworks/moto_e/))
 * Retina 3K Projector ([allinabox.com](http://forum.allinbox.com/aspectgeek/Projetsencours/18/photon3k-projector-2880x1800-sujet_9774_1.htm))
 * The Book of Life ([thebookoflife.org](http://www.thebookoflife.org/))
