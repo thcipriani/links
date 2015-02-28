@@ -72,6 +72,8 @@ Tools
 * nfu - Numeric Fu for your Shell ([github](https://github.com/spencertipping/nfu)
 * XIP.IO Wildcard DNS for everyone ([xip.io](http://xip.io/))
 * Duplicity + S3 ([rtcamp.com](https://rtcamp.com/tutorials/backups/duplicity-amazon-s3/))
+* Mastering git submodules ([medium.com](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407))
+* Rebase vs merge ([medium.com](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa))
 
 Cryptography
 ---
