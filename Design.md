@@ -87,6 +87,7 @@ pagetitle: Design Links
 * Custom Select Styles ([tympanus.net](http://tympanus.net/codrops/2014/07/10/inspiration-for-custom-select-elements/))
 * Cross-browser css-only custom select boxes ([jsbin.com](http://jsbin.com/yaruh/37/edit?html,output))
 * JQuery Menu Aim ([github.com](https://github.com/kamens/jQuery-menu-aim))
+* Awesomeplete by Lea Verou ([leaverou.github.io](https://leaverou.github.io/awesomplete/))
 
 ## Photography
 * Old-New Stock Photos ([nos.twnsnd](http://nos.twnsnd.co/))
