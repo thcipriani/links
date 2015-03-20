@@ -7,6 +7,7 @@ Development
 Articles
 ---
 
+* HAKMEM ([dspace.mit.edu](http://dspace.mit.edu/handle/1721.1/6086))
 * How to break into security ([krebsonsecurity.com](http://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/#more-15594))
 * 7 Principals of Rich Web Applications ([rauchg.com](http://rauchg.com/2014/7-principles-of-rich-web-applications/))
 * Best practices for RESTful services ([vinaysahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api))
@@ -379,7 +380,7 @@ Sysadmin
 * LAMP stack on Debian ([yesdevnull](http://yesdevnull.net/2014/01/setting-up-a-lamp-stack-on-debian-my-way/))
 * Immutable Infrastructure Practical or Not ([getchef.com](http://www.getchef.com/blog/2014/06/23/immutable-infrastructure-practical-or-not/))
 * Go for systems adminstrators ([blog.lusis.org](http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/))
-
+* Distributed caching with Memcached ([linuxjournal.com](http://www.linuxjournal.com/article/7451?page=0,0))
 
 ### Vagrant
 
