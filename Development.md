@@ -205,6 +205,7 @@ Programming
 
 ### Python
 
+* Beginners Guide : pip and virtualenv ([mahdiyusuf.com](http://www.mahdiyusuf.com/post/5282169518/beginners-guide-easy-install-pip-and-virtualenv-1))
 * GMail for Python ([github.com](https://github.com/charlierguo/gmail))
 * Learning Python in one weekend ([stackoverflow](http://stackoverflow.com/questions/2682561/learning-python-in-one-weekend))
 * Python for sysadmin ([pythonforbeginners](http://www.pythonforbeginners.com/systems-programming/python-system-administration/))
