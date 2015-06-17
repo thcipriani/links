@@ -13,3 +13,4 @@ Reading List
 *  The internet remembers too much ([link]( http://idlewords.com/bt14.htm))
 *  surveillance law ([link]( https://www.coursera.org/course/surveillance))
 *  The Saddest Thing I Know about the Integers ([link]( http://blogs.scientificamerican.com/roots-of-unity/2014/11/30/the-saddest-thing-i-know-about-the-integers/))
+*  ZeroMQ: The Design of Messaging Middleware ([link]( http://www.drdobbs.com/architecture-and-design/zeromq-the-design-of-messaging-middlewar/240165684?pgno=1))
