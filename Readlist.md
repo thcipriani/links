@@ -15,4 +15,3 @@ Reading List
 *  The Saddest Thing I Know about the Integers ([link]( http://blogs.scientificamerican.com/roots-of-unity/2014/11/30/the-saddest-thing-i-know-about-the-integers/))
 *  ZeroMQ: The Design of Messaging Middleware ([link]( http://www.drdobbs.com/architecture-and-design/zeromq-the-design-of-messaging-middlewar/240165684?pgno=1))
 *  The Future of Leap Seconds ([link]( http://www.ucolick.org/~sla/leapsecs/onlinebib.html))
-*  The Future of Leap Seconds ([link]( http://www.ucolick.org/~sla/leapsecs/onlinebib.html))
