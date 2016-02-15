@@ -1,11 +1,6 @@
----
 pagetitle: dev stuffs
 ---
-Development
-===
-
-Articles
----
+## Articles
 
 * HAKMEM ([dspace.mit.edu](http://dspace.mit.edu/handle/1721.1/6086))
 * How to break into security ([krebsonsecurity.com](http://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/#more-15594))
@@ -36,8 +31,7 @@ Articles
 * HTTP API Design Guide ([github.com](https://github.com/interagent/http-api-design))
 * D-Note – Self destructing, encrypted anonymous notes ([pthree.org](https://pthree.org/2014/06/09/officially-announcing-d-note-version-1-0/))
 
-Books
----
+## Books
 
 * Unix and linux System Administration Handbook ([admin.com](http://admin.com/))
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
@@ -49,8 +43,7 @@ Books
 * Learn X in Y Minutes ([github](https://github.com/adambard/learnxinyminutes-docs))
 * An Introduction to Computer Networks ([intronetworks.cs.luc.edu](http://intronetworks.cs.luc.edu/current/ComputerNetworks.pdf))
 
-Tools
----
+## Tools
 
 * US-AltGr-Intl Console Keymap ([max-klinger.org](http://max-klinger.org/projects/us-intl-keymap.php))
 * Keyboard Configuration in Console ([wiki.archlinux.org](https://wiki.archlinux.org/index.php/Keyboard_configuration_in_console))
@@ -76,8 +69,7 @@ Tools
 * Mastering git submodules ([medium.com](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407))
 * Rebase vs merge ([medium.com](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa))
 
-Cryptography
----
+## Cryptography
 
 * Matasano Crypto Challenges ([cryptopals.com](http://cryptopals.com/))
 
@@ -169,8 +161,7 @@ Cryptography
 * Personalized Bulk Email using Google ([github.com](https://github.com/danielsz/mmailer))
 * Responsive HTML Emails ([github/zurb](https://github.com/zurb/ink))
 
-Programming
----
+## Programming
 
 ### PHP
 
@@ -214,7 +205,7 @@ Programming
 * Python for Bash Scripters ([redhat.com](http://magazine.redhat.com/2008/02/07/python-for-bash-scripters-a-well-kept-secret/))
 * Guide to Python Function Decorators ([thecodeship.com](http://thecodeship.com/patterns/guide-to-python-function-decorators/))
 
-### HTML5/CSS3
+### HTML5-CSS3
 
 * Fun with the HTML <image> tag ([jakearchibald.com](http://jakearchibald.com/2013/having-fun-with-image/))
 * Client-side Storage Options ([tech.pro](http://tech.pro/blog/1486/client-side-storage-options))
@@ -232,6 +223,11 @@ Programming
 * Single Responsibility Principal for CSS ([drewbarontini.com](http://drewbarontini.com/articles/single-responsibility/))
 * CSS is not an angular measurement and it is not linear ([omnicognate.wordpress.com](http://omnicognate.wordpress.com/2013/01/07/in-css-px-is-not-an-angular-measurement-and-it-is-not-non-linear/))
 * CSS3 FadeIn on Load ([graphicfusiondesign.com](https://graphicfusiondesign.com/design/creating-fancy-css3-fade-in-animations-on-page-load/));
+* W3C Section (http://www.w3.org/wiki/HTML/Elements/section) used for grouping thematically related content. 
+* W3C Div (http://www.w3.org/wiki/HTML/Elements/div) "has no meaning at all"
+* Is all the content related [Jeremy Kieth](http://www.abookapart.com/products/html5-for-web-designers)
+
+
 
 ### Javascript
 
@@ -364,8 +360,7 @@ Programming
 * Deb Multimedia Repo ([deb-multimedia](http://www.deb-multimedia.org/))
 * Experimental Music Player ([wothke](http://www.wothke.ch/experimental/TinyJsSid.html))
 
-Sysadmin
----
+## Sysadmin
 
 * Heirarchy of DevOps Needs ([kickstarter.com](https://www.kickstarter.com/backing-and-hacking/hierarchy-of-devops-needs))
 * My First 5 Minutes on a Server ([plusbryan](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers#))
@@ -533,8 +528,7 @@ Sysadmin
 * Useful command-line commands ([serverfault.com](http://serverfault.com/questions/3780/useful-command-line-commands-on-windows/))
 * Scott Hanselman's Power Users Tool List ([http://www.hanselman.com/tools](http://www.hanselman.com/tools))
 
-Databases
----
+## Databases
 
 ### SQL
 * 10 Steps to a complete understanding of SQL ([tech.pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql))
@@ -574,16 +568,3 @@ Databases
 * GNU RCS ([gnu.org](http://www.gnu.org/software/rcs/))
 * TCL Tutorial ([tcl](http://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html))
 * Mod TCL ([apache.org](http://tcl.apache.org/mod_tcl/))
-
-## Snippets
-
-* CSS Ligatures
-
-    ```CSS
-    font-variant-ligatures:common-ligatures additionalligatures;
-    -webkit-font-feature-settings:"liga", "dlig"; 
-       -moz-font-feature-settings:"liga=1, dlig=1"; 
-        -ms-font-feature-settings:"liga", "dlig"; 
-         -o-font-feature-settings:"liga", "dlig"; 
-            font-feature-settings:"liga", "dlig";
-    ```

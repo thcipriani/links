@@ -1,9 +1,7 @@
----
 pagetitle: Fun Zone
 ---
-#Fun.
 
-## Bash/Terminal
+## Terminal
 
 * The Useless Use of `cat` Award ([partmaps](http://partmaps.org/era/unix/award.html#cat))
 * Terminal Keynote (Ruby) ([github](https://github.com/fxn/tkn))

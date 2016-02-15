@@ -1,7 +1,5 @@
----
 pagetitle: Bidness
 ---
-#Work/Business
 
 * Dropbox's 2007 Y Combinator Application ([dropbox](http://dl.dropboxusercontent.com/u/27532820/app.html))
 

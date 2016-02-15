@@ -1,9 +1,7 @@
----
 pagetitle: Design Links
 ---
-# Design Links
 
-## Inspirations
+## Inspiration
 
 * Code for America Style Guide ([codeforamerica.org](http://style.codeforamerica.org/))
 * Yelp Style Guide ([yelp.com](http://engineeringblog.yelp.com/2014/02/yelps-got-style-and-the-guide-to-back-it-up.html))

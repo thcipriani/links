@@ -1,16 +1,5 @@
-# Tyler Cipriani's Bookmarks
+Archived
+===
 
-In an effort to _not_ have 100+ tabs open&hellip;
-
-* [My Photography](http://www.flickr.com/photos/tylercipriani/)
-* [Design](Design.md)
-* [Development](Development.md)
-* [Business](Business.md)
-* [Fun](Fun.md)
-
-* * *
-
-* [Readlist](Readlist.md)
-* [Watchlist](Watchlist.md)
-* [Wishlist](Wishlist.md)
-
+I have moved all my links to [pinboard.in](https://pinboard.in/u:thcipriani)
+using the `pinboard-push.py` file in this repo.
